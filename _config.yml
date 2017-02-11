@@ -41,14 +41,14 @@ c4sponsorsUrl: "TODO: /assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
 # - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Rozkład"}
- - {permalink: "/speakers/", text: "Prelegenci"}
- - {permalink: "/team/", text: "Zespół"}
- - {permalink: "/logistics/", text: "Logistyka"}
-bottomNavigationLinks:
- - {link: "", text: "Zostań prelegentem"}
-rightNavigationButtons:
- - {link: "", text: "Zostań prelegentem"}
+# - {permalink: "/schedule/", text: "Rozkład"}
+# - {permalink: "/speakers/", text: "Prelegenci"}
+# - {permalink: "/team/", text: "Zespół"}
+# - {permalink: "/logistics/", text: "Logistyka"}
+#bottomNavigationLinks:
+# - {link: "", text: "Zostań prelegentem"}
+#rightNavigationButtons:
+# - {link: "", text: "Zostań prelegentem"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -56,9 +56,9 @@ heroTitle: "RZEmiosło.IT <typeout> 2017"
 eventDate: "27 maja, 2017"
 typeoutTextValues: '"", "Rzeszów"'
 typeoutFallback: "Rzeszów"
-heroButtons:
- - {link: "", text: "Zostań prelegentem"}
- - {permalink: "/#tickets", text: "Kup bilet"}
+#heroButtons:
+# - {link: "", text: "Zostań prelegentem"}
+# - {permalink: "/#tickets", text: "Kup bilet"}
 
 # About Block
 aboutTitle: "O konferencji"
@@ -167,16 +167,14 @@ ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawo
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=rgdevrze", icon: "twitter"}
+ - {link: "https://facebook.com/rgdev.rze/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Linki"
   links:
    - {link: "https://www.meetup.com/rg-dev/", text: "rg-dev"}
-   - {link: "", text: "Zostań prelegentem"}
-   - {link: "", text: "Zostań sponsorem"}
  -
   title: "Kontakt"
   links:
@@ -188,9 +186,9 @@ footerBlocks:
    - {permalink: "", text: "FAQ"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Aktualności"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "rzemiosloit"
 
 # Speakers List Block
 showSessions: true
