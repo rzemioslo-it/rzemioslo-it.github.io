@@ -88,10 +88,10 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 
 # Location Block
 locationBlockTitle: "Lokalizacja"
-eventLocationName: "AEROPOLIS Podkarpacki Park Naukowo-Technologiczny"
+eventLocationName: "Podkarpacki Park Naukowo-Technologiczny AEROPOLIS"
 eventLocationLink: "http://aeropolis.com.pl/pl/"
 eventStreetAddress: "Jasionka 954"
-eventAddressLocality: "Jasionka"
+eventAddressLocality: ""
 eventAddressLocalityRegion: "Rzeszów"
 eventPostalCode: "36-002"
 eventAddressCountry: "Polska"
@@ -99,8 +99,8 @@ eventStartTime: "2017-05-27T09:00"
 eventDoorTime: "08:00"
 eventEndTime: "2017-05-27T20:00"
 eventPlaceCoordinates: "50.1165296, 22.0175096"
-mapCenterCoordinates: "50.1165296, 22.0175096"
-mapMobileCenterCoordinates: "50.1165296, 22.0175096"
+mapCenterCoordinates: "50.082178, 22.003305"
+mapMobileCenterCoordinates: "50.082178, 22.003305"
 
 # Venue Block
 venueBlockTitle: "Miejsce"
@@ -108,7 +108,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "AEROPOLIS Podkarpacki Park Naukowo-Technologiczny"
+venueTitle: "Podkarpacki Park Naukowo-Technologiczny AEROPOLIS"
 venueFeatures: ["Piękna nowa sala konferencyjna", "Położona tuż przy lotnisku Jasionka"]
 
 # Partners Block

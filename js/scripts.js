@@ -340,7 +340,7 @@
             }, {
                 elementType: 'labels',
                 stylers: [{
-                    visibility: 'off'
+                    visibility: 'on'
                 }]
             }, {
                 featureType: 'water',
@@ -361,7 +361,7 @@
             }];
 
             var mapOptions = {
-                zoom: 17,
+                zoom: 12,
                 minZoom: 2,
                 scrollwheel: false,
                 panControl: false,
