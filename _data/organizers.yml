@@ -1,8 +1,8 @@
 - 
   group: "Główni organizatorzy"
   elements: 
-    - {name: "rg-dev", description: "rg-dev - Rzeszowska Grupa Dev", link: "https://www.meetup.com/rg-dev/", imageUrl: "rg-dev.svg"}
-    - {name: "PrimeBit Studio", description: "PrimeBit Studio", link: "http://www.primebitstudio.com/pl", imageUrl: "primebit-studio.svg"}
+    - {name: "rg-dev", description: "rg-dev - Rzeszowska Grupa Dev", link: "https://www.meetup.com/rg-dev/", imageUrl: "rg-dev.png"}
+    - {name: "PrimeBit Studio", description: "PrimeBit Studio", link: "http://www.primebitstudio.com/pl", imageUrl: "primebit-studio.png"}
 #- 
 #  group: "Patronat honorowy"
 #  elements: 
