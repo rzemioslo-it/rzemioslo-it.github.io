@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Robimy!"
+date:   2016-12-15 21:00:00
+isStaticPost: false
+---
+
+W końcu się spotkaliśmy: Waldek, Jakub i Michał. Od słowa, do słowa i
+stwierdziliśmy, że robimy. Później ustaliliśmy plan i zaczęło się dziać :).
