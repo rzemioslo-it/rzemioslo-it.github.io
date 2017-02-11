@@ -2,7 +2,7 @@
   date: "2017-05-27"
   dateReadable: ""
   tracks: 
-    - {title: "Rzemiosło.IT", color: "#90be4e"}
+    - {title: "", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "8:00",
