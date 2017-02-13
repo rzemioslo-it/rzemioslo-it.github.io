@@ -77,16 +77,6 @@ src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry&k
             }
             var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
-                $(function () {
-                    if ($(window).width() > 767) {
-                        $("#typeout-text").typed({
-                            strings: [{{site.typeoutTextValues}}],
-                            typeSpeed: 150,
-                            backDelay: 900,
-                            loop: true
-                        });
-                    }
-                });
                 var rockstarSpeakers = [
                     {% for speaker in site.data.speakers %}
                         {% if speaker.rockstar %}

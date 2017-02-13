@@ -31,6 +31,11 @@
 		min-height: 500px;
 	}
 }
+.image-section-front {
+    background-size: contain !important;
+    background-color: transparent !important;
+    background-repeat: no-repeat !important;
+}
 .bottom-section-link {
     text-transform: uppercase;
     padding: 7px 17px;

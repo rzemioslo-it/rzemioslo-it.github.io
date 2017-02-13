@@ -52,7 +52,8 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "RZEmiosło.IT <typeout> 2017"
+heroFrontImage: "hero-front.png"
+heroTitle: "RZEmiosło.IT"
 eventDate: "27 maja, 2017"
 typeoutTextValues: '"", "Rzeszów"'
 typeoutFallback: "Rzeszów"
