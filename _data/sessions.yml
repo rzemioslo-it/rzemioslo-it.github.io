@@ -7,13 +7,25 @@
 -
   id: 102
   title: "Przerwa obiadowa"
-  place: "Miasto"
+  place: "Hall"
   service: true
   description: ""
 -
   id: 103
   title: "Zakończenie konferencji"
   place: "Sala"
+  service: true
+  description: ""
+-
+  id: 104
+  title: "Przerwa kawowa"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 105
+  title: "Impreza!"
+  place: "Klub Kula"
   service: true
   description: ""
 
