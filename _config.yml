@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "RZEmiosło.IT | Konferencja programistyczna w Rzeszowie"
 email: "rgdevrze@gmail.com"
-description: "First software conference in Rzeszów. Focused on craftsmanship, good practices and methodologies rather than specific technologies."
+description: "Pierwsza konferencja programistyczna w Rzeszowie poświęcona tematyce Software Craftsmanship - dobrym praktykom i metodykom, nie związanymi ściśle z konkretnymi technologiami."
 baseurl: "/rzemioslo.it"
 url: "http://rzemioslo.it"
 permalink: "/blog/:title"
@@ -28,7 +28,7 @@ organizerLogo: "TODO: maybe not needed /img/seo/organizer-logo.png"
 organizerLink: "TODO: maybe not needed http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "RzemiosloIT, Rzeszów, software, craftsmanship, IT"
+metaKeywords: "RzemiosloIT, Rzeszów, konferencja, programowanie, software, craftsmanship, IT"
 twitterAccount: "@RZEmiosloIT"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
