@@ -1,14 +1,14 @@
 <!-- Begin Hero Section -->
 <section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
-    <div class="top-section-hero top-section image-section image-section-front" style="background-image: url('{{ site.baseurl
-        }}/img/sections-background/{{ site.heroFrontImage }}');">
     {% include navigation.html %}
     <div class="content-wrapper">
+        {% assign eventDate = site.eventDate | split:"|" %}
         <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            {% assign heroText = site.heroTitle | split:"<typeout>" %}
-            <h1>{{ heroText[0] }}{{ heroText[1] }}</h1>
-            <p>{{ site.eventDate }}</p>
+            {% assign heroText = site.heroTitle | split:"|" %}
+            <p>{{ heroText[0] }}</p>
+            <h1>{{ heroText[1] }}</h1>
+            <p>{{ heroText[2] }}</p>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
@@ -19,7 +19,6 @@
             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
         </svg>
     </a>
-    </div>
     </div>
 </section>
 <!-- End Hero Section -->
