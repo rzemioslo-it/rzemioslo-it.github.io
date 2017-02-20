@@ -2,7 +2,11 @@
 <section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
     {% include navigation.html %}
     <div class="content-wrapper">
-        {% assign eventDate = site.eventDate | split:"|" %}
+        <div class="event-date">
+            {% assign eventDate = site.eventDate | split:"|" %}
+            <p class="date">{{ eventDate[0] }}</p>
+            <p class="year">{{ eventDate[1] }}</p>
+        </div>
         <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             {% assign heroText = site.heroTitle | split:"|" %}
