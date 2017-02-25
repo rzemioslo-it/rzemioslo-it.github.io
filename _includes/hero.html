@@ -2,17 +2,9 @@
 <section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
     {% include navigation.html %}
     <div class="content-wrapper">
-        <div class="event-date">
-            {% assign eventDate = site.eventDate | split:"|" %}
-            <p class="date">{{ eventDate[0] }}</p>
-            <p class="year">{{ eventDate[1] }}</p>
-        </div>
         <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            {% assign heroText = site.heroTitle | split:"|" %}
-            <p>{{ heroText[0] }}</p>
-            <h1>{{ heroText[1] }}</h1>
-            <p>{{ heroText[2] }}</p>
+            <h1>{{ site.heroTitle }}</h1>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}

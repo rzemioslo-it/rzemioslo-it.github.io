@@ -52,9 +52,7 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroFrontImage: "hero-front.png"
-heroTitle: "Konferencja | RZEMIOSŁO.IT | Rzeszów"
-eventDate: "27 maja | 2017"
+heroTitle: "Konferencja RZEMIOSŁO.IT Rzeszów"
 typeoutTextValues: '"", "Rzeszów"'
 typeoutFallback: "Rzeszów"
 #heroButtons:
