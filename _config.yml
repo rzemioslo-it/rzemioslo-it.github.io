@@ -16,8 +16,8 @@ baseurl: "/rzemioslo.it"
 url: "http://rzemioslo.it"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-92615330-1"
-googleAnalyticsSiteUrl: "TODO"
-siteVerification: "TODO"
+googleAnalyticsSiteUrl: "auto"
+siteVerification: "4-JP2CVATViH_jUFGK_qzECdxzEKOzBRlzlRQMIzQVc"
 
 # Organizer Info
 organizerName: ""
