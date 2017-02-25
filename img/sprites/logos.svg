@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xml:space="preserve"
-   width="435"
+   width="185"
    height="188"
    version="1.1"
    style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   viewBox="0 0 12276.667 5305.7779"
+   viewBox="0 0 5221.1113 5305.7779"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="logos-modified.svg"><metadata
@@ -29,13 +29,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1842"
+     inkscape:window-width="1816"
      inkscape:window-height="1051"
      id="namedview58"
      showgrid="false"
-     inkscape:zoom="0.89702955"
-     inkscape:cx="-22.42493"
-     inkscape:cy="397.08668"
+     inkscape:zoom="2.5371827"
+     inkscape:cx="178.34291"
+     inkscape:cy="143.33499"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -60,7 +60,7 @@
      transform="translate(0,-24394.222)"><metadata
        id="CorelCorpID_0Corel-Layer" /><g
        id="g4200"
-       transform="matrix(5.0495074,0,0,5.0495074,-825.14453,23808.153)"><path
+       transform="matrix(2.1332784,0,0,2.1332784,-332.30183,24651.895)"><path
          id="path10"
          d="m 795,410 c -1,-4 -52,-74 -56,-80 -7,-10 -4,-6 -4,-23 0,-8 0,-7 9,-15 48,-40 94,-83 142,-120 5,-11 11,-32 11,-42 l -231,-1 c -1,10 4,29 -1,35 -55,-1 -230,-1 -262,1 -1,28 1,145 -3,162 l -55,81 82,2 c 3,-1 93,-53 95,-55 7,-4 41,-29 47,-28 4,0 91,54 115,68 5,4 23,18 26,18 l 85,-3 z"
          class="fil0"
@@ -72,7 +72,7 @@
          inkscape:connector-curvature="0"
          style="fill:#feb802" /><polygon
          id="polygon14"
-         points="661,161 662,132 403,133 404,159 "
+         points="662,132 403,133 404,159 661,161 "
          class="fil2"
          style="fill:#02a3f0" /><path
          id="path16"
@@ -101,7 +101,7 @@
          inkscape:connector-curvature="0"
          style="fill:#4e4e4e;fill-rule:nonzero" /></g><g
        id="g4210"
-       transform="matrix(5.0495074,0,0,5.0495074,-825.14453,23652.193)"><path
+       transform="matrix(2.1332784,0,0,2.1332784,-332.30183,25612.85)"><path
          id="path26"
          d="m 795,793 c -1,-4 -52,-75 -56,-80 -7,-10 -4,-7 -4,-23 0,-8 0,-7 9,-15 48,-40 94,-83 142,-120 5,-11 11,-33 11,-42 l -231,-1 c -1,10 4,29 -1,35 -55,-1 -230,-1 -262,1 -1,28 1,144 -3,162 l -55,81 82,2 c 3,-1 93,-54 95,-55 7,-4 41,-29 47,-28 4,0 91,54 115,68 5,4 23,17 26,18 l 85,-3 z"
          class="fil6"
@@ -113,7 +113,7 @@
          inkscape:connector-curvature="0"
          style="fill:#d0d0d0" /><polygon
          id="polygon30"
-         points="661,543 662,515 403,516 404,542 "
+         points="662,515 403,516 404,542 661,543 "
          class="fil8"
          style="fill:#595959" /><path
          id="path32"
@@ -142,7 +142,7 @@
          inkscape:connector-curvature="0"
          style="fill:#4e4e4e;fill-rule:nonzero" /></g><g
        id="g4220"
-       transform="matrix(5.0495074,0,0,5.0495074,-825.14453,23415.44)"><path
+       transform="matrix(2.1332784,0,0,2.1332784,-332.30183,26539.673)"><path
          id="path42"
          d="m 795,1192 c -1,-4 -52,-75 -56,-80 -7,-10 -4,-7 -4,-23 0,-8 0,-7 9,-15 48,-40 94,-83 142,-120 5,-11 11,-33 11,-42 l -231,-1 c -1,10 4,29 -1,35 -55,-1 -230,-1 -262,1 -1,28 1,144 -3,162 l -55,81 82,2 c 3,-1 93,-54 95,-55 7,-4 41,-29 47,-28 4,0 91,54 115,68 5,4 23,17 26,18 l 85,-3 z"
          class="fil0"
@@ -154,7 +154,7 @@
          inkscape:connector-curvature="0"
          style="fill:#feb802" /><polygon
          id="polygon46"
-         points="403,914 404,941 661,942 662,914 "
+         points="404,941 661,942 662,914 403,914 "
          class="fil2"
          style="fill:#02a3f0" /><path
          id="path48"
