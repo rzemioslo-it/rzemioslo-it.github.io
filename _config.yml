@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "RZEmiosło.IT | Konferencja programistyczna w Rzeszowie"
-email: "rgdevrze@gmail.com"
+email: "kontakt@rzemioslo.it"
 description: "Pierwsza konferencja programistyczna w Rzeszowie poświęcona tematyce Software Craftsmanship - dobrym praktykom i metodykom, nie związanymi ściśle z konkretnymi technologiami."
 baseurl: "/rzemioslo.it"
 url: "http://rzemioslo.it"
@@ -28,15 +28,15 @@ organizerLogo: "TODO: maybe not needed /img/seo/organizer-logo.png"
 organizerLink: "TODO: maybe not needed http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "RzemiosloIT, Rzeszów, konferencja, programowanie, software, craftsmanship, IT"
+metaKeywords: "RZEmiosloIT, Rzeszów, konferencja, programowanie, software, craftsmanship, IT"
 twitterAccount: "@RZEmiosloIT"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "TODO: call for papers? https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "TODO: /assets/GDG_DevFest_Partnership.pdf"
+#c4pUrl: ""
+#c4sponsorsUrl: ""
 
 # Navigation
 navigationLinks:
@@ -79,7 +79,7 @@ latestNewsTitle: "Aktualności"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: ""
-twitterHashTag: "rgdevrze"
+twitterHashTag: "RZEmiosloIT"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Location Block
@@ -162,10 +162,10 @@ ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawo
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=rgdevrze", icon: "twitter"}
- - {link: "https://facebook.com/rgdev.rze/", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+#- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=RZEmiosloIT", icon: "twitter"}
+ - {link: "https://facebook.com/rzemioslo.it/", icon: "facebook"}
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Linki"
@@ -174,7 +174,7 @@ footerBlocks:
  -
   title: "Kontakt"
   links:
-   - {link: "mailto:rgdevrze@gmail.com", text: "rgdevrze@gmail.com"}
+   - {link: "mailto:kontakt@rzemioslo.it", text: "kontakt@rzemioslo.it"}
  -
   title: "FAQ"
   links:
