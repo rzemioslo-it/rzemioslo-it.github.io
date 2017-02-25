@@ -15,7 +15,7 @@ description: "Pierwsza konferencja programistyczna w Rzeszowie poświęcona tema
 baseurl: "/rzemioslo.it"
 url: "http://rzemioslo.it"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "TODO"
+googleAnalyticsTrackingId: "UA-92615330-1"
 googleAnalyticsSiteUrl: "TODO"
 siteVerification: "TODO"
 
