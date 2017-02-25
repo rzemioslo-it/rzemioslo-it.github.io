@@ -6,7 +6,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'blog.html', 'hackathon.html', 'logistics.html', 'schedule.html', 'speakers.html', 'team.html', '_posts', 'cod.md']
 
 # Site Settings
 title: "RZEmiosło.IT | Konferencja programistyczna w Rzeszowie"
