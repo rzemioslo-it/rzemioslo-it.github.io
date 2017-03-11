@@ -5,14 +5,14 @@
         <h3 class="animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.findWayTitle }}</h3>
         <div class="map-card col-lg-3 col-md-4 col-sm-6 col-xs-12">
             <div class="map-search">
-                <input type="text" id="location-input" class="location-input" name="location-input" data-input-value="Your location" placeholder="Your location" autocomplete="off">
+                <input type="text" id="location-input" class="location-input" name="location-input" data-input-value="Your location" placeholder="Twoja lokalizacja" autocomplete="off">
                 <svg id="direction-locate" class="icon icon-geolocation" viewBox="0 0 30 32">
                     <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-geolocation"></use>
                 </svg>
             </div>
             <div class="location-result">
                 <span id="result-name" class="result-name"></span>
-                <span>to DevFest</span>
+                <span>do RZEmiosło.IT</span>
                 <svg id="direction-cancel" class="icon icon-cross" viewBox="0 0 30 32">
                     <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
                 </svg>
@@ -36,11 +36,10 @@
                             <option value="DRIVING">{{ site.findWayDriving }}</option>
                             <option value="WALKING">{{ site.findWayWalking }}</option>
                             <option value="BICYCLING">{{ site.findWayBicycling }}</option>
-                            <option value="TRANSIT">{{ site.findWayTransit }}</option>
                         </select>
                         <span id="estimateTime" class="detailed-result pull-right"></span>
                     </div>
-                    <a id="find-flight" href="https://google.com/flights" class="pull-right hidden" target="_blank">{{ site.findWayFindFlight }}</a>
+                    <a id="find-flight" href="https://www.google.pl/flights/?gl=pl#search;t=RZE;d=2017-05-26;r=2017-05-28" class="pull-right" target="_blank">{{ site.findWayFindFlight }}</a>
                 </li>
             </ul>
             <div class="clearfix"></div>
