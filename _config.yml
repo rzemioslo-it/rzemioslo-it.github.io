@@ -212,26 +212,14 @@ directionDetailsCards:
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
-  title: "Questions?"
+  title: "Miejscówki"
   subCards:
    -
-    title: "Hotels"
+    title: "Hotele"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel InTourist", address: "ul. Korfantego 45, 35-225 Rzeszów", logoUrl: "hotel_1.gif" }
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel InTourist", address: "ul. Korfantego 45, 35-225 Rzeszów", logoUrl: "hotel_1.gif" }
    -
-    title: "Registration"
+    title: "Restauracje"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Kura Restaurant", address: "ul. Korfantego 45, 35-225 Rzeszów", logoUrl: "restaurant_1.jpg" }
