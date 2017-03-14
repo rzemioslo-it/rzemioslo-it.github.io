@@ -6,7 +6,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'blog.html', 'hackathon.html', 'schedule.html', 'speakers.html', 'team.html', '_posts', 'cod.md']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'blog.html', 'hackathon.html', 'schedule.html', 'team.html', '_posts', 'cod.md']
 
 # Site Settings
 title: "RZEmiosło.IT | Konferencja programistyczna w Rzeszowie"
@@ -40,7 +40,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
 # - {permalink: "/schedule/", text: "Rozkład"}
-# - {permalink: "/speakers/", text: "Prelegenci"}
+ - {permalink: "/speakers/", text: "Prelegenci"}
 # - {permalink: "/team/", text: "Zespół"}
  - {permalink: "/logistics/", text: "Logistyka"}
 #bottomNavigationLinks:
@@ -185,7 +185,7 @@ blogCommentsEnabled: true
 discusShortName: "rzemiosloit"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
