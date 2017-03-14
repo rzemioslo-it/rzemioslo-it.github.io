@@ -1,7 +1,7 @@
 $direction-details-color: #757575;
 .direction-details {
-    display: inline-block;
-    padding: 0;
+    // padding: 0;
+    // display: inline-block;
     color: $direction-details-color;
     .image-section {
         @media (max-width: 767px) {
@@ -9,7 +9,7 @@ $direction-details-color: #757575;
         }
     }
     .card {
-        transform: translateY(-125px);
+        // transform: translateY(-125px);
         ul {
             font-size: 17px;
             font-weight: $regular;
@@ -17,12 +17,18 @@ $direction-details-color: #757575;
             padding: 0;
             list-style: none;
         }
+        .sub-card:not(:last-child) {
+            margin-bottom: 50px;
+        }
+        .sub-card-element {
+            margin-bottom: 20px;
+        }
     }
     .questions {
-        transform: translateY(-100px);
-        @media (min-width: 768px) and (max-width: 991px) {
-            transform: translateY(-125px);
-        }
+        // transform: translateY(-100px);
+        // @media (min-width: 768px) and (max-width: 991px) {
+        //     transform: translateY(-125px);
+        // }
     }
     h4, h5 {
         font-size: 31px;
