@@ -3,15 +3,17 @@
   name: "Sławomir"
   surname: "Sobótka"
   title: ""
-  bio: "Jestem trenerem i konsultantem w firmie Bottega IT Solutions, specjalizuję się w technologiach Java EE. 
-
-W codziennej pracy integruję Domain Driven Design, wzorce, style architektoniczne, zwinne procesy wytwórcze i zdrowy rozsądek. 
-
-Stosuję nadrzędną zasadę: rozpoznać klasę problemu z jaką mamy do czynienia i dobrać do niej odpowiednią klasę narzędzia. 
-
-Hobbystycznie interesuję się psychologią pozytywną i kognitywistyką. 
-
-Lubię myśleć o sobie jako entuzjaście Software Craftsmanship."
+  bio: >
+    Jestem trenerem i konsultantem w firmie Bottega IT Solutions, specjalizuję się w technologiach Java EE. 
+    <br /><br />
+    W codziennej pracy integruję Domain Driven Design, wzorce, style architektoniczne, zwinne procesy wytwórcze i zdrowy rozsądek. 
+    <br /><br />
+    W codziennej pracy integruję Domain Driven Design, wzorce, style architektoniczne, zwinne procesy wytwórcze i zdrowy rozsądek. 
+    Stosuję nadrzędną zasadę: rozpoznać klasę problemu z jaką mamy do czynienia i dobrać do niej odpowiednią klasę narzędzia. 
+    <br /><br />
+    Hobbystycznie interesuję się psychologią pozytywną i kognitywistyką. 
+    <br /><br />
+    Lubię myśleć o sobie jako entuzjaście Software Craftsmanship.
   thumbnailUrl: ss.jpg
   rockstar: true
   social: 
@@ -22,7 +24,8 @@ Lubię myśleć o sobie jako entuzjaście Software Craftsmanship."
   name: "Szymon"
   surname: "Kulec"
   title: ""
-  bio: "Lider Warszawskiej Grupy .NET, architekt, technical leader, speaker, trener, software engineer. Microsoft MVP na rok 2017. Zainteresowany zarówno IT w skali makro (architektura), jak i mikro (performance i współczesny hardware). Miłośnik DDD i zorientowania na zdarzenia, a także dobrze wyseparowanych usług. Jego blog możecie znaleźć pod adresem https://blog.scooletz.com"
+  bio: >
+    Lider Warszawskiej Grupy .NET, architekt, technical leader, speaker, trener, software engineer. Microsoft MVP na rok 2017. Zainteresowany zarówno IT w skali makro (architektura), jak i mikro (performance i współczesny hardware). Miłośnik DDD i zorientowania na zdarzenia, a także dobrze wyseparowanych usług. Jego blog możecie znaleźć pod adresem <a href="https://blog.scooletz.com">https://blog.scooletz.com</a>.
   thumbnailUrl: sk.jpg
   rockstar: true
   social: 
@@ -35,23 +38,24 @@ Lubię myśleć o sobie jako entuzjaście Software Craftsmanship."
   name: "Jarosław"
   surname: "Pałka"
   title: ""
-  bio: "Od ponad 20 lat w branży IT, jako administrator baz danych, programista,
-architekt, manager i „inżynier od spraw katastrof”. Brałem udział w małych,
-średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami
-„waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze
-skutkiem. Co doprowadziło mnie do wniosku, że nie ważne co robisz tak długo,
-jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych
-narzędzi które wykonają pracę za ciebie. W międzyczasie dałem się porwać ideą
-TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak
-piękne w swej prostocie pomysły jak REST i NoSQL, by potem porzucić je by
-zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą
-„metafora” i odkryć, że rządzą nami te same prawa „natury”.
-Niepokorny wyznawca kościoła JVM, badacz bytecode'u i JIT oraz wszelkiej maści
-parserów, interpreterów i kompilatorów.
-Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat
-architektury na konferencjach w Polsce. W chwilach trener w http://symentis.pl
-i autor bloga na http://geekyprimitives.wordpress.com/ oraz samozwańczy dyktator
-w radach programowych konferencji JDD oraz 4Developers."
+  bio: >
+    Od ponad 20 lat w branży IT, jako administrator baz danych, programista, 
+    architekt, manager i „inżynier od spraw katastrof”. Brałem udział w małych,
+    średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami
+    „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze
+    skutkiem. Co doprowadziło mnie do wniosku, że nie ważne co robisz tak długo,
+    jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych
+    narzędzi które wykonają pracę za ciebie. W międzyczasie dałem się porwać ideą
+    TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak
+    piękne w swej prostocie pomysły jak REST i NoSQL, by potem porzucić je by
+    zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą
+    „metafora” i odkryć, że rządzą nami te same prawa „natury”.
+    Niepokorny wyznawca kościoła JVM, badacz bytecode'u i JIT oraz wszelkiej maści
+    parserów, interpreterów i kompilatorów.
+    Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat
+    architektury na konferencjach w Polsce. W chwilach trener w <a href="http://symentis.pl">http://symentis.pl</a>
+    i autor bloga na <a href="http://geekyprimitives.wordpress.com/">http://geekyprimitives.wordpress.com/</a> oraz samozwańczy dyktator
+    w radach programowych konferencji JDD oraz 4Developers.
   thumbnailUrl: jp.jpg
   rockstar: true
   social: 
@@ -62,11 +66,12 @@ w radach programowych konferencji JDD oraz 4Developers."
   name: "Jakub"
   surname: "Gutkowski"
   title: ""
-  bio: "Tata, mąż, blogger, prezenter, pasjonat i programista. Założyciel i jeden z organizatorów devWarsztatów darmowych warsztatów dla każdego kto chce uczyć się rzemiosła programistycznego. Twórca .NET Blogs PL – pierwszego polskiego agregatora blogów technicznych poświęconych technologii .NET. Uwielbia bawić się nowościami, poznawać nowe języki i biblioteki, chodzić na konferencje, poznawać nowych ludzi, pomagać innym.
-
-Od wielu lat, Microsoft MVP.
-
-Wierzy, że to co robi zmienia świat i pomaga innym."
+  bio: >
+    Tata, mąż, blogger, prezenter, pasjonat i programista. Założyciel i jeden z organizatorów devWarsztatów darmowych warsztatów dla każdego kto chce uczyć się rzemiosła programistycznego. Twórca .NET Blogs PL – pierwszego polskiego agregatora blogów technicznych poświęconych technologii .NET. Uwielbia bawić się nowościami, poznawać nowe języki i biblioteki, chodzić na konferencje, poznawać nowych ludzi, pomagać innym.
+    <br /><br />
+    Od wielu lat, Microsoft MVP.
+    <br /><br />
+    Wierzy, że to co robi zmienia świat i pomaga innym.
   thumbnailUrl: jg.jpg
   rockstar: true
   social: 
@@ -79,9 +84,10 @@ Wierzy, że to co robi zmienia świat i pomaga innym."
   name: "Piotr"
   surname: "Stapp"
   title: ""
-  bio: "Programista, inżynier, rzemieślnik, projektant i rowerzysta. Korzysta z każdej technologii, która prowadzi do celu. Wierzy w ludzi, a nie w papiery. Jest wyznawcą DevOps i wszelkiej automatyzacji. 
-Jak przystało na człowieka inteligentnego, prowadzi bloga – o tyle wyjątkowego, że regularnie pojawiają się tam nowe teksty: http://stapp.space/.
-Do niedawna Ekspert IT w mBanku. Obecnie współtworzy nowy fintech – FinAi, w którym pracuje nad zamianą rzeczy skomplikowanych na proste. A to czasem bywa trudne."
+  bio: >
+    Programista, inżynier, rzemieślnik, projektant i rowerzysta. Korzysta z każdej technologii, która prowadzi do celu. Wierzy w ludzi, a nie w papiery. Jest wyznawcą DevOps i wszelkiej automatyzacji.<br />
+    Jak przystało na człowieka inteligentnego, prowadzi bloga – o tyle wyjątkowego, że regularnie pojawiają się tam nowe teksty: <a href="http://stapp.space/">http://stapp.space/</a>.<br />
+    Do niedawna Ekspert IT w mBanku. Obecnie współtworzy nowy fintech – FinAi, w którym pracuje nad zamianą rzeczy skomplikowanych na proste. A to czasem bywa trudne.
   thumbnailUrl: ps.jpg
   rockstar: true
   social: 
