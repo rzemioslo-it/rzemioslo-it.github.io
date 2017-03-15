@@ -169,15 +169,17 @@ footerBlocks:
   title: "Linki"
   links:
    - {link: "https://www.meetup.com/rg-dev/", text: "rg-dev"}
+   - {link: "http://www.primebitstudio.com/pl", text: "PrimeBit Studio"}
+   - {link: "http://rrug.pl/", text: "rrug"}
  -
   title: "Kontakt"
   links:
    - {link: "mailto:kontakt@rzemioslo.it", text: "kontakt@rzemioslo.it"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "", text: "Regulamin"}
-   - {permalink: "", text: "FAQ"}
+#-
+# title: "FAQ"
+# links:
+#  - {permalink: "", text: "Regulamin"}
+#  - {permalink: "", text: "FAQ"}
 
 # Blog
 blogTitle: "Aktualności"
