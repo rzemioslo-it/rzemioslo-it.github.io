@@ -118,7 +118,7 @@ subscribeInfo: "Liczba biletów jest ograniczona. Rejestracja rozpocznie się wk
 
 # Tickets Block
 ticketsTitle: "Bilety"
-#ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawowe, lunch i afterparty. Nocleg nie jest wliczony w cenę biletu."
+ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawowe, lunch i afterparty. Nocleg nie jest wliczony w cenę biletu."
 
 # Footer
 socialLinks:
