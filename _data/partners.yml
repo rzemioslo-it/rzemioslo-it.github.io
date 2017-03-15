@@ -1,23 +1,15 @@
-#- 
-#  group: "General sponsor"
-#  elements: 
-#    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#- 
-#  group: "With support of"
-#  elements: 
-#    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-#    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
-#- 
-#  group: "Information partners"
-#  elements: 
-#    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-#    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-#    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+- 
+  group: "Partnerzy złoci"
+  elements: 
+    - {name: "Bottega IT Solutions", description: "Bottega IT Solutions", link: "http://www.bottega.com.pl/", imageUrl: "bottega.png"}
+- 
+  group: "Pozostali partnerzy"
+  elements: 
+    - {name: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", description: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", link: "http://aeropolis.com.pl/pl/", imageUrl: "aeropolis.png"}
+    - {name: "Hackathon Rzeszów", description: "Hackathon Rzeszów", link: "https://www.facebook.com/hackathon.rzeszow/", imageUrl: "hackathon-rzeszow.png"}
+    - {name: "Joga śmiechu", description: "Joga śmiechu", link: "https://www.facebook.com/jogasmiechurzeszow/", imageUrl: "joga-smiechu.jpg"}
+    - {name: "Poznaj smak zdrowia", description: "Poznaj smak zdrowia", link: "https://www.facebook.com/PoznajSmakZdrowia/", imageUrl: "poznaj-smak-zdrowia.jpg"}
+- 
+  group: "Patroni medialni"
+  elements: 
+    - {name: "dotNetConfPl", description: "dotNetConfPl", link: "http://dotnetconf.pl/", imageUrl: "dotnetconfpl.png"}
