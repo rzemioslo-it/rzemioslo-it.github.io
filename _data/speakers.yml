@@ -91,3 +91,17 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/ptrstpp950"}
     - {name: "github", link: "https://github.com/ptrstpp950"}
+- 
+  id: 6
+  name: "Hubert"
+  surname: "Zub"
+  title: ""
+  bio: >
+    Programista i architekt przywiązany łańcuchem do technologii front-endowych i około-webowych. Uważa że JavaScript to najlepsze co mogło przytrafić się ludzkości w XX wieku. Ciekawi go wszystko, co się dzieje w Twojej aplikacją webowej - od pierwszych elektronów które wypłyną kablem z serwera backendowego aż po ostatnie piksele wyrenderowane w przeglądarce.
+    <br /><br />
+    Twierdzi, że sztuka dialektu pomiędzy biznesem, managementem a programistą jest nieco zardzewiałą gałęzią obszaru IT. Wierzy, że sporo projektów umiera z powodu złego precyzowania wymagań - i że korzystając z odpowiednich praktyk i narzędzi da się doprowadzić do końca każdy produkt.
+  thumbnailUrl: hz.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/hubertzub"}
+    - {name: "github", link: "https://github.com/hzub"}
