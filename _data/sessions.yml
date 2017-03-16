@@ -31,108 +31,78 @@
 
 -
   id: 001
-  title: "Współczesne metody pozyskania kodu dla Ajax i C++"
-  description: "Lorem ipsum dolor sit amen"
-  subtype: presentation
-  speakers: [4]
-  language: pl
-
--
-  id: 002
-  title: "Let's have a REST"
-  description: "REST is quite important stuff and a lot of fun"
+  title: "Co gryzie świadomego programistę DDD?"
+  description: >
+    W swojej pracy trenera i doradcy wciąż trafiam na zespoły borykające
+    się z tymi samymi problemami - zarówno na poziomie kodu jak i na
+    poziomie architektury oraz strategii pozycjonowania się w organizacji:
+    <br /><br />
+    Czym jest "unit" w Unit teście?<br />
+    Które pola powinna zawierać klasa, w które należą gdzieś indziej - gdzie?<br />
+    Jak pogodzić trywialny CRUD ze skomplikowanymi regułami?<br />
+    Czy model działania smutnego urzędu jest odpowiednią metaforą dla RESTFul?<br />
+    Jak dzielić system na moduły - czym się kierować?<br />
+    Co robić jeżeli musisz emulować analityka w projekcie?<br />
+    Czy już jestem 'knowledge worker'?<br />
+    Jak wejść w rolę doradcy zamiast szarego podwykonawcy?<br />
+    <br />
+    Odpowiedzi na te podstawowe pytania są proste ale mogą być czynnikiem
+    dużej zmiany.
   subtype: presentation
   speakers: [1]
-  language: en
-
 -
-  id: 003
-  title: "Next big thing: Java on washing machine"
-  description: "Let the garbage collector take care of your dirty clothes."
+  id: 002
+  title: "The only thing that matters"
+  description: >
+    Czy nowe bazy danych to faktycznie coś odkrywczego, czy może bazują na wzorcach, które sprawdzają się od lat?<br />
+    Czy istnieje wspólny mianownik między relacyjnymi bazami danych a podejściami takimi jak Event Sourcing czy messaging?<br />
+    Czy jest coś co pozwala zrozumieć sposób zapisu danych w SQL Server, Kafkce jak i Event Store?<br />
+    <br />
+    Podczas tej prezentacji zbudujemy od zera solidne fundamenty, na których będziesz mógł bazować ucząc się różnych techologii. Podstawy te sprawdzają się od lat i pomimo upływu czasu cały czas stanowią ważny element w projektowaniu i modelowaniu zarówno baz danych, bibliotek jak i systemów rozproszonych. Zapraszam do sięgnięcia po tę ważną cząstkę wiedzy!
   subtype: presentation
   speakers: [2]
-  language: en
-
+-
+  id: 003
+  title: "Agile & architecture"
+  description: >
+    Świat jest niebezpiecznym miejscem. Pełny idei sprzecznych z sobą, które
+    budzą w ludziach najgorsze emocje. Wszystko to jednak tylko pozory.
+    Świat jest pełen elegancji, piękna i harmonii, ukrytych niezbyt głęboko.
+    Dostępnych tylko dla wytrwałych. To będzie opowieść o harmonii w systemach
+    (lub jej braku).
+    <br /><br />
+    Spróbuje zanurzyć się z wami w mój świat teorii systemów, pętli zwrotnych,
+    pułapek systemowych i punktów wyniesienia by pokazać czym jest dla mnie
+    architektura. Czy architektura może i nawet jej obowiązkiem jest być otwarta
+    na ewolucję i eksperyment. Jakie jest jej miejsce w świecie zwinnych metodologi,
+    lean startup i wszechobecnego kultu MVP.
+    <br /><br />
+    Chciałbym wam opowiedzieć, jak to myślenie działało w różnych projektach
+    zarówno tych zwinnych jak i prowadzonych metodologiami
+    których nazw wymieniać nie wolno. Przekonam was,mam nadzieje, że architekt,
+    to stan umysłu, a nie pozycja czy tytuły.
+  subtype: presentation
+  speakers: [3]
 -
   id: 004
-  title: "DDD i SOA - jak je połączyć"
-  description: "Powiem o mikro serwisach łącząc w ten sposób najważniejsze buzzwordy tej dekady."
+  title: "Elixir Miłości"
+  description: >
+    Elixir oczami programisty JavaScript i C# - jaki jest tajemny przepis na zrozumienie języka, nauczenie się go i zakochanie się w nim. A wszystko dzięki 1 godzinie tygodniowo. Na sesji opowiem o tym, na jakie trudności natrafiłem i dlaczego oraz co zrobić by ich uniknąć.
   subtype: presentation
-  speakers: [3]
-  language: pl
-
+  speakers: [4]
 -
   id: 005
-  title: "Przewodnik po językach funkcyjnych"
-  description: "Wszyscy kodujemy w odmianach LISPu"
+  title: "Od juniora do seniora czyli tam i z powrotem. Jak kierować swoją kariera na przykładzie własnym i znajomych"
+  description: >
+    10 lat po studiach. 3 firmy za sobą. 2 bardzo duże i znane projekty. 1 człowiek, czyli ja - Piotr Stapp. Jeżeli jesteś ciekaw odpowiedzi na pytania: 
+    <br /><br />
+    1) Jak szybko można zostać ekspertem i co to daje?<br />
+    2) Czy warto kończyć studia i czego warto się uczyć?<br />
+    3) Co zrobić gdy nagle zostaje się managerem?<br />
+    4) Ile mogę zarobić i jak dostać podwyżkę?<br />
+    <br />
+    To pewnie niestety na nie nie odpowiem. A przynajmniej nie tak jak byś chciał(a) usłyszeć. Opowiem za co ja zrobiłem przez ostatnie 15 lat swojego życia w sferze zawodowej, co mnie to nauczyło i co bym zmienił jak bym miał Delorean DMC-12 od doktora Browna. Spójrz na mój profil na LinkedIn i zastanów się czy warto posłuchać człowieka, który był w architekturze projektu nowy mBank i robił pierwszą wersję składania PIT przez internet czyli e-Deklaracje. Który ciągle siedzi w świecie .NET, choć zdarza mu się robić skoki w bok.
+    <br /><br />
+    10 lat robienia świetnego softu to kupa doświadczeń. W dobrym i złym znaczeniu słowa kupa :) Całość na podstawie doświadczeń moich i zasłyszancy od innych. 
   subtype: presentation
-  speakers: [3]
-  language: pl
-
--
-  id: 006
-  title: "Distributed nightmare"
-  description: "Why you should do your best to stay on single host."
-  subtype: presentation
-  speakers: [4]
-  language: en
-
--
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
-  id: 902
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 903
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 904
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 904
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 906
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [5]
