@@ -24,6 +24,8 @@
     - {name: "Hackathon Rzeszów", description: "Hackathon Rzeszów", link: "https://www.facebook.com/hackathon.rzeszow/", imageUrl: "hackathon-rzeszow.png"}
     - {name: "Joga śmiechu", description: "Joga śmiechu", link: "https://www.facebook.com/jogasmiechurzeszow/", imageUrl: "joga-smiechu.jpg"}
     - {name: "Vega zdrowie", description: "Vega zdrowie", link: "https://www.facebook.com/VegaZdrowie/", imageUrl: "vega-zdrowie.jpg"}
+    - {name: "Everpress", description: "Everpress", link: "http://everpress.pl/", imageUrl: "everpress.png"}
+    - {name: "EventLista", description: "EventLista", link: "https://eventlista.pl/Witamy", imageUrl: "eventlista.png", style: "background-color: black"}
 - 
   group: "Partnerzy medialni"
   elements: 
