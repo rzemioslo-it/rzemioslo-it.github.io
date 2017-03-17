@@ -43,10 +43,12 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Prelegenci"}
 # - {permalink: "/team/", text: "Zespół"}
  - {permalink: "/logistics/", text: "Logistyka"}
-bottomNavigationLinks:
+navigationButtons:
  - {link: "#tickets", text: "Kup bilet"}
-rightNavigationButtons:
- - {link: "#tickets", text: "Kup bilet"}
+#bottomNavigationLinks:
+# - {link: "#tickets", text: "Kup bilet"}
+#rightNavigationButtons:
+# - {link: "#tickets", text: "Kup bilet"}
 
 # Hero Block
 heroImage: "hero.jpg"
