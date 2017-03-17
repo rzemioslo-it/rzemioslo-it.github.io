@@ -45,8 +45,8 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistyka"}
 navigationButtons:
  - {link: "#tickets", text: "Kup bilet"}
-#bottomNavigationLinks:
-# - {link: "#tickets", text: "Kup bilet"}
+bottomNavigationLinks:
+ - {link: "#tickets", text: "Kup bilet"}
 #rightNavigationButtons:
 # - {link: "#tickets", text: "Kup bilet"}
 
