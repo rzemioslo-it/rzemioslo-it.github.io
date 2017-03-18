@@ -1,4 +1,10 @@
 -
+  id: 100
+  title: "Rejestracja uczestników"
+  place: "Hall"
+  service: true
+  description: ""
+-
   id: 101
   title: "Rozpoczęcie konferencji"
   place: "Sala"
@@ -24,7 +30,7 @@
   description: ""
 -
   id: 105
-  title: "Impreza!"
+  title: "After party!"
   place: "Klub Kula"
   service: true
   description: ""

@@ -6,7 +6,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'blog.html', 'hackathon.html', 'schedule.html', '_posts', 'cod.md']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'blog.html', 'hackathon.html', '_posts', 'cod.md']
 
 # Site Settings
 title: "RZEmiosło.IT | Konferencja programistyczna w Rzeszowie"
@@ -39,7 +39,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook-v2.png"
 
 # Navigation
 navigationLinks:
-# - {permalink: "/schedule/", text: "Rozkład"}
+ - {permalink: "/schedule/", text: "Rozkład"}
  - {permalink: "/speakers/", text: "Prelegenci"}
  - {permalink: "/team/", text: "Zespół"}
  - {permalink: "/logistics/", text: "Logistyka"}
