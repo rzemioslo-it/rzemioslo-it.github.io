@@ -112,4 +112,16 @@
   description: >
     Więcej szczegółów wkrótce...
   subtype: presentation
-  speakers: [6]
+  speakers: [6,7]
+-
+  id: 007
+  title: >
+    Dlaczego warto "skakać" pomiędzy technologiami?
+  description: >
+    Tematem prezentacji będzie przedstawienie powodów, dla których warto „skakać” pomiędzy technologiami, zmieniać języki, środowiska programistyczne.
+    <br />
+    Jak wiele satysfakcji daje, a z drugiej strony jak wiele czasu i samozaparcia wymaga od nas zmiana technologii w IT.
+    <br />
+    Jak ogromny pogląd daje, pokazując nam „nowoczesność” lub też „zacofanie” danego języka/technologii, w porównaniu do innych.
+  subtype: presentation
+  speakers: [8]

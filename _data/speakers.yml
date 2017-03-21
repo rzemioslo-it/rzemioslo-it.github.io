@@ -105,3 +105,25 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/hubertzub"}
     - {name: "github", link: "https://github.com/hzub"}
+- 
+  id: 7
+  name: "Marcin"
+  surname: "Bartoszuk"
+  title: ""
+  bio: >
+    Z technologiami Microsoft związany od 2005 roku. Absolwent Wydziału Informatyki Politechniki Białostockiej, gdzie był liderem Koła Naukowego Grupa .NET oraz Microsoft Student Partnerem. Czterokrotny finalista krajowego etapu konkursu Imagine Cup, a w późniejszych latach mentor i juror konkursu. Współzałożyciel firmy DevCore.NET oraz współzałożyciel zawodowej Białostockiej Grupy .NET. Wykładał na Politechnice Białostockiej przedmioty związane z tworzeniem oprogramowania na platformę .NET. Microsoft MVP w kategorii Client Application Development w latach 2008-2010, kiedy to aktywnie uczestniczył w społecznościach IT. Nieustanny pasjonata nowych technologii i konsultant IT.
+  thumbnailUrl: mb.jpg
+  rockstar: true
+  social: 
+- 
+  id: 8
+  name: "Namysław Jerzy"
+  surname: "Szymaniuk"
+  title: ""
+  bio: >
+    Do niedawna programista Java EE, rozwijający duży system klasy PLM oraz jego integrację z SAPem, następnie korzystający ze Springa do rozwijania systemu klasy LIMS, od niedawna przebranżowił się i zajmuje się pisaniem cross-platformowych aplikacji mobilnych, wykorzystując framework Xamarin.Forms, przez który ma koszmary w nocy. Często "skacze" pomiędzy technologiami - Xamarin, ASP.NET, Java, Java Android itd. Hobbystycznie interesuje się komputerową diagnostyką samochodową. Jest również autorem spolszczenia do wbudowanego systemu nawigacyjnego, występującego w samochodach marki Peugeot, Citroen, Fiat, Lancia, Maserati.
+  thumbnailUrl: njs.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/Namyslaw"}
+    - {name: "github", link: "https://github.com/Szymaniuk"}
