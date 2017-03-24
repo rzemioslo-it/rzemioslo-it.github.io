@@ -15,9 +15,6 @@
   group: "Partnerzy brązowi"
   elements: 
 - 
-  group: "Partnerzy złoci"
-  elements: 
-- 
   group: "Pozostali partnerzy"
   elements: 
     - {name: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", description: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", link: "http://aeropolis.com.pl/pl/", imageUrl: "aeropolis.png"}
