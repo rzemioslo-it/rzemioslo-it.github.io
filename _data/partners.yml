@@ -7,6 +7,7 @@
 - 
   group: "Partnerzy złoci"
   elements: 
+    - {name: "Microsoft", description: "Microsoft", link: "https://www.microsoft.com/", imageUrl: "microsoft.png"}
     - {name: "Bottega IT Solutions", description: "Bottega IT Solutions", link: "http://www.bottega.com.pl/", imageUrl: "bottega.png"}
 - 
   group: "Partnerzy srebrni"
