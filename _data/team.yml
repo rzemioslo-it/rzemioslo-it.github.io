@@ -1,60 +1,104 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Waldemar"
+  surname: "Mękal"
+  title: "rg-dev"
+  thumbnailUrl: team-wme.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "rg-dev", title: "Rzeszowska Grupa Developerska"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "twitter", link: "https://twitter.com/wmekal"}
+    - {name: "github", link: "https://github.com/wmekal"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Jakub"
+  surname: "Hossa"
+  title: "rg-dev"
+  thumbnailUrl: team-jho.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "rg-dev", title: "Rzeszowska Grupa Developerska"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "facebook", link: "https://www.facebook.com/jakub.hossa"}
+    - {name: "twitter", link: "https://twitter.com/JakubHossa"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Krystian"
+  surname: "Sokołowski"
+  title: "rg-dev"
+  thumbnailUrl: team-kso.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "rg-dev", title: "Rzeszowska Grupa Developerska"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "facebook", link: "https://www.facebook.com/krystian.sokolowski3"}
+    - {name: "github", link: "https://github.com/ksokolowski7"}
+    - {name: "twitter", link: "https://twitter.com/robaks12"}
+- 
+  id: 3
+  name: "Krzysztof"
+  surname: "Sierżęga"
+  title: "rg-dev"
+  thumbnailUrl: team-ksi.jpg
+  team: true
+  ribbon: 
+    - {abbr: "rg-dev", title: "Rzeszowska Grupa Developerska"}
+  social: 
+    - {name: "github", link: "https://github.com/ksierzega"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Paweł"
+  surname: "Wójciak"
+  title: "rg-dev"
+  thumbnailUrl: team-pwo.jpg
+  team: true
+  ribbon: 
+    - {abbr: "rg-dev", title: "Rzeszowska Grupa Developerska"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "twitter", link: "https://twitter.com/pawelwojciak"}
+- 
+  id: 5
+  name: "Grzegorz"
+  surname: "Oronowicz"
+  title: "rg-dev"
+  thumbnailUrl: team-gor.jpg
+  team: true
+  ribbon: 
+    - {abbr: "rg-dev", title: "Rzeszowska Grupa Developerska"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/oronowiczg"}
+- 
+  id: 6
+  name: "Michał"
+  surname: "Ręczkowicz"
+  title: "PrimeBit Studio"
+  thumbnailUrl: team-mre.jpg
+  team: true
+  ribbon: 
+    - {abbr: "PrimeBit Studio", title: "PrimeBit Studio"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/MikeReczkowicz"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  name: "Maciej"
+  surname: "Rząsa"
+  title: "RRUG"
+  thumbnailUrl: team-mrz.jpg
+  team: true
+  ribbon: 
+    - {abbr: "rg-dev", title: "Rzeszów Ruby User Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/mjrzasa"}
+- 
+  id: 8
+  name: "Mateusz"
+  surname: "Bielec"
+  title: "RRUG"
+  thumbnailUrl: team-mbi.jpg
+  team: true
+  ribbon: 
+    - {abbr: "rg-dev", title: "Rzeszów Ruby User Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/mbie"}
+    - {name: "github", link: "https://github.com/mbie"}
