@@ -86,6 +86,6 @@
     $protocol: $protocol + ":";
   }
   $url: "#{$protocol}//fonts.googleapis.com/css?family=";
-  $url: $url + wf-serialize($fonts);
+  $url: $url + wf-serialize($fonts) + "&subset=latin-ext";
   @import url($url);
 }
