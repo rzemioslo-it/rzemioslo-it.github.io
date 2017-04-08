@@ -16,6 +16,7 @@
 - 
   group: "Partnerzy brązowi"
   elements: 
+    - {name: "Asseco Poland", description: "Asseco Poland", link: "https://pl.asseco.com", imageUrl: "asseco_poland.jpg"}
 - 
   group: "Pozostali partnerzy"
   elements: 
