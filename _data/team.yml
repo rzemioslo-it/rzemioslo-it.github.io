@@ -95,7 +95,7 @@
   name: "Mateusz"
   surname: "Bielec"
   title: "RRUG"
-  thumbnailUrl: team-mbi.jpg
+  thumbnailUrl: team-mbi.png
   team: true
   ribbon: 
     - {abbr: "rg-dev", title: "Rzeszów Ruby User Group"}
