@@ -17,6 +17,7 @@
   group: "Partnerzy brązowi"
   elements: 
     - {name: "Asseco Poland", description: "Asseco Poland", link: "https://pl.asseco.com", imageUrl: "asseco_poland.jpg"}
+    - {name: "OPGK Rzeszów", description: "OPGK Rzeszów", link: "https://opgk.rzeszow.pl", imageUrl: "opgk.png"}
 - 
   group: "Pozostali partnerzy"
   elements: 
@@ -30,6 +31,7 @@
   group: "Partnerzy medialni"
   elements: 
     - {name: "dotNetConfPl", description: "dotNetConfPl", link: "http://dotnetconf.pl/", imageUrl: "dotnetconfpl.png"}
+    - {name: "Nowiny", description: "Nowiny", link: "http://www.nowiny24.pl", imageUrl: "nowiny24.png"}
 -
   group: "Patronat honorowy"
   elements:
