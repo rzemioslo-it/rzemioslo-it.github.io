@@ -18,6 +18,7 @@
   elements: 
     - {name: "Asseco Poland", description: "Asseco Poland", link: "https://pl.asseco.com", imageUrl: "asseco_poland.jpg"}
     - {name: "OPGK Rzeszów", description: "OPGK Rzeszów", link: "https://opgk.rzeszow.pl", imageUrl: "opgk.png"}
+    - {name: "DHC Business Solutions", description: "DHC Business Solutions", link: "http://www.dhc-vision.com/", imageUrl: "dhc.jpg"}
 - 
   group: "Pozostali partnerzy"
   elements: 
