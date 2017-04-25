@@ -29,6 +29,7 @@
     - {name: "Hackathon Rzeszów", description: "Hackathon Rzeszów", link: "https://www.facebook.com/hackathon.rzeszow/", imageUrl: "hackathon-rzeszow.png"}
     - {name: "Joga śmiechu", description: "Joga śmiechu", link: "https://www.facebook.com/jogasmiechurzeszow/", imageUrl: "joga-smiechu.jpg"}
     - {name: "Vega zdrowie", description: "Vega zdrowie", link: "https://www.facebook.com/VegaZdrowie/", imageUrl: "vega-zdrowie.jpg"}
+    - {name: "JetBrains", description: "JetBrains", link: "hhttps://www.jetbrains.com", imageUrl: "jetbrains.png"}
 - 
   group: "Partnerzy medialni"
   elements: 
