@@ -18,17 +18,17 @@
   elements: 
     - {name: "Asseco Poland", description: "Asseco Poland", link: "https://pl.asseco.com", imageUrl: "asseco_poland.png"}
     - {name: "DHC Business Solutions", description: "DHC Business Solutions", link: "http://www.dhc-vision.com/", imageUrl: "dhc.png"}
-    - {name: "OPGK Rzeszów", description: "OPGK Rzeszów", link: "https://opgk.rzeszow.pl", imageUrl: "opgk.png"}
     - {name: "Mobica", description: "Mobica", link: "http://www.mobica.com", imageUrl: "mobica.png"}
+    - {name: "OPGK Rzeszów", description: "OPGK Rzeszów", link: "https://opgk.rzeszow.pl", imageUrl: "opgk.png"}
 - 
   group: "Pozostali partnerzy"
   elements: 
     - {name: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", description: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", link: "http://aeropolis.com.pl/pl/", imageUrl: "aeropolis.png"}
+    - {name: "EventLista", description: "EventLista", link: "https://eventlista.pl/Witamy", imageUrl: "eventlista.png", style: "background-color: black"}
+    - {name: "Everpress", description: "Everpress", link: "http://everpress.pl/", imageUrl: "everpress.png"}
     - {name: "Hackathon Rzeszów", description: "Hackathon Rzeszów", link: "https://www.facebook.com/hackathon.rzeszow/", imageUrl: "hackathon-rzeszow.png"}
     - {name: "Joga śmiechu", description: "Joga śmiechu", link: "https://www.facebook.com/jogasmiechurzeszow/", imageUrl: "joga-smiechu.jpg"}
     - {name: "Vega zdrowie", description: "Vega zdrowie", link: "https://www.facebook.com/VegaZdrowie/", imageUrl: "vega-zdrowie.jpg"}
-    - {name: "Everpress", description: "Everpress", link: "http://everpress.pl/", imageUrl: "everpress.png"}
-    - {name: "EventLista", description: "EventLista", link: "https://eventlista.pl/Witamy", imageUrl: "eventlista.png", style: "background-color: black"}
 - 
   group: "Partnerzy medialni"
   elements: 
