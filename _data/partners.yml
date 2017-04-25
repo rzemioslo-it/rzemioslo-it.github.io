@@ -18,9 +18,10 @@
 - 
   group: "Partnerzy brązowi"
   elements: 
-    - {name: "Asseco Poland", description: "Asseco Poland", link: "https://pl.asseco.com", imageUrl: "asseco_poland.jpg"}
+    - {name: "Asseco Poland", description: "Asseco Poland", link: "https://pl.asseco.com", imageUrl: "asseco_poland.png"}
+    - {name: "DHC Business Solutions", description: "DHC Business Solutions", link: "http://www.dhc-vision.com/", imageUrl: "dhc.png"}
     - {name: "OPGK Rzeszów", description: "OPGK Rzeszów", link: "https://opgk.rzeszow.pl", imageUrl: "opgk.png"}
-    - {name: "DHC Business Solutions", description: "DHC Business Solutions", link: "http://www.dhc-vision.com/", imageUrl: "dhc.jpg"}
+    - {name: "Mobica", description: "Mobica", link: "http://www.mobica.com", imageUrl: "mobica.png"}
 - 
   group: "Pozostali partnerzy"
   elements: 
