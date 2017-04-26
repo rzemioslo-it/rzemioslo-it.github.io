@@ -5,7 +5,7 @@
 - 
   group: "Partnerzy złoci"
   elements: 
-    - {name: "Ailleron", description: "Ailleron", link: "hhttp://ailleron.com", imageUrl: "ailleron.png"}
+    - {name: "Ailleron", description: "Ailleron", link: "http://ailleron.com", imageUrl: "ailleron.png"}
     - {name: "Bottega IT Solutions", description: "Bottega IT Solutions", link: "http://www.bottega.com.pl/", imageUrl: "bottega.png"}
     - {name: "Microsoft", description: "Microsoft", link: "https://www.microsoft.com/", imageUrl: "microsoft.png"}
     - {name: "PGS Software", description: "PGS Software", link: "https://www.pgs-soft.com", imageUrl: "pgs.png"}
