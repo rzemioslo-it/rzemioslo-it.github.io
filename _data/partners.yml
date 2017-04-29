@@ -1,28 +1,28 @@
-- 
+-
   group: "Partnerzy platynowi"
-  elements: 
+  elements:
     - {name: "Fabrity", description: "Fabrity", link: "https://www.fabrity.pl/", imageUrl: "fabrity-v2.png", class: "fabrity"}
-- 
+-
   group: "Partnerzy złoci"
-  elements: 
+  elements:
     - {name: "Ailleron", description: "Ailleron", link: "http://ailleron.com", imageUrl: "ailleron.png"}
     - {name: "Bottega IT Solutions", description: "Bottega IT Solutions", link: "http://www.bottega.com.pl/", imageUrl: "bottega.png"}
     - {name: "Microsoft", description: "Microsoft", link: "https://www.microsoft.com/", imageUrl: "microsoft.png"}
     - {name: "PGS Software", description: "PGS Software", link: "https://www.pgs-soft.com", imageUrl: "pgs.png"}
-- 
+-
   group: "Partnerzy srebrni"
-  elements: 
+  elements:
     - {name: "iRonin", description: "iRonin Web, Mobile & DevOps", link: "http://www.ironin.it/", imageUrl: "ironin.png"}
-- 
+-
   group: "Partnerzy brązowi"
-  elements: 
+  elements:
     - {name: "Asseco Poland", description: "Asseco Poland", link: "https://pl.asseco.com", imageUrl: "asseco_poland.png"}
     - {name: "DHC Business Solutions", description: "DHC Business Solutions", link: "http://www.dhc-vision.com/", imageUrl: "dhc.png"}
     - {name: "Mobica", description: "Mobica", link: "http://www.mobica.com", imageUrl: "mobica.png"}
     - {name: "OPGK Rzeszów", description: "OPGK Rzeszów", link: "https://opgk.rzeszow.pl", imageUrl: "opgk.png"}
-- 
+-
   group: "Pozostali partnerzy"
-  elements: 
+  elements:
     - {name: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", description: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", link: "http://aeropolis.com.pl/pl/", imageUrl: "aeropolis.png"}
     - {name: "EventLista", description: "EventLista", link: "https://eventlista.pl/Witamy", imageUrl: "eventlista.png", style: "background-color: black"}
     - {name: "Everpress", description: "Everpress", link: "http://everpress.pl/", imageUrl: "everpress.png"}
@@ -30,9 +30,10 @@
     - {name: "Joga śmiechu", description: "Joga śmiechu", link: "https://www.facebook.com/jogasmiechurzeszow/", imageUrl: "joga-smiechu.jpg"}
     - {name: "Vega zdrowie", description: "Vega zdrowie", link: "https://www.facebook.com/VegaZdrowie/", imageUrl: "vega-zdrowie.jpg"}
     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png"}
-- 
+    - {name: "The Pragmatic Bookshelf", description: "Books, screencasts, forums, articles, and more, all aimed at helping software developers get better and have more fun.", link: "https://pragprog.com/", imageUrl: "pragmatic.png"}
+-
   group: "Partnerzy medialni"
-  elements: 
+  elements:
     - {name: "dotNetConfPl", description: "dotNetConfPl", link: "http://dotnetconf.pl/", imageUrl: "dotnetconfpl.png"}
     - {name: "Nowiny", description: "Nowiny", link: "http://www.nowiny24.pl", imageUrl: "nowiny24.png"}
 -
