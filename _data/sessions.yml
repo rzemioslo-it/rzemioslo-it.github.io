@@ -110,7 +110,13 @@
   id: 006
   title: "Dlaczego programiści nie rozumieją wymagań?"
   description: >
-    Więcej szczegółów wkrótce...
+    Projekty będące stratą firmowej kasy oraz generatorem smutku dla programisty - wszyscy takie znamy.<br />
+    Czy ich źródłem może być kiepski język, którym posługuje się w dokumentacji management?<br />
+    „Oczywiście" - zakrzyknie programista.<br />
+    „Niemożliwe!" - odpowie analityk.<br />
+    <br />
+    Ekipa z dalekiego i mroźnego Białegostoku wraz z małym obwoźnym teatrzykiem spróbuje pogodzić te dwa światy. Przedstawi wam najpopularniejsze wpadki występujące przy opisie wymagań w projekcie IT. Opowie czym skutkują, jak się przed nimi uchronić i co za tym idzie - pokazać, że nie warto "cebulić" pieniędzy i roboczogodzin na dobre przygotowanie wymagań. Zamierzony efekt? Lepsza komunikacja w waszych projektach, mniej przekleństw oraz WTFów oraz więcej miłości w waszych zespołach.<br />
+    Zapraszamy!
   subtype: presentation
   speakers: [6,7]
 -
