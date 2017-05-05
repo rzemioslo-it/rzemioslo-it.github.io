@@ -179,6 +179,11 @@ $small-label-width: 80px;
         transform: translateY(5px);
     }
 }
+.slot-break{
+    padding: 20px 15px 10px;
+    min-height: 10px;
+    background-color: #eee;
+}
 .slot-language {
     position: absolute;
     font-size: 11px;
