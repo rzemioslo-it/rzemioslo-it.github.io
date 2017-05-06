@@ -28,12 +28,6 @@
   place: "Hall"
   service: true
   description: ""
--
-  id: 105
-  title: "After party!"
-  place: "Klub Kula"
-  service: true
-  description: ""
 
 -
   id: 001

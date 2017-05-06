@@ -61,7 +61,3 @@
     	startTime: "17:30",
         sessionIds: [103]
     }
-    - {
-    	startTime: "18:00",
-        sessionIds: [105]
-    }
