@@ -105,7 +105,8 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Podkarpacki Park Naukowo-Technologiczny AEROPOLIS"
-venueFeatures: ["Piękna nowa sala konferencyjna", "Położona tuż przy lotnisku Jasionka"]
+venueSubTitle: "Budynek IT1"
+venueFeatures: ["Nowa sala konferencyjna położona tuż przy lotnisku Jasionka"]
 
 # Partners Block
 organizersTitle: "Organizatorzy"
