@@ -100,10 +100,10 @@ mapMobileCenterCoordinates: "50.082178, 22.003305"
 
 # Venue Block
 venueBlockTitle: "Miejsce"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+venueBigImage: "venue-0-v2.jpg"
+venueSmallImage1: "venue-1-v2.jpg"
+venueSmallImage2: "venue-2-v2.jpg"
+venueSmallImage3: "venue-3-v2.jpg"
 venueTitle: "Podkarpacki Park Naukowo-Technologiczny AEROPOLIS"
 venueSubTitle: "Budynek IT1"
 venueFeatures: ["Nowa sala konferencyjna położona tuż przy lotnisku Jasionka"]
