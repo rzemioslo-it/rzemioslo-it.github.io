@@ -30,6 +30,7 @@
     - {name: "Joga śmiechu", description: "Joga śmiechu", link: "https://www.facebook.com/jogasmiechurzeszow/", imageUrl: "joga-smiechu.jpg"}
     - {name: "Vega zdrowie", description: "Vega zdrowie", link: "https://www.facebook.com/VegaZdrowie/", imageUrl: "vega-zdrowie.jpg"}
     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png"}
+    - {name: "RARR", description: "Rzeszowska Agencja Rozwoju Regionalnego", link: "http://www.rarr.rzeszow.pl/", imageUrl: "rarr.jpg"}
     - {name: "The Pragmatic Bookshelf", description: "Books, screencasts, forums, articles, and more, all aimed at helping software developers get better and have more fun.", link: "https://pragprog.com/", imageUrl: "pragmatic.png"}
 -
   group: "Partnerzy medialni"
