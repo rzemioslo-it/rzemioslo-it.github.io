@@ -38,6 +38,7 @@
     - {name: "dotNetConfPl", description: "dotNetConfPl", link: "http://dotnetconf.pl/", imageUrl: "dotnetconfpl.png"}
     - {name: "Magazyn Programista", description: "Magazyn programistów i liderów zespołów IT", link: "https://programistamag.pl/", imageUrl: "programista.jpg"}
     - {name: "Nowiny", description: "Nowiny", link: "http://www.nowiny24.pl", imageUrl: "nowiny24.png"}
+    - {name: "PJUG", description: "Polish Java User Group", link: "https://www.java.pl/", imageUrl: "pjug.jpg"}
 -
   group: "Patronat honorowy"
   elements:
