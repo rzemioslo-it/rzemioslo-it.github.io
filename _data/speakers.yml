@@ -127,3 +127,13 @@
   social: 
     - {name: "facebook", link: "https://www.facebook.com/Namyslaw"}
     - {name: "github", link: "https://github.com/Szymaniuk"}
+- 
+  id: 9
+  name: "Łukasz"
+  surname: "Kopka"
+  title: ""
+  bio: >
+    ‎.NET Application Architect w Fabrity
+  thumbnailUrl: lk.jpg
+  rockstar: true
+  social: 

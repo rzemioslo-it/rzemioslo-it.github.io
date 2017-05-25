@@ -134,8 +134,10 @@
 -
   id: 008
   title: >
-    Prezentacja Fabrity
+    Wzorce godne naśladowania
   description: >
-    Więcej informacji wkrótce...
+    Tworzenie oprogramowania jest czymś więcej niż tylko pisaniem kodu, który ma wykonywać określone działania. Jest to przede wszystkim budowanie konstrukcji, która powinna być trwała, elastyczna, skalowalna oraz prosta pomimo swojej złożoności.
+    <br />
+    Jak uniknąć chaosu tworząc duże i małe rozwiązania? Odpowiedzią na to pytanie jest prezentacja w której przedstawię jak ważne jest wzorowanie się na doświadczeniach poprzedników. Omówię przystosowanie architektury do wymagań i potrzeb, które są przed nami stawiane z wykorzystaniem mikroserwisów. Odpowiem również na pytanie jaką rolę pełnią wzorce projektowe na przykładzie wzorca CQRS.
   subtype: presentation
   speakers: [9]
