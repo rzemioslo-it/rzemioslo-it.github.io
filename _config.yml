@@ -39,10 +39,10 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook-v2.png"
 
 # Navigation
 navigationLinks:
- - {permalink: "/schedule/", text: "Program"}
- - {permalink: "/speakers/", text: "Prelegenci"}
- - {permalink: "/team/", text: "Zespół"}
- - {permalink: "/logistics/", text: "Logistyka"}
+#- {permalink: "/schedule/", text: "Program"}
+#- {permalink: "/speakers/", text: "Prelegenci"}
+#- {permalink: "/team/", text: "Zespół"}
+#- {permalink: "/logistics/", text: "Logistyka"}
 navigationButtons:
  - {permalink: "/#tickets", text: "Kup bilet"}
 bottomNavigationLinks:
@@ -134,7 +134,6 @@ footerBlocks:
   title: "Linki"
   links:
    - {link: "https://www.meetup.com/rg-dev/", text: "rg-dev"}
-   - {link: "http://www.primebitstudio.com/pl", text: "PrimeBit Studio"}
    - {link: "http://rrug.pl/", text: "rrug"}
  -
   title: "Kontakt"
