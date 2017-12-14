@@ -43,6 +43,7 @@ navigationLinks:
 #- {permalink: "/speakers/", text: "Prelegenci"}
 - {permalink: "/team/", text: "Zespół"}
 - {permalink: "/logistics/", text: "Logistyka"}
+- {permalink: "/2017/", text: "2017"}
 navigationButtons:
  - {permalink: "/#tickets", text: "Kup bilet"}
 bottomNavigationLinks:
