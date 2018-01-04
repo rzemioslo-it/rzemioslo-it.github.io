@@ -6,7 +6,7 @@
   thumbnailUrl: team-wme.jpg
   team: true
   ribbon: 
-    - {abbr: "rg-dev", title: "Rzeszowska Grupa Developerska"}
+    - {abbr: "rg-dev", title: "Rzeszowska Grupa Dev"}
   social: 
     - {name: "twitter", link: "https://twitter.com/wmekal"}
     - {name: "github", link: "https://github.com/wmekal"}
@@ -18,7 +18,7 @@
   thumbnailUrl: team-jho.jpg
   team: true
   ribbon: 
-    - {abbr: "rg-dev", title: "Rzeszowska Grupa Developerska"}
+    - {abbr: "rg-dev", title: "Rzeszowska Grupa Dev"}
   social: 
     - {name: "facebook", link: "https://www.facebook.com/jakub.hossa"}
     - {name: "twitter", link: "https://twitter.com/JakubHossa"}
@@ -30,7 +30,7 @@
   thumbnailUrl: team-kso.jpg
   team: true
   ribbon: 
-    - {abbr: "rg-dev", title: "Rzeszowska Grupa Developerska"}
+    - {abbr: "rg-dev", title: "Rzeszowska Grupa Dev"}
   social: 
     - {name: "facebook", link: "https://www.facebook.com/krystian.sokolowski3"}
     - {name: "github", link: "https://github.com/ksokolowski7"}
@@ -43,7 +43,7 @@
   thumbnailUrl: team-ksi.jpg
   team: true
   ribbon: 
-    - {abbr: "rg-dev", title: "Rzeszowska Grupa Developerska"}
+    - {abbr: "rg-dev", title: "Rzeszowska Grupa Dev"}
   social: 
     - {name: "github", link: "https://github.com/ksierzega"}
 - 
@@ -54,20 +54,20 @@
   thumbnailUrl: team-pwo.jpg
   team: true
   ribbon: 
-    - {abbr: "rg-dev", title: "Rzeszowska Grupa Developerska"}
+    - {abbr: "rg-dev", title: "Rzeszowska Grupa Dev"}
   social: 
     - {name: "twitter", link: "https://twitter.com/pawelwojciak"}
-- 
-  id: 5
-  name: "Grzegorz"
-  surname: "Oronowicz"
-  title: "rg-dev"
-  thumbnailUrl: team-gor.jpg
-  team: true
-  ribbon: 
-    - {abbr: "rg-dev", title: "Rzeszowska Grupa Developerska"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/oronowiczg"}
+#- 
+# id: 5
+# name: "Grzegorz"
+# surname: "Oronowicz"
+# title: "rg-dev"
+# thumbnailUrl: team-gor.jpg
+# team: true
+# ribbon: 
+#   - {abbr: "rg-dev", title: "Rzeszowska Grupa Dev"}
+# social: 
+#   - {name: "twitter", link: "https://twitter.com/oronowiczg"}
 - 
   id: 6
   name: "Michał"

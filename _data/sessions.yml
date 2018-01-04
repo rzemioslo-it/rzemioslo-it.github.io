@@ -29,115 +29,25 @@
   service: true
   description: ""
 
--
-  id: 001
-  title: "Co gryzie świadomego programistę DDD?"
-  description: >
-    W swojej pracy trenera i doradcy wciąż trafiam na zespoły borykające
-    się z tymi samymi problemami - zarówno na poziomie kodu jak i na
-    poziomie architektury oraz strategii pozycjonowania się w organizacji:
-    <br /><br />
-    Czym jest "unit" w Unit teście?<br />
-    Które pola powinna zawierać klasa, w które należą gdzieś indziej - gdzie?<br />
-    Jak pogodzić trywialny CRUD ze skomplikowanymi regułami?<br />
-    Czy model działania smutnego urzędu jest odpowiednią metaforą dla RESTFul?<br />
-    Jak dzielić system na moduły - czym się kierować?<br />
-    Co robić jeżeli musisz emulować analityka w projekcie?<br />
-    Czy już jestem 'knowledge worker'?<br />
-    Jak wejść w rolę doradcy zamiast szarego podwykonawcy?<br />
-    <br />
-    Odpowiedzi na te podstawowe pytania są proste ale mogą być czynnikiem
-    dużej zmiany.
-  subtype: presentation
-  speakers: [1]
--
-  id: 002
-  title: "The only thing that matters"
-  description: >
-    Czy nowe bazy danych to faktycznie coś odkrywczego, czy może bazują na wzorcach, które sprawdzają się od lat?<br />
-    Czy istnieje wspólny mianownik między relacyjnymi bazami danych a podejściami takimi jak Event Sourcing czy messaging?<br />
-    Czy jest coś co pozwala zrozumieć sposób zapisu danych w SQL Server, Kafkce jak i Event Store?<br />
-    <br />
-    Podczas tej prezentacji zbudujemy od zera solidne fundamenty, na których będziesz mógł bazować ucząc się różnych techologii. Podstawy te sprawdzają się od lat i pomimo upływu czasu cały czas stanowią ważny element w projektowaniu i modelowaniu zarówno baz danych, bibliotek jak i systemów rozproszonych. Zapraszam do sięgnięcia po tę ważną cząstkę wiedzy!
-  subtype: presentation
-  speakers: [2]
--
-  id: 003
-  title: "Agile & architecture"
-  description: >
-    Świat jest niebezpiecznym miejscem. Pełny idei sprzecznych z sobą, które
-    budzą w ludziach najgorsze emocje. Wszystko to jednak tylko pozory.
-    Świat jest pełen elegancji, piękna i harmonii, ukrytych niezbyt głęboko.
-    Dostępnych tylko dla wytrwałych. To będzie opowieść o harmonii w systemach
-    (lub jej braku).
-    <br /><br />
-    Spróbuje zanurzyć się z wami w mój świat teorii systemów, pętli zwrotnych,
-    pułapek systemowych i punktów wyniesienia by pokazać czym jest dla mnie
-    architektura. Czy architektura może i nawet jej obowiązkiem jest być otwarta
-    na ewolucję i eksperyment. Jakie jest jej miejsce w świecie zwinnych metodologi,
-    lean startup i wszechobecnego kultu MVP.
-    <br /><br />
-    Chciałbym wam opowiedzieć, jak to myślenie działało w różnych projektach
-    zarówno tych zwinnych jak i prowadzonych metodologiami
-    których nazw wymieniać nie wolno. Przekonam was,mam nadzieje, że architekt,
-    to stan umysłu, a nie pozycja czy tytuły.
-  subtype: presentation
-  speakers: [3]
--
-  id: 004
-  title: "Elixir Miłości"
-  description: >
-    Elixir oczami programisty JavaScript i C# - jaki jest tajemny przepis na zrozumienie języka, nauczenie się go i zakochanie się w nim. A wszystko dzięki 1 godzinie tygodniowo. Na sesji opowiem o tym, na jakie trudności natrafiłem i dlaczego oraz co zrobić by ich uniknąć.
-  subtype: presentation
-  speakers: [4]
--
-  id: 005
-  title: "Od juniora do seniora czyli tam i z powrotem. Jak kierować swoją kariera na przykładzie własnym i znajomych"
-  description: >
-    10 lat po studiach. 3 firmy za sobą. 2 bardzo duże i znane projekty. 1 człowiek, czyli ja - Piotr Stapp. Jeżeli jesteś ciekaw odpowiedzi na pytania: 
-    <br /><br />
-    1) Jak szybko można zostać ekspertem i co to daje?<br />
-    2) Czy warto kończyć studia i czego warto się uczyć?<br />
-    3) Co zrobić gdy nagle zostaje się managerem?<br />
-    4) Ile mogę zarobić i jak dostać podwyżkę?<br />
-    <br />
-    To pewnie niestety na nie nie odpowiem. A przynajmniej nie tak jak byś chciał(a) usłyszeć. Opowiem za co ja zrobiłem przez ostatnie 15 lat swojego życia w sferze zawodowej, co mnie to nauczyło i co bym zmienił jak bym miał Delorean DMC-12 od doktora Browna. Spójrz na mój profil na LinkedIn i zastanów się czy warto posłuchać człowieka, który był w architekturze projektu nowy mBank i robił pierwszą wersję składania PIT przez internet czyli e-Deklaracje. Który ciągle siedzi w świecie .NET, choć zdarza mu się robić skoki w bok.
-    <br /><br />
-    10 lat robienia świetnego softu to kupa doświadczeń. W dobrym i złym znaczeniu słowa kupa :) Całość na podstawie doświadczeń moich i zasłyszancy od innych. 
-  subtype: presentation
-  speakers: [5]
--
-  id: 006
-  title: "Dlaczego programiści nie rozumieją wymagań?"
-  description: >
-    Projekty będące stratą firmowej kasy oraz generatorem smutku dla programisty - wszyscy takie znamy.<br />
-    Czy ich źródłem może być kiepski język, którym posługuje się w dokumentacji management?<br />
-    „Oczywiście" - zakrzyknie programista.<br />
-    „Niemożliwe!" - odpowie analityk.<br />
-    <br />
-    Ekipa z dalekiego i mroźnego Białegostoku wraz z małym obwoźnym teatrzykiem spróbuje pogodzić te dwa światy. Przedstawi wam najpopularniejsze wpadki występujące przy opisie wymagań w projekcie IT. Opowie czym skutkują, jak się przed nimi uchronić i co za tym idzie - pokazać, że nie warto "cebulić" pieniędzy i roboczogodzin na dobre przygotowanie wymagań. Zamierzony efekt? Lepsza komunikacja w waszych projektach, mniej przekleństw oraz WTFów oraz więcej miłości w waszych zespołach.<br />
-    Zapraszamy!
-  subtype: presentation
-  speakers: [6,7]
--
-  id: 007
-  title: >
-    Dlaczego warto "skakać" pomiędzy technologiami?
-  description: >
-    Tematem prezentacji będzie przedstawienie powodów, dla których warto „skakać” pomiędzy technologiami, zmieniać języki, środowiska programistyczne.
-    <br />
-    Jak wiele satysfakcji daje, a z drugiej strony jak wiele czasu i samozaparcia wymaga od nas zmiana technologii w IT.
-    <br />
-    Jak ogromny pogląd daje, pokazując nam „nowoczesność” lub też „zacofanie” danego języka/technologii, w porównaniu do innych.
-  subtype: presentation
-  speakers: [8]
--
-  id: 008
-  title: >
-    Wzorce godne naśladowania
-  description: >
-    Tworzenie oprogramowania jest czymś więcej niż tylko pisaniem kodu, który ma wykonywać określone działania. Jest to przede wszystkim budowanie konstrukcji, która powinna być trwała, elastyczna, skalowalna oraz prosta pomimo swojej złożoności.
-    <br />
-    Jak uniknąć chaosu tworząc duże i małe rozwiązania? Odpowiedzią na to pytanie jest prezentacja w której przedstawię jak ważne jest wzorowanie się na doświadczeniach poprzedników. Omówię przystosowanie architektury do wymagań i potrzeb, które są przed nami stawiane z wykorzystaniem mikroserwisów. Odpowiem również na pytanie jaką rolę pełnią wzorce projektowe na przykładzie wzorca CQRS.
-  subtype: presentation
-  speakers: [9]
+#-
+# id: 001
+# title: "Agile & architecture"
+# description: >
+#   Świat jest niebezpiecznym miejscem. Pełny idei sprzecznych z sobą, które
+#   budzą w ludziach najgorsze emocje. Wszystko to jednak tylko pozory.
+#   Świat jest pełen elegancji, piękna i harmonii, ukrytych niezbyt głęboko.
+#   Dostępnych tylko dla wytrwałych. To będzie opowieść o harmonii w systemach
+#   (lub jej braku).
+#   <br /><br />
+#   Spróbuje zanurzyć się z wami w mój świat teorii systemów, pętli zwrotnych,
+#   pułapek systemowych i punktów wyniesienia by pokazać czym jest dla mnie
+#   architektura. Czy architektura może i nawet jej obowiązkiem jest być otwarta
+#   na ewolucję i eksperyment. Jakie jest jej miejsce w świecie zwinnych metodologi,
+#   lean startup i wszechobecnego kultu MVP.
+#   <br /><br />
+#   Chciałbym wam opowiedzieć, jak to myślenie działało w różnych projektach
+#   zarówno tych zwinnych jak i prowadzonych metodologiami
+#   których nazw wymieniać nie wolno. Przekonam was,mam nadzieje, że architekt,
+#   to stan umysłu, a nie pozycja czy tytuły.
+# subtype: presentation
+# speakers: [1]
