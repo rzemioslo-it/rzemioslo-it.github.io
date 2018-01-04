@@ -43,7 +43,7 @@ navigationLinks:
 #- {permalink: "/speakers/", text: "Prelegenci"}
 - {permalink: "/team/", text: "Zespół"}
 - {permalink: "/logistics/", text: "Logistyka"}
-- {permalink: "/2017/", text: "2017"}
+- {link: "http://2017.rzemioslo.it", text: "2017"}
 navigationButtons:
  - {permalink: "/#tickets", text: "Kup bilet"}
 bottomNavigationLinks:
@@ -119,6 +119,14 @@ subscribeImage: "subscribe.jpg"
 subscribeTitle: "Rejestracja rozpoczęta!"
 subscribeButtons:
   - {permalink: "/#tickets", text: "Kup bilet"}
+
+# Last edition Block
+lastEditionImage: "last-edition.jpg"
+lastEditionTitle: "Jak było w 2017 roku?"
+lastEditionButtons:
+  - {link: "https://www.facebook.com/pg/rzemiosloit/photos/?tab=album&album_id=1783044338622013", text: "Relacja fotograficzna"}
+  - {link: "https://www.youtube.com/watch?v=SUaSTnOcod0", text: "Relacja wideo"}
+  - {link: "http://2017.rzemioslo.it/media", text: "Media o nas"}
 
 # Tickets Block
 ticketsTitle: "Bilety"
