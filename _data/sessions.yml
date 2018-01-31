@@ -30,6 +30,14 @@
   description: ""
 
 #-
+#  id: 001
+#  title: "Wkrótce..."
+#  description: >
+#    Więcej szczegółów wkrótce...
+#  subtype: presentation
+#  speakers: [1]
+
+#-
 # id: 001
 # title: "Agile & architecture"
 # description: >
