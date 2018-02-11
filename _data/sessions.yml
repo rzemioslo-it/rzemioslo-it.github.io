@@ -37,25 +37,12 @@
 #  subtype: presentation
 #  speakers: [1]
 
-#-
-# id: 001
-# title: "Agile & architecture"
-# description: >
-#   Świat jest niebezpiecznym miejscem. Pełny idei sprzecznych z sobą, które
-#   budzą w ludziach najgorsze emocje. Wszystko to jednak tylko pozory.
-#   Świat jest pełen elegancji, piękna i harmonii, ukrytych niezbyt głęboko.
-#   Dostępnych tylko dla wytrwałych. To będzie opowieść o harmonii w systemach
-#   (lub jej braku).
-#   <br /><br />
-#   Spróbuje zanurzyć się z wami w mój świat teorii systemów, pętli zwrotnych,
-#   pułapek systemowych i punktów wyniesienia by pokazać czym jest dla mnie
-#   architektura. Czy architektura może i nawet jej obowiązkiem jest być otwarta
-#   na ewolucję i eksperyment. Jakie jest jej miejsce w świecie zwinnych metodologi,
-#   lean startup i wszechobecnego kultu MVP.
-#   <br /><br />
-#   Chciałbym wam opowiedzieć, jak to myślenie działało w różnych projektach
-#   zarówno tych zwinnych jak i prowadzonych metodologiami
-#   których nazw wymieniać nie wolno. Przekonam was,mam nadzieje, że architekt,
-#   to stan umysłu, a nie pozycja czy tytuły.
-# subtype: presentation
-# speakers: [1]
+-
+  id: 001
+  title: "Thinking in Events"
+  description: >
+    Modelowanie złożonych problemów jest skomplikowane i często prowadzi do równie skomplikowanego kodu. Kontrolery, repozytoria, usługi, warunki biznesowe, formularze, widoki - wymagania biznesowe klienta często infiltrują te warstwy, wszystko jest ze sobą połączone, a kod staje się trudny do czytania, zrozumienia i rozwoju. A gdy potrzeba rozszerzyć lub zmodyfikować logikę biznesową, i trzeba „przekopać” się przez dziesiątki (a czasami i setki) linii kontrolerów czy serwisów, próbując zrozumieć sens i rolę wszystkich obiektów lub zidentyfikować zakres zmian, może nadszedł czas na inne podejście… Podejście „Thinking in Events” oznacza, że można być w pełni skoncentrowanym na problemie domenowym i implementacji testowalnej logiki biznesowej. Wykorzystując zdarzenia domenowe jako źródło informacji, skomplikowane technicznie elementy jak bazy danych czy web-frameworki stają się jedynie szczegółami implementacyjnymi, od których nie zależy zbyt wiele. 
+    <br /><br />
+    Podczas prezentacji zapoznasz się więc z technikami odkrywania eventów domenowych i wykorzystania ich zarówno w implementacji jak i na poziomie biznesowym, do lepszego zrozumienia i usprawnienia procesów. Porozmawiamy więc o wykorzystaniu eventów do komunikacji wewnątrz systemu, konceptach event/command/query busów, stosowaniu Event Sourcing do przechowywania historii zmian, czy też rozdzielaniu zapis od odczytu z wykorzystaniem CQRS, aby zwiększyć wydajność, skalowalność i bezpieczeństwo całego systemu. Będąc jednocześnie skoncentrowanym na realnym problemie biznesowym, bez rozpraszania zbędnymi detalami kodu.
+  subtype: presentation
+  speakers: [2]
