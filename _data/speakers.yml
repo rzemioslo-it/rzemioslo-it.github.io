@@ -1,10 +1,10 @@
-- 
+-
   id: 1
   name: "Jarosław"
   surname: "Pałka"
   title: ""
   bio: >
-    Od ponad 20 lat w branży IT, jako administrator baz danych, programista, 
+    Od ponad 20 lat w branży IT, jako administrator baz danych, programista,
     architekt, manager i „inżynier od spraw katastrof”. Brałem udział w małych,
     średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami
     „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze
@@ -23,39 +23,50 @@
     w radach programowych konferencji JDD oraz 4Developers.
   thumbnailUrl: jp.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/j_palka"}
 
-- 
+-
   id: 2
   name: "Mariusz"
   surname: "Gil"
   title: ""
   bio: >
-    Software architect interesujący się złożonymi systemami o wysokiej wartości biznesowej, 
-    związany głównie z platformami webowymi. ex-CTO, konsultant, speaker i trener w Bottega IT Minds. 
-    Z branżą IT związany od ponad 16 lat. Entuzjasta rozwiązań big-data i machine-learning, 
-    a także osiąganych przy ich pomocy efektów. Po godzinach oddaje się swoim innym pasjom, 
+    Software architect interesujący się złożonymi systemami o wysokiej wartości biznesowej,
+    związany głównie z platformami webowymi. ex-CTO, konsultant, speaker i trener w Bottega IT Minds.
+    Z branżą IT związany od ponad 16 lat. Entuzjasta rozwiązań big-data i machine-learning,
+    a także osiąganych przy ich pomocy efektów. Po godzinach oddaje się swoim innym pasjom,
     fotografii i gitarze elektrycznej.
   thumbnailUrl: mg-v2.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/mariuszgil"}
 
-- 
+-
   id: 3
   name: "Szymon"
   surname: "Warda"
   title: ""
   bio: >
-    With .NET from version 1.1 and with web development from the time when IE6 was the “better” browser. 
-    Working with machine learning, cloud, and big data by day. By night a developer of <a href="http://cookit.pl/">cookit.pl</a> - 
-    a pet project processing hundred of gigabytes of data with whatever suits the problem best 
-    (Graph databases/ML/C#/F#). Technology enthusiast, Neo4j ambassador, speaker, 
+    With .NET from version 1.1 and with web development from the time when IE6 was the “better” browser.
+    Working with machine learning, cloud, and big data by day. By night a developer of <a href="http://cookit.pl/">cookit.pl</a> -
+    a pet project processing hundred of gigabytes of data with whatever suits the problem best
+    (Graph databases/ML/C#/F#). Technology enthusiast, Neo4j ambassador, speaker,
     and a blogger at <a href="http://IndexOutOfRange.com/">IndexOutOfRange.com</a>
   thumbnailUrl: sw.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/maklipsa"}
     - {name: "github", link: "https://github.com/maklipsa"}
     - {name: "linkedin", link: "https://linkedin.com/in/szymonwarda"}
+
+-
+  id: 4
+  name: "Konrad"
+  surname: "Kaplita"
+  title: ""
+  bio: >
+    CTO w firmie <a href='https://appliscale.io/'>Appliscale</a>, programista języka Erlang oraz entuzjasta programowania funkcyjnego. Doświadczony konsultant IT z ponad 8 latami doświadczenia. Współpracował z klientami z branży InfoSec, Automotive, Wireless Networking oraz Adtech. Rozwijał i projektował rozproszone systemy wysokiej niezawodności. Obecnie mocno zaangażowany w problemy z dziedziny cloud computing, głównie na platformie Amazon AWS.
+  thumbnailUrl: kk.png
+  rockstar: true
+  social:
