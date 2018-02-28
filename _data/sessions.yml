@@ -29,14 +29,6 @@
   service: true
   description: ""
 
-#-
-#  id: 001
-#  title: "Wkrótce..."
-#  description: >
-#    Więcej szczegółów wkrótce...
-#  subtype: presentation
-#  speakers: [1]
-
 -
   id: 001
   title: "Thinking in Events"
@@ -46,3 +38,15 @@
     Podczas prezentacji zapoznasz się więc z technikami odkrywania eventów domenowych i wykorzystania ich zarówno w implementacji jak i na poziomie biznesowym, do lepszego zrozumienia i usprawnienia procesów. Porozmawiamy więc o wykorzystaniu eventów do komunikacji wewnątrz systemu, konceptach event/command/query busów, stosowaniu Event Sourcing do przechowywania historii zmian, czy też rozdzielaniu zapis od odczytu z wykorzystaniem CQRS, aby zwiększyć wydajność, skalowalność i bezpieczeństwo całego systemu. Będąc jednocześnie skoncentrowanym na realnym problemie biznesowym, bez rozpraszania zbędnymi detalami kodu.
   subtype: presentation
   speakers: [2]
+
+-
+  id: 002
+  title: "Sagi, strumienie, reaktywność i inne buzzwordy"
+  description: >
+    Dzień za dniem, CRUD za CRUD'em, dni przeciekają między palcami pośród takich samych usług RESTowych. Smutek, zgryzota, szara codzienność. Jedyną radością jest nowa wersja Spring MVC czy też kolejne potyczki pomiędzy obozami RESTafarian. Lecz czasami, raz w życiu, dostajesz w swoje ręce projekt, który budzi Cię do życia. Tym projektem jest "data streaming". I od teraz wszystko co wiesz, całe zdobyte doświadczenie, nie ma już znaczenia.
+    <br /><br />
+    Hektolitry zdarzeń w binarnym formacie spadają na Twoją głowę jak konfetti. Nagle Twoim problemem zaczyna być opóźnienie w czasach odpowiedzi na poziomie milisekund, rozmiary kolejek i pule wątków. A GC topi kwarc na Twoich procesorach. Głowę zaprzątasz sobie problemami "causal consistency" i "happens beforemilisekund, rozmiarami kolejek i pulami wątków.
+    <br /><br />
+    Ta prezentacja to pamiętnik z pola bitwy. Opowieść o RX extensions, Apache Kafka i Hazelcast. Opowieść o tym, kiedy budowanie własnego rozwiązania ma sens. O tym z jakimi problemami się spotkacie, których będziecie starali się unikać jak ognia, a które z nich będziecie musieli rozwiązać sami. Zastanowimy sie też jakie problemy pomożecie rozwiązać biznesowi wykorzystując strumieniowanie danych. A jeśli jedyne co pozostanie po tej prezentacji w Waszych głowach, to świadomość, że kolejność zdarzeń ma znaczenie i wiedza na temat tego jak radzić sobie z tym w systemach rozproszonych, wówczas uznam to za sukces.
+  subtype: presentation
+  speakers: [1]
