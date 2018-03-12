@@ -2,7 +2,6 @@
   group: "Główni organizatorzy"
   elements: 
     - {name: "rg-dev", description: "rg-dev - Rzeszowska Grupa Dev", link: "https://www.meetup.com/rg-dev/", imageUrl: "rg-dev.png"}
-    - {name: "PrimeBit Studio", description: "PrimeBit Studio", link: "http://www.primebitstudio.com/pl", imageUrl: "primebit-studio.png"}
     - {name: "RRUG", description: "Rzeszów Ruby User Group", link: "http://rrug.pl", imageUrl: "rrug.png"}
 #- 
 #  group: "Patronat honorowy"
