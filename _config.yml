@@ -39,7 +39,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook-v3.png"
 
 # Navigation
 navigationLinks:
-#- {permalink: "/schedule/", text: "Program"}
+- {permalink: "/schedule/", text: "Program"}
 - {permalink: "/speakers/", text: "Prelegenci"}
 - {permalink: "/team/", text: "Zespół"}
 - {permalink: "/logistics/", text: "Logistyka"}

@@ -86,3 +86,15 @@
     <p><em>Cloud is cheap when the design is good.</em></p>
   subtype: presentation
   speakers: [3]
+-
+  id: 007
+  title: Już wkrótce...
+  description: >
+  subtype: presentation
+  speakers: [4]
+-
+  id: 008
+  title: Już wkrótce...
+  description: >
+  subtype: presentation
+  speakers: [8]

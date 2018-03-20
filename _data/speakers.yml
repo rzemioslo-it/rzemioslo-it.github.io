@@ -113,3 +113,12 @@
   thumbnailUrl: 'ps-new.jpg'
   rockstar: true
   social:
+-
+  id: 8
+  name: Prelegent
+  surname: Fabrity
+  title: ""
+  bio: >
+  thumbnailUrl: 'placeholder.png'
+  rockstar: true
+  social:
