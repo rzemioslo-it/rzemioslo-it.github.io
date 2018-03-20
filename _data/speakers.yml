@@ -70,3 +70,43 @@
   thumbnailUrl: kk.png
   rockstar: true
   social:
+
+-
+  id: 5
+  name: "Maciej"
+  surname: "Aniserowicz"
+  title: ""
+  bio: >
+    <p>Po pierwsze: programista-pasjonat. Człowiek od wszystkiego związanego z programowaniem. Autor książki <a href='https://zawodprogramista.pl/'>"Zawód: Programista"</a>.</p>
+    <p>Po drugie: pragmatyczny trener z misją dostarczania wyjątkowych szkoleń, faktycznie zmieniających sposób pracy i myślenia.</p>
+    <p>Po trzecie: żyje i oddycha polską społecznością programistyczną. Autor dev-bloga: <a href='http://devstyle.pl'>devstyle.pl</a> i <a href='https://www.youtube.com/playlist?list=PLN2dx2pIJO6PgjbbxEwrPO2eWyQe_3Iop'>VLOGa</a> na YouTube. Twórca podcasta programistycznego: <a href='devstyle.pl'>DevTalk</a>. Prelegent na największych polskich konferencjach oraz grupach pasjonackich w całym kraju. Współorganizator legendarnej konferencji Programistok. Organizator konkursu Daj Się Poznać. Jeden z ex-liderów Białostockiej Grupy .NET.</p>
+    <p>Od 2008 posiadacz tytułu Microsoft MVP (Most Valuable Professional) w kategorii .NET.</p>
+    <p>Od 2005 Microsoft Certified Professional.</p>
+    <p>Prywatnie: mąż, tata. Dużo myśli, nieustannie poznając siebie. Słucha dobrej muzyki każdego rodzaju. Rozbił się na torze wyścigowym i znalazł w tym prawie same pozytywy.</p>
+  thumbnailUrl: maciej-aniserowicz.jpeg
+  rockstar: true
+  social:
+
+-
+  id: 6
+  name: Jakub
+  surname: Mrugalski
+  title: ""
+  bio: >
+    Pasjonat bezpieczeństwa webowego. Programista, administrator serwerów linuksowych, youtuber, publicysta, a zawodowo specjalista od pentestów i szkoleniowiec w firmie <a href='http://niebezpiecznik.pl'>Niebezpiecznik.pl</a>.
+
+  thumbnailUrl: jakub-mrugalski.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/uwteam"}
+    - {name: "www", link: "http://mrugalski.pl/"}
+
+-
+  id: 7
+  name: Piotr
+  surname: Stapp
+  title: ""
+  bio:
+  thumbnailUrl: 'placeholder.png'
+  rockstar: true
+  social:

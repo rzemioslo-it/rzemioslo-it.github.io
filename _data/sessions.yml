@@ -33,9 +33,8 @@
   id: 001
   title: "Thinking in Events"
   description: >
-    Modelowanie złożonych problemów jest skomplikowane i często prowadzi do równie skomplikowanego kodu. Kontrolery, repozytoria, usługi, warunki biznesowe, formularze, widoki - wymagania biznesowe klienta często infiltrują te warstwy, wszystko jest ze sobą połączone, a kod staje się trudny do czytania, zrozumienia i rozwoju. A gdy potrzeba rozszerzyć lub zmodyfikować logikę biznesową, i trzeba „przekopać” się przez dziesiątki (a czasami i setki) linii kontrolerów czy serwisów, próbując zrozumieć sens i rolę wszystkich obiektów lub zidentyfikować zakres zmian, może nadszedł czas na inne podejście… Podejście „Thinking in Events” oznacza, że można być w pełni skoncentrowanym na problemie domenowym i implementacji testowalnej logiki biznesowej. Wykorzystując zdarzenia domenowe jako źródło informacji, skomplikowane technicznie elementy jak bazy danych czy web-frameworki stają się jedynie szczegółami implementacyjnymi, od których nie zależy zbyt wiele. 
-    <br /><br />
-    Podczas prezentacji zapoznasz się więc z technikami odkrywania eventów domenowych i wykorzystania ich zarówno w implementacji jak i na poziomie biznesowym, do lepszego zrozumienia i usprawnienia procesów. Porozmawiamy więc o wykorzystaniu eventów do komunikacji wewnątrz systemu, konceptach event/command/query busów, stosowaniu Event Sourcing do przechowywania historii zmian, czy też rozdzielaniu zapis od odczytu z wykorzystaniem CQRS, aby zwiększyć wydajność, skalowalność i bezpieczeństwo całego systemu. Będąc jednocześnie skoncentrowanym na realnym problemie biznesowym, bez rozpraszania zbędnymi detalami kodu.
+    <p>Modelowanie złożonych problemów jest skomplikowane i często prowadzi do równie skomplikowanego kodu. Kontrolery, repozytoria, usługi, warunki biznesowe, formularze, widoki - wymagania biznesowe klienta często infiltrują te warstwy, wszystko jest ze sobą połączone, a kod staje się trudny do czytania, zrozumienia i rozwoju. A gdy potrzeba rozszerzyć lub zmodyfikować logikę biznesową, i trzeba „przekopać” się przez dziesiątki (a czasami i setki) linii kontrolerów czy serwisów, próbując zrozumieć sens i rolę wszystkich obiektów lub zidentyfikować zakres zmian, może nadszedł czas na inne podejście… Podejście „Thinking in Events” oznacza, że można być w pełni skoncentrowanym na problemie domenowym i implementacji testowalnej logiki biznesowej. Wykorzystując zdarzenia domenowe jako źródło informacji, skomplikowane technicznie elementy jak bazy danych czy web-frameworki stają się jedynie szczegółami implementacyjnymi, od których nie zależy zbyt wiele.</p>
+    <p>Podczas prezentacji zapoznasz się więc z technikami odkrywania eventów domenowych i wykorzystania ich zarówno w implementacji jak i na poziomie biznesowym, do lepszego zrozumienia i usprawnienia procesów. Porozmawiamy więc o wykorzystaniu eventów do komunikacji wewnątrz systemu, konceptach event/command/query busów, stosowaniu Event Sourcing do przechowywania historii zmian, czy też rozdzielaniu zapis od odczytu z wykorzystaniem CQRS, aby zwiększyć wydajność, skalowalność i bezpieczeństwo całego systemu. Będąc jednocześnie skoncentrowanym na realnym problemie biznesowym, bez rozpraszania zbędnymi detalami kodu.</p>
   subtype: presentation
   speakers: [2]
 
@@ -43,10 +42,38 @@
   id: 002
   title: "Sagi, strumienie, reaktywność i inne buzzwordy"
   description: >
-    Dzień za dniem, CRUD za CRUD'em, dni przeciekają między palcami pośród takich samych usług RESTowych. Smutek, zgryzota, szara codzienność. Jedyną radością jest nowa wersja Spring MVC czy też kolejne potyczki pomiędzy obozami RESTafarian. Lecz czasami, raz w życiu, dostajesz w swoje ręce projekt, który budzi Cię do życia. Tym projektem jest "data streaming". I od teraz wszystko co wiesz, całe zdobyte doświadczenie, nie ma już znaczenia.
-    <br /><br />
-    Hektolitry zdarzeń w binarnym formacie spadają na Twoją głowę jak konfetti. Nagle Twoim problemem zaczyna być opóźnienie w czasach odpowiedzi na poziomie milisekund, rozmiary kolejek i pule wątków. A GC topi kwarc na Twoich procesorach. Głowę zaprzątasz sobie problemami "causal consistency" i "happens beforemilisekund, rozmiarami kolejek i pulami wątków.
-    <br /><br />
-    Ta prezentacja to pamiętnik z pola bitwy. Opowieść o RX extensions, Apache Kafka i Hazelcast. Opowieść o tym, kiedy budowanie własnego rozwiązania ma sens. O tym z jakimi problemami się spotkacie, których będziecie starali się unikać jak ognia, a które z nich będziecie musieli rozwiązać sami. Zastanowimy sie też jakie problemy pomożecie rozwiązać biznesowi wykorzystując strumieniowanie danych. A jeśli jedyne co pozostanie po tej prezentacji w Waszych głowach, to świadomość, że kolejność zdarzeń ma znaczenie i wiedza na temat tego jak radzić sobie z tym w systemach rozproszonych, wówczas uznam to za sukces.
+    <p>Dzień za dniem, CRUD za CRUD'em, dni przeciekają między palcami pośród takich samych usług RESTowych. Smutek, zgryzota, szara codzienność. Jedyną radością jest nowa wersja Spring MVC czy też kolejne potyczki pomiędzy obozami RESTafarian. Lecz czasami, raz w życiu, dostajesz w swoje ręce projekt, który budzi Cię do życia. Tym projektem jest "data streaming". I od teraz wszystko co wiesz, całe zdobyte doświadczenie, nie ma już znaczenia.</p>
+    <p>Hektolitry zdarzeń w binarnym formacie spadają na Twoją głowę jak konfetti. Nagle Twoim problemem zaczyna być opóźnienie w czasach odpowiedzi na poziomie milisekund, rozmiary kolejek i pule wątków. A GC topi kwarc na Twoich procesorach. Głowę zaprzątasz sobie problemami "causal consistency" i "happens beforemilisekund, rozmiarami kolejek i pulami wątków.</p>
+    <p>Ta prezentacja to pamiętnik z pola bitwy. Opowieść o RX extensions, Apache Kafka i Hazelcast. Opowieść o tym, kiedy budowanie własnego rozwiązania ma sens. O tym z jakimi problemami się spotkacie, których będziecie starali się unikać jak ognia, a które z nich będziecie musieli rozwiązać sami. Zastanowimy sie też jakie problemy pomożecie rozwiązać biznesowi wykorzystując strumieniowanie danych. A jeśli jedyne co pozostanie po tej prezentacji w Waszych głowach, to świadomość, że kolejność zdarzeń ma znaczenie i wiedza na temat tego jak radzić sobie z tym w systemach rozproszonych, wówczas uznam to za sukces.</p>
   subtype: presentation
   speakers: [1]
+
+-
+  id: 003
+  title: Szczęśliwy programista? Kluczowe wskazówki do udanej kariery w IT
+  description: >
+    <p>Szczęśliwy programista? Kluczowe wskazówki do udanej kariery w IT</p>
+    <p>Branża IT oferuje wielkie szanse rozwoju: zarówno zawodowego, jak i osobistego. Pracownicy z tych środowisk są często postrzegani jako szczęściarze. I... nie jest to perspektywa pozbawiona podstaw. Z reguły jest nam "dobrze".</p>
+    <p>Jednak z jakże upragnionym przez nas komfortem wiąże się niebezpieczeństwo: uzależnienie. Uzależnienie od wygody i beztroski. Wbrew pozorom nie trzeba jednak wiele, by w pełni cieszyć się wolnością, zachowując wszystkie benefity rzucone nam przez cywilizację.</p>
+    <p>Jak?</p>
+    <p>Na swojej kilkunastoletniej ścieżce popełniłem wiele błędów i wyciągnąłem nieco wniosków. Dostałem niejedną nauczkę, ale każde przykre doświadczenie okazywało się na dłuższą metę bezcenne. Po ponad dekadzie życia w pełni poświęconego programowaniu... uwolniłem się. Nadal czerpię korzyści z uprzywilejowanej pozycji, jaką daje  "części IT", ale jednocześnie rozwijam różne pasje i umiejętności. Programuję, jeśli chcę, a nie "bo muszę". Świadomie decyduję, czy to jest najlepsze wykorzystanie mojego czasu i potencjału w danym momencie.</p>
+    <p>Jak?</p>
+    <p>Kiedyś nie miałem takich możliwości ani nawet refleksji. Podczas tej prezentacji zaproszę Cię do chwili zastanowienia się nad prowadzeniem swojej własnej kariery w dżungli IT. Co możemy zrobić, by w pełni wykorzystać te wyjątkowe - a przecież przejściowe - możliwości?</p>
+    <p>I... JAK?</p>
+  subtype: presentation
+  speakers: [5]
+-
+  id: 004
+  title: Jak minimalnym nakładem pracy podnieść bezpieczeństwo strony WWW?
+  description: >
+  subtype: presentation
+  speakers: [6]
+
+-
+  id: 004
+  title: Chmura jest jak alkohol
+  description: >
+    <p>Chmura wydaje się naturalnym wyborem dla nowego projektu. Bądźmy szczerzy jedynym wyborem jak posłucha się programistów. Więc zebraliśmy zespół kilku naprawdę dobrych ludzi, posadziliśmy ich w jednym miejscu i się zaczęło. Najpierw fascynacja, lawina postów i szybkie PoC. Można by rzec cud, miód i orzeszki. Ale prawda jest taka, ze wiedzieliśmy niewiele. Właśnie stuknęło nam 12 miesięcy pracy z chmurą przy budowaniu jasno zdefiniowanego produktu. Dużo się nauczyliśmy i właśnie tą nauką chcielibyśmy się z Wami podzielić. Praktycznie i szczerze, trochę o tym co się udało, ale też sporo o tym co nie do końca. Bo to chyba nawet ważniejsze.</p>
+    <p>Buzz words (Docker, k8s, serverless, PaaS, DevOps, magic&tricks, Oh my God!, F…K) pojawiają się równie szybko co znikają. A my usiądziemy razem i opowiemy naszą historię dlaczego uważamy, że chmura jest jak alkohol. Spróbujemy sprecyzować kiedy jest to dobre piwo, kiedy tanie wino, a kiedy łącka śliwowica. Bo my w FinAi już każdy „alkohol” próbowaliśmy i wiemy co powoduje kaca.</p>
+  subtype: presentation
+  speakers: [7]
