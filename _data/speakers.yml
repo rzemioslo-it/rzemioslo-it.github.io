@@ -21,7 +21,7 @@
     architektury na konferencjach w Polsce. W chwilach trener w <a href="http://symentis.pl">http://symentis.pl</a>
     i autor bloga na <a href="http://geekyprimitives.wordpress.com/">http://geekyprimitives.wordpress.com/</a> oraz samozwańczy dyktator
     w radach programowych konferencji JDD oraz 4Developers.
-  thumbnailUrl: jp.jpg
+  thumbnailUrl: jp-new.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/j_palka"}
@@ -106,7 +106,10 @@
   name: Piotr
   surname: Stapp
   title: ""
-  bio:
-  thumbnailUrl: 'placeholder.png'
+  bio: >
+    Programista, inżynier, rzemieślnik, projektant i rowerzysta. Korzysta z każdej technologii, która prowadzi do celu. Wierzy w ludzi, a nie w papiery. Jest wyznawcą DevOps i wszelkiej automatyzacji.<br />
+    Jak przystało na człowieka inteligentnego, prowadzi bloga – o tyle wyjątkowego, że regularnie pojawiają się tam nowe teksty: <a href="http://stapp.space/">http://stapp.space/</a>.<br />
+    Do niedawna Ekspert IT w mBanku. Obecnie współtworzy nowy fintech – FinAi, w którym pracuje nad zamianą rzeczy skomplikowanych na proste. A to czasem bywa trudne.
+  thumbnailUrl: 'ps-new.jpg'
   rockstar: true
   social:

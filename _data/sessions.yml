@@ -70,10 +70,19 @@
   speakers: [6]
 
 -
-  id: 004
+  id: 005
   title: Chmura jest jak alkohol
   description: >
     <p>Chmura wydaje się naturalnym wyborem dla nowego projektu. Bądźmy szczerzy jedynym wyborem jak posłucha się programistów. Więc zebraliśmy zespół kilku naprawdę dobrych ludzi, posadziliśmy ich w jednym miejscu i się zaczęło. Najpierw fascynacja, lawina postów i szybkie PoC. Można by rzec cud, miód i orzeszki. Ale prawda jest taka, ze wiedzieliśmy niewiele. Właśnie stuknęło nam 12 miesięcy pracy z chmurą przy budowaniu jasno zdefiniowanego produktu. Dużo się nauczyliśmy i właśnie tą nauką chcielibyśmy się z Wami podzielić. Praktycznie i szczerze, trochę o tym co się udało, ale też sporo o tym co nie do końca. Bo to chyba nawet ważniejsze.</p>
     <p>Buzz words (Docker, k8s, serverless, PaaS, DevOps, magic&tricks, Oh my God!, F…K) pojawiają się równie szybko co znikają. A my usiądziemy razem i opowiemy naszą historię dlaczego uważamy, że chmura jest jak alkohol. Spróbujemy sprecyzować kiedy jest to dobre piwo, kiedy tanie wino, a kiedy łącka śliwowica. Bo my w FinAi już każdy „alkohol” próbowaliśmy i wiemy co powoduje kaca.</p>
   subtype: presentation
   speakers: [7]
+-
+  id: 006
+  title: Azure for less than one dollar a day 
+  description: >
+    <p>We, developers and architects, talk about cloud PaaS and SaaS offerings mostly looking at features, millions of requests a second it can process and how much easier it would be if we just switched from X to Y. What we don’t talk about is how much would it cost. Is feature Y worth the additional cost? How to design a cloud system that will have an acceptable financial footprint for the project to take off?</p>
+    <p>This talk aim is to help developers look at designing a system in Azure from a financial point of view. We will see how to utilize multiple Azure services to lover the cost, make better-informed decisions and in the end, design a better less error-prone and more scalable application because:</p>
+    <p><em>Cloud is cheap when the design is good.</em></p>
+  subtype: presentation
+  speakers: [3]

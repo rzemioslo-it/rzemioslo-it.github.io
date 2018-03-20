@@ -57,17 +57,17 @@
     - {abbr: "rg-dev", title: "Rzeszowska Grupa Dev"}
   social: 
     - {name: "twitter", link: "https://twitter.com/pawelwojciak"}
-#- 
-# id: 5
-# name: "Grzegorz"
-# surname: "Oronowicz"
-# title: "rg-dev"
-# thumbnailUrl: team-gor.jpg
-# team: true
-# ribbon: 
-#   - {abbr: "rg-dev", title: "Rzeszowska Grupa Dev"}
-# social: 
-#   - {name: "twitter", link: "https://twitter.com/oronowiczg"}
+- 
+ id: 5
+ name: "Grzegorz"
+ surname: "Oronowicz"
+ title: "rg-dev"
+ thumbnailUrl: team-gor.jpg
+ team: true
+ ribbon: 
+   - {abbr: "rg-dev", title: "Rzeszowska Grupa Dev"}
+ social: 
+   - {name: "twitter", link: "https://twitter.com/oronowiczg"}
 - 
   id: 6
   name: "Michał"
