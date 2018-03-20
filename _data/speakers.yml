@@ -70,7 +70,7 @@
   thumbnailUrl: kk.png
   rockstar: true
   social:
-
+    - {name: "twitter", link: "https://twitter.com/konradkaplita"}
 -
   id: 5
   name: "Maciej"
@@ -86,7 +86,11 @@
   thumbnailUrl: maciej-aniserowicz.jpeg
   rockstar: true
   social:
-
+    - {name: "site", link: "https://devstyle.pl/"}
+    - {name: "twitter", link: "https://twitter.com/maniserowicz"}
+    - {name: "facebook", link: "https://www.facebook.com/devstylepl"}
+    - {name: "youtube", link: "https://www.youtube.com/devstylepl"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maciejaniserowicz"}
 -
   id: 6
   name: Jakub
@@ -99,7 +103,7 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/uwteam"}
-    - {name: "www", link: "http://mrugalski.pl/"}
+    - {name: "site", link: "http://mrugalski.pl/"}
 
 -
   id: 7
@@ -113,6 +117,8 @@
   thumbnailUrl: 'ps-new.jpg'
   rockstar: true
   social:
+    - {name: "twitter", link: "https://twitter.com/ptrstpp950"}
+    - {name: "github", link: "https://github.com/ptrstpp950"}
 -
   id: 8
   name: Prelegent
