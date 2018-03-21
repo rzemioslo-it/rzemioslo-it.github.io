@@ -19,6 +19,8 @@
     - {name: "ERP-view", description: "ERP-view system rozwiązań IT w biznesie", link: "http://www.erp-view.pl", imageUrl: "erp-view.png"}
     - {name: "Magazyn IT", description: "Magazyn IT", link: "http://www.magazynit.pl", imageUrl: "magazynit.png"}
     - {name: "ERP24.pl", description: "ERP - systemy ERP", link: "http://www.erp24.pl", imageUrl: "erp24pl.jpg"}
+    - {name: "Nowiny24", description: "Nowiny24", link: "http://www.nowiny24.pl", imageUrl: "nowiny24.png"}
+    - {name: "Nowiny", description: "Nowiny - gazeta codzienna", link: "http://www.nowiny24.pl", imageUrl: "nowiny.png"}
 
 # -
 #   group: "Partnerzy złoci"
