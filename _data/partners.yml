@@ -21,6 +21,7 @@
     - {name: "ERP24.pl", description: "ERP - systemy ERP", link: "http://www.erp24.pl", imageUrl: "erp24pl.jpg"}
     - {name: "Nowiny24", description: "Nowiny24", link: "http://www.nowiny24.pl", imageUrl: "nowiny24.png"}
     - {name: "Nowiny", description: "Nowiny - gazeta codzienna", link: "http://www.nowiny24.pl", imageUrl: "nowiny.png"}
+    - {name: "SegFault", description: "SegFault - wszyscy jesteśmy architektami", link: "http://segfault.events", imageUrl: "segfault.jpg"}
 
 # -
 #   group: "Partnerzy złoci"
