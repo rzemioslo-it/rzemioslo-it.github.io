@@ -67,7 +67,7 @@
   title: ""
   bio: >
     CTO w firmie <a href='https://appliscale.io/'>Appliscale</a>, programista języka Erlang oraz entuzjasta programowania funkcyjnego. Doświadczony konsultant IT z ponad 8 latami doświadczenia. Współpracował z klientami z branży InfoSec, Automotive, Wireless Networking oraz Adtech. Rozwijał i projektował rozproszone systemy wysokiej niezawodności. Obecnie mocno zaangażowany w problemy z dziedziny cloud computing, głównie na platformie Amazon AWS.
-  thumbnailUrl: kk.png
+  thumbnailUrl: kk.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/konradkaplita"}
@@ -99,7 +99,7 @@
   bio: >
     Pasjonat bezpieczeństwa webowego. Programista, administrator serwerów linuksowych, youtuber, publicysta, a zawodowo specjalista od pentestów i szkoleniowiec w firmie <a href='http://niebezpiecznik.pl'>Niebezpiecznik.pl</a>.
 
-  thumbnailUrl: jakub-mrugalski.png
+  thumbnailUrl: jakub-mrugalski.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/uwteam"}
