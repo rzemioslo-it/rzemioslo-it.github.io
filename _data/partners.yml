@@ -23,6 +23,7 @@
     - {name: "Nowiny", description: "Nowiny - gazeta codzienna", link: "http://www.nowiny24.pl", imageUrl: "nowiny.png"}
     - {name: "SegFault", description: "SegFault - wszyscy jesteśmy architektami", link: "http://segfault.events", imageUrl: "segfault.jpg"}
     - {name: "Greenfield", description: "Greenfield Conference", link: "http://conf.it", imageUrl: "greenfield.png"}
+    - {name: "Polskie Radio Rzeszów", description: "Polskie Radio Rzeszów", link: "https://www.radio.rzeszow.pl, imageUrl: "radio-rzeszow.png"}
 
 # -
 #   group: "Partnerzy złoci"
