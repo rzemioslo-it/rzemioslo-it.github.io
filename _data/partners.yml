@@ -6,6 +6,10 @@
     - {name: "Ailleron", description: "Ailleron", link: "http://ailleron.com", imageUrl: "ailleron.png", class: "special"}
     - {name: "PrimeBit Games", description: "PrimeBit Games", link: "http://primebitgames.com", imageUrl: "primebitgames.png", class: "special"}
 -
+  group: "Partnerzy srebrni"
+  elements:
+    - {name: "Appliscale", description: "APPLISCALE: Building things that scale", link: "https://appliscale.io/", imageUrl: "appliscale.jpg"}
+-
   group: "Pozostali partnerzy"
   elements:
     - {name: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", description: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", link: "http://aeropolis.com.pl/pl/", imageUrl: "aeropolis.png"}
@@ -34,10 +38,6 @@
 #     - {name: "Bottega IT Solutions", description: "Bottega IT Solutions", link: "http://www.bottega.com.pl/", imageUrl: "bottega.png"}
 #     - {name: "Microsoft", description: "Microsoft", link: "https://www.microsoft.com/", imageUrl: "microsoft.png"}
 #     - {name: "PGS Software", description: "PGS Software", link: "https://www.pgs-soft.com", imageUrl: "pgs.png"}
-# -
-#   group: "Partnerzy srebrni"
-#   elements:
-#     - {name: "iRonin", description: "iRonin Web, Mobile & DevOps", link: "http://www.ironin.it/", imageUrl: "ironin.png"}
 # -
 #   group: "Partnerzy brązowi"
 #   elements:
