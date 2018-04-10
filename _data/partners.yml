@@ -17,6 +17,7 @@
     - {name: "RARR", description: "Rzeszowska Agencja Rozwoju Regionalnego", link: "http://www.rarr.rzeszow.pl/", imageUrl: "rarr.png"}
     - {name: "SegFault", description: "SegFault - wszyscy jesteśmy architektami", link: "http://segfault.events", imageUrl: "segfault.jpg"}
     - {name: "Greenfield", description: "Greenfield Conference", link: "http://conf.it", imageUrl: "greenfield.png"}
+    - {name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
 -
   group: "Partnerzy medialni"
   elements:
