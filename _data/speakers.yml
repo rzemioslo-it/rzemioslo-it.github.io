@@ -121,10 +121,11 @@
     - {name: "github", link: "https://github.com/ptrstpp950"}
 -
   id: 8
-  name: Prelegent
-  surname: Fabrity
+  name: Michał
+  surname: Sondej
   title: ""
   bio: >
-  thumbnailUrl: 'placeholder.png'
+    Pasjonat szeroko pojętego programowania w każdej technologii. Niegdyś przewodniczący Rzeszowskiej Grupy .NET, dziś jako certyfikowany Microsoftowiec i starszy programista w Fabrity tworzy rozwiązania webowe dla biznesu. Prywatnie również no-life :)
+  thumbnailUrl: 'michal-sondej.jpeg'
   rockstar: true
   social:

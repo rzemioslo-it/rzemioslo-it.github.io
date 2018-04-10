@@ -79,7 +79,7 @@
   speakers: [7]
 -
   id: 006
-  title: Azure for less than one dollar a day 
+  title: Azure for less than one dollar a day
   description: >
     <p>We, developers and architects, talk about cloud PaaS and SaaS offerings mostly looking at features, millions of requests a second it can process and how much easier it would be if we just switched from X to Y. What we don’t talk about is how much would it cost. Is feature Y worth the additional cost? How to design a cloud system that will have an acceptable financial footprint for the project to take off?</p>
     <p>This talk aim is to help developers look at designing a system in Azure from a financial point of view. We will see how to utilize multiple Azure services to lover the cost, make better-informed decisions and in the end, design a better less error-prone and more scalable application because:</p>
@@ -94,7 +94,9 @@
   speakers: [4]
 -
   id: 008
-  title: Już wkrótce...
+  title: Droga przez front-end - dlaczego czasem warto zmienić technologię?
   description: >
+    <p>Technologie front-endowe wydają się bez powodu co rusz zmieniać, czego mogliśmy doświadczyć szczególnie w ciągu ostatnich kilku lat. Czy jednak na pewno zmiana technologii nie ma sensu? Czy spośród nowości znajdzie się coś co mogłoby wygrać z doświadczeniem budowanym przez lata na sprawdzonych rozwiązaniach? Okazuje się, że… tak!</p>
+    <p>Podczas prelekcji przedstawimy naszą drogę przez front-end zaczynając od czystego MVC z jQuery, poprzez Knockout, Angular JS 1.x, na Angularze 5 i Reactcie kończąc. Przekażemy nasze doświadczenia, decyzje jakie podejmowaliśmy po drodze, wypracowane przez nas praktyki oraz porady dla firm, które dopiero planują migracje do nowych technologii. Podkreślimy również najważniejsze techniczne różnice między popularnymi frameworkami i jakie niosą ze sobą konsekwencje.</p>
   subtype: presentation
   speakers: [8]
