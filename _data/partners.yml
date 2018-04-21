@@ -19,6 +19,7 @@
     - {name: "Greenfield", description: "Greenfield Conference", link: "http://conf.it", imageUrl: "greenfield.png"}
     - {name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
     - {name: "NoFluffJobs", description: "NoFluffJobs", link: "https://nofluffjobs.com", imageUrl: "nfj.png"}
+    - {name: "The Pragmatic Bookshelf", description: "Books, screencasts, forums, articles, and more, all aimed at helping software developers get better and have more fun.", link: "https://pragprog.com/", imageUrl: "pragmatic.png"}
 -
   group: "Partnerzy medialni"
   elements:
