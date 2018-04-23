@@ -68,7 +68,6 @@
   description: >
   subtype: presentation
   speakers: [6]
-
 -
   id: 005
   title: Chmura jest jak alkohol
@@ -90,6 +89,12 @@
   id: 007
   title: 20 miliardów wyzwań dziennie - prowadzenie zespołu IT z branży Adtech
   description: >
+    <p>Chciałbym poruszyć temat wyzwań i doświadczeń uzyskanych podczas prowadzenia ~20 osobowego zespołu technicznego rozwijającego i utrzymującego dużą platformę do aukcji czasu rzeczywistego z branży Adtech.</p>
+    <p>Opowiem co było dla nas kluczowe, by tak relatywnie mały zespół był w stanie budować i skalować platformę składającą się z setek maszyn i zapewnić wysoką jakość dostarczanych rozwiązań.</p>
+    <p>Jak zapewnić właściwy balans pomiędzy implementacją nowych funkcjonalności, wprowadzaniem usprawnień technicznych i redukcją długu technicznego - osiągając to wszystko przy systemie pracującym 24/7 w blisko 10 centrach obliczeniowych.</p>
+    <p>Przedstawię jak podczas naszej pracy nauczyliśmy się właściwie komunikować z zespołami produktowymi i biznesowymi tak aby były w stanie zrozumieć problemy i ograniczenia działu technicznego.</p>
+    <p>Opowiem jakie mamy metody wyznaczania długofalowych priorytetów dla technicznego rozwoju platformy, tak by z wyprzedzeniem rozwiązywać mogące się pojawić problemy techniczne.</p>
+    <p>Podsumowując będzie to prezentacja o tym jak podczas trwania projektu przekonać wszystkich dookoła, że jakość ma znaczenie i warto w nią inwestować - coś niby oczywistego, ale jakże często trudnego do wdrożenia w naszej rzeczywistości projektów IT.</p>
   subtype: presentation
   speakers: [4]
 -
