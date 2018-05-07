@@ -22,6 +22,7 @@
     - {name: "The Pragmatic Bookshelf", description: "Books, screencasts, forums, articles, and more, all aimed at helping software developers get better and have more fun.", link: "https://pragprog.com/", imageUrl: "pragmatic.png"}
     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png"}
     - {name: "ChallangeRocket", description: "ChallangeRocket", link: "http://bit.ly/2Cm2fET", imageUrl: "challange_rocket.jpg"}
+    - {name: "Helion", description: "Helion", link: "http://helion.pl", imageUrl: "helion.png"}
 -
   group: "Partnerzy medialni"
   elements:
@@ -65,8 +66,6 @@
 #     - {name: "Intro Media", description: "Intro Media", link: "http://www.intro.media/", imageUrl: "intro-media.png"}
 #     - {name: "Magazyn Programista", description: "Magazyn programistów i liderów zespołów IT", link: "https://programistamag.pl/", imageUrl: "programista.jpg"}
 #     - {name: "Młodzi Rzeszów", description: "Młodzi Rzeszów", link: "http://mlodzi.rzeszow.pl/", imageUrl: "mlodzi-rzeszow.png"}
-#     - {name: "Nowiny", description: "Nowiny", link: "http://www.nowiny24.pl", imageUrl: "nowiny24.png"}
-#     - {name: "Gazeta Codzienna Nowiny", description: "Gazeta Codzienna Nowiny", link: "http://www.nowiny24.pl", imageUrl: "nowiny-gc.png"}
 #     - {name: "PJUG", description: "Polish Java User Group", link: "https://www.java.pl/", imageUrl: "pjug.jpg"}
 #     - {name: "Radio Via", description: "Radio Via", link: "http://www.radiovia.com.pl/", imageUrl: "radio-via.png"}
 #     - {name: "Resinet.pl", description: "Resinet.pl - Rzeszowski portal informacyjny", link: "http://www.resinet.pl/", imageUrl: "resinet.png"}
