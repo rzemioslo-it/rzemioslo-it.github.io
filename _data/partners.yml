@@ -23,6 +23,7 @@
     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png"}
     - {name: "ChallangeRocket", description: "ChallangeRocket", link: "http://bit.ly/2Cm2fET", imageUrl: "challange_rocket.jpg"}
     - {name: "Helion", description: "Helion", link: "http://helion.pl", imageUrl: "helion.png"}
+    - {name: "OzCode", description: "OzCode Magical Debugging", link: "https://oz-code.com/", imageUrl: "oz-code.png"}
 -
   group: "Partnerzy medialni"
   elements:
