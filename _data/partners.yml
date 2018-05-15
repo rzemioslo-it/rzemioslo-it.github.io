@@ -38,6 +38,12 @@
     - {name: "BrandsIT", description: "BrandsIT", link: "https://brandsit.pl", imageUrl: "brandsit.png"}
     - {name: "Biznes i Styl", description: "Podkarpacki Portal Opinii", link: "http://www.biznesistyl.pl", imageUrl: "biznes_i_styl.png"}
     - {name: "TVP3 Rzeszów", description: "TVP3 Rzeszów", link: "http://rzeszow.tvp.pl", imageUrl: "tvp3.jpg"}
+-
+  group: "Patronat honorowy"
+  elements:
+    - {name: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", description: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", link: "", imageUrl: "prezydent.png"}
+    - {name: "Marszałek Województwa Podkarpackiego", description: "Marszałek Województwa Podkarpackiego", link: "", imageUrl: "marszalek.png"}
+    - {name: "Urząd Miasta Rzeszowa", description: "Urząd Miasta Rzeszowa", link: "http://www.rzeszow.pl/", imageUrl: "rzeszow.jpg"}
 
 # -
 #   group: "Partnerzy złoci"
@@ -70,10 +76,3 @@
 #     - {name: "PJUG", description: "Polish Java User Group", link: "https://www.java.pl/", imageUrl: "pjug.jpg"}
 #     - {name: "Radio Via", description: "Radio Via", link: "http://www.radiovia.com.pl/", imageUrl: "radio-via.png"}
 #     - {name: "Resinet.pl", description: "Resinet.pl - Rzeszowski portal informacyjny", link: "http://www.resinet.pl/", imageUrl: "resinet.png"}
-# -
-#   group: "Patronat honorowy"
-#   elements:
-#     - {name: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", description: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", link: "", imageUrl: "prezydent.png"}
-#     - {name: "Marszałek Województwa Podkarpackiego", description: "Marszałek Województwa Podkarpackiego", link: "", imageUrl: "marszalek.png"}
-#     - {name: "Podkarpackie - przestrzeń otwarta", description: "Podkarpackie - przestrzeń otwarta", link: "http://www.podkarpackie.pl", imageUrl: "podkarpackie.png"}
-#     - {name: "Urząd Miasta Rzeszowa", description: "Urząd Miasta Rzeszowa", link: "http://www.rzeszow.pl/", imageUrl: "rzeszow.jpg"}
