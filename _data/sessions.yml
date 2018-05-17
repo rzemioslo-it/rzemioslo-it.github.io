@@ -105,3 +105,10 @@
     <p>Podczas prelekcji przedstawimy naszą drogę przez front-end zaczynając od czystego MVC z jQuery, poprzez Knockout, Angular JS 1.x, na Angularze 5 i Reactcie kończąc. Przekażemy nasze doświadczenia, decyzje jakie podejmowaliśmy po drodze, wypracowane przez nas praktyki oraz porady dla firm, które dopiero planują migracje do nowych technologii. Podkreślimy również najważniejsze techniczne różnice między popularnymi frameworkami i jakie niosą ze sobą konsekwencje.</p>
   subtype: presentation
   speakers: [8]
+-
+  id: 009
+  title: Lightning talks
+  description: >
+    <p>Już wkrótce</p>
+  subtype: presentation
+  speakers: []
