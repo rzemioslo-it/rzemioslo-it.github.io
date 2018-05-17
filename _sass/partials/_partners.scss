@@ -20,6 +20,14 @@
                     max-width: 50%;
                 }
             }
+            &.special-2{
+                width: 25%;
+                max-width: 25%;
+                @media (max-width: 767px) {
+                    width: 40%;
+                    max-width: 40%;
+                }
+            }
         }
     }
     img {

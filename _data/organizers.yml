@@ -3,6 +3,10 @@
   elements: 
     - {name: "rg-dev", description: "rg-dev - Rzeszowska Grupa Dev", link: "https://www.meetup.com/rg-dev/", imageUrl: "rg-dev.png"}
     - {name: "RRUG", description: "Rzeszów Ruby User Group", link: "http://rrug.pl", imageUrl: "rrug.png"}
+- 
+  group: "Organizator techniczny"
+  elements: 
+    - {name: "PrimeBit Games", description: "PrimeBit Games", link: "http://primebitgames.com", imageUrl: "primebitgames.png", class: "special-2"}
 #- 
 #  group: "Patronat honorowy"
 #  elements: 
