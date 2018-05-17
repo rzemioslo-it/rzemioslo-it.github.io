@@ -102,3 +102,12 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/mbie"}
     - {name: "github", link: "https://github.com/mbie"}
+- 
+  id: 9
+  name: "Konrad"
+  surname: "Kotula"
+  title: ""
+  thumbnailUrl: placeholder.png
+  team: true
+  ribbon: 
+  social: 
