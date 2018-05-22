@@ -40,11 +40,19 @@
 
 -
   id: 002
-  title: "Sagi, strumienie, reaktywność i inne buzzwordy"
+  title: "Wszystkich nas czeka zagłada, czyli dlaczego to co robimy nie można nazwać programowaniem"
   description: >
-    <p>Dzień za dniem, CRUD za CRUD'em, dni przeciekają między palcami pośród takich samych usług RESTowych. Smutek, zgryzota, szara codzienność. Jedyną radością jest nowa wersja Spring MVC czy też kolejne potyczki pomiędzy obozami RESTafarian. Lecz czasami, raz w życiu, dostajesz w swoje ręce projekt, który budzi Cię do życia. Tym projektem jest "data streaming". I od teraz wszystko co wiesz, całe zdobyte doświadczenie, nie ma już znaczenia.</p>
-    <p>Hektolitry zdarzeń w binarnym formacie spadają na Twoją głowę jak konfetti. Nagle Twoim problemem zaczyna być opóźnienie w czasach odpowiedzi na poziomie milisekund, rozmiary kolejek i pule wątków. A GC topi kwarc na Twoich procesorach. Głowę zaprzątasz sobie problemami "causal consistency" i "happens beforemilisekund, rozmiarami kolejek i pulami wątków.</p>
-    <p>Ta prezentacja to pamiętnik z pola bitwy. Opowieść o RX extensions, Apache Kafka i Hazelcast. Opowieść o tym, kiedy budowanie własnego rozwiązania ma sens. O tym z jakimi problemami się spotkacie, których będziecie starali się unikać jak ognia, a które z nich będziecie musieli rozwiązać sami. Zastanowimy sie też jakie problemy pomożecie rozwiązać biznesowi wykorzystując strumieniowanie danych. A jeśli jedyne co pozostanie po tej prezentacji w Waszych głowach, to świadomość, że kolejność zdarzeń ma znaczenie i wiedza na temat tego jak radzić sobie z tym w systemach rozproszonych, wówczas uznam to za sukces.</p>
+    <p>Programista, to przecież brzmi tak dumnie.</p>
+    <p>Tyle lat ciężkiej pracy, studia, kursy. W końcu zaczęło się zwracać. Społeczeństwo nie ma pojęcia co robisz. Twoja mama i tato, tym bardziej.</p>
+    <p>Wiedzą tylko, że to coś wspólnego z internetem, komputerem i tym przedmiotem, którego wszyscy nienawidzą w rodzinie, matematyką.</p>
+    <p>Codziennie budzisz się z rano poczuciem wyższości nad mugolami, którzy nie ogarniają zawiłości OOP i FP.</p>
+    <p>Jak długo chcesz się okłamywać? W swojej pracy kleisz RESTy z resztek JSONów, które ktoś porozrzucał po biurze, w języku, którego nie rozumiesz, na platformie o której nie masz pojęcia i modlisz się, żeby naprawdę tam w środku nie biegały skrzaty przesuwające bit'y.</p>
+    <p> Wkurzyłem Cię? To dobrze.</p>
+    <p>Przyjdź i posłuchaj czym są "managed runtime", dlaczego większość języków kompilowanych jest do IR i wykonywanych przez maszyny wirtualne.</p>
+    <p>Na przykładzie EgoVM, opowiem o podstawach konstrukcji maszyn wirtualnych, o zarządzaniu pamięcią, systemach typów, static vs dynamic linking, single vs multiple dispatch. O tym wszystkich co napędza JVM, CLR, Beam czy V8.</p>
+    <p>Co napędza nasze systemy. Bez czego nie potrafilibyśmy dziś dostarczyć żadnego z naszych systemów czy też produktów.</p>
+    <p>Będzie dużo opowieści o decyzjach, które musieli podjąć twórcy maszyn wirtualnych i rozważań nad źródłem sukcesu tych platform.</p>
+    <p>Wszystko w zawiesistym sosie vanilla C.</p>
   subtype: presentation
   speakers: [1]
 
