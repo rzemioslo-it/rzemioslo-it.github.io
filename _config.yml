@@ -148,10 +148,10 @@ footerBlocks:
   title: "Kontakt"
   links:
    - {link: "mailto:kontakt@rzemioslo.it", text: "kontakt@rzemioslo.it"}
-#-
-# title: "FAQ"
-# links:
-#  - {permalink: "", text: "Regulamin"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/files/Regulamin.pdf", text: "Regulamin"}
 #  - {permalink: "", text: "FAQ"}
 
 # Blog
