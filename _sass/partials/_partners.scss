@@ -28,6 +28,14 @@
                     max-width: 40%;
                 }
             }
+            &.special-3{
+                width: 100%;
+                max-width: 100%;
+                @media (max-width: 767px) {
+                    width: 100%;
+                    max-width: 100%;
+                }
+            }
         }
     }
     img {
