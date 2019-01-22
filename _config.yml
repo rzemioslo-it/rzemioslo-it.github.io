@@ -42,7 +42,8 @@ navigationLinks:
 - {permalink: "/schedule/", text: "Program"}
 - {permalink: "/speakers/", text: "Prelegenci"}
 - {permalink: "/team/", text: "Zespół"}
-- {permalink: "/logistics/", text: "Logistyka"}
+#- {permalink: "/logistics/", text: "Logistyka"}
+- {link: "http://2018.rzemioslo.it", text: "2018"}
 - {link: "http://2017.rzemioslo.it", text: "2017"}
 navigationButtons:
  - {permalink: "/#tickets", text: "Kup bilet"}
@@ -84,49 +85,49 @@ twitterHashTag: "RZEmiosloIT"
 twitterFeed: ""
 
 # Location Block
-locationBlockTitle: "Lokalizacja"
-eventLocationName: "Podkarpacki Park Naukowo-Technologiczny AEROPOLIS"
-eventLocationLink: "http://aeropolis.com.pl/pl/"
-eventStreetAddress: "Jasionka 954"
-eventAddressLocality: ""
-eventAddressLocalityRegion: "Rzeszów"
-eventPostalCode: "36-002"
-eventAddressCountry: "Polska"
-eventStartTime: "2018-05-26T09:00"
-eventDoorTime: "08:00"
-eventEndTime: "2018-05-26T18:00"
-eventPlaceCoordinates: "50.1165296, 22.0175096"
-mapCenterCoordinates: "50.082178, 22.003305"
-mapMobileCenterCoordinates: "50.082178, 22.003305"
+# locationBlockTitle: "Lokalizacja"
+# eventLocationName: "Podkarpacki Park Naukowo-Technologiczny AEROPOLIS"
+# eventLocationLink: "http://aeropolis.com.pl/pl/"
+# eventStreetAddress: "Jasionka 954"
+# eventAddressLocality: ""
+# eventAddressLocalityRegion: "Rzeszów"
+# eventPostalCode: "36-002"
+# eventAddressCountry: "Polska"
+# eventStartTime: "2018-05-26T09:00"
+# eventDoorTime: "08:00"
+# eventEndTime: "2018-05-26T18:00"
+# eventPlaceCoordinates: "50.1165296, 22.0175096"
+# mapCenterCoordinates: "50.082178, 22.003305"
+# mapMobileCenterCoordinates: "50.082178, 22.003305"
 
 # Venue Block
-venueBlockTitle: "Miejsce"
-venueBigImage: "venue-0-v2.jpg"
-venueSmallImage1: "venue-1-v2.jpg"
-venueSmallImage2: "venue-2-v2.jpg"
-venueSmallImage3: "venue-3-v2.jpg"
-venueTitle: "Podkarpacki Park Naukowo-Technologiczny AEROPOLIS"
-venueSubTitle: "Budynek IT"
-venueFeatures: ["Nowa sala konferencyjna położona tuż przy lotnisku Jasionka"]
+# venueBlockTitle: "Miejsce"
+# venueBigImage: "venue-0-v2.jpg"
+# venueSmallImage1: "venue-1-v2.jpg"
+# venueSmallImage2: "venue-2-v2.jpg"
+# venueSmallImage3: "venue-3-v2.jpg"
+# venueTitle: "Podkarpacki Park Naukowo-Technologiczny AEROPOLIS"
+# venueSubTitle: "Budynek IT"
+# venueFeatures: ["Nowa sala konferencyjna położona tuż przy lotnisku Jasionka"]
 
 # Partners Block
 organizersTitle: "Organizatorzy"
 partnersTitle: "Partnerzy"
 partnersC4sponsorsButton: "Zostań sponsorem"
 
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Rejestracja rozpoczęta!"
-subscribeButtons:
-  - {permalink: "/#tickets", text: "Kup bilet"}
+# # Subscribe Block
+# subscribeImage: "subscribe.jpg"
+# subscribeTitle: "Rejestracja rozpoczęta!"
+# subscribeButtons:
+  # - {permalink: "/#tickets", text: "Kup bilet"}
 
 # Last edition Block
 lastEditionImage: "last-edition.jpg"
-lastEditionTitle: "Jak było w 2017 roku?"
+lastEditionTitle: "Jak było w 2018 roku?"
 lastEditionButtons:
-  - {link: "https://www.facebook.com/pg/rzemiosloit/photos/?tab=album&album_id=1783044338622013", text: "Relacja fotograficzna"}
-  - {link: "https://www.youtube.com/watch?v=SUaSTnOcod0", text: "Relacja wideo"}
-  - {link: "http://2017.rzemioslo.it/media", text: "Media o nas"}
+  # - {link: "https://www.facebook.com/pg/rzemiosloit/photos/?tab=album&album_id=1783044338622013", text: "Relacja fotograficzna"}
+  # - {link: "https://www.youtube.com/watch?v=SUaSTnOcod0", text: "Relacja wideo"}
+  # - {link: "http://2017.rzemioslo.it/media", text: "Media o nas"}
 
 # Tickets Block
 ticketsTitle: "Bilety"
@@ -165,16 +166,16 @@ showSessions: true
 # Team Block
 
 # Logistics Find Way Block
-findWayTitle: "Wyznacz trasę"
-findWayDistance: "Odległość"
-findWayDriving: "Samochód"
-findWayWalking: "Spacer"
-findWayBicycling: "Rower"
-findWayTransit: "Transport publiczny"
-findWayFindFlight: "Znajdź loty"
-logisticsMapCenterCoordinates: "50.082178, 22.003305"
-logisticsMapMobileCenterCoordinates: "50.082178, 22.003305"
-logisticsMapAutoDirections: false
+# findWayTitle: "Wyznacz trasę"
+# findWayDistance: "Odległość"
+# findWayDriving: "Samochód"
+# findWayWalking: "Spacer"
+# findWayBicycling: "Rower"
+# findWayTransit: "Transport publiczny"
+# findWayFindFlight: "Znajdź loty"
+# logisticsMapCenterCoordinates: "50.082178, 22.003305"
+# logisticsMapMobileCenterCoordinates: "50.082178, 22.003305"
+# logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsWideCards:

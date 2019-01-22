@@ -1,122 +1,122 @@
--
-  id: 100
-  title: "Rejestracja uczestników"
-  place: "Hall"
-  service: true
-  description: ""
--
-  id: 101
-  title: "Rozpoczęcie konferencji"
-  place: "Sala"
-  service: true
-  description: ""
--
-  id: 102
-  title: "Przerwa obiadowa"
-  place: "Hall"
-  service: true
-  description: ""
--
-  id: 103
-  title: "Zakończenie konferencji"
-  place: "Sala"
-  service: true
-  description: ""
--
-  id: 104
-  title: "Przerwa kawowa"
-  place: "Hall"
-  service: true
-  description: ""
+# -
+  # id: 100
+  # title: "Rejestracja uczestników"
+  # place: "Hall"
+  # service: true
+  # description: ""
+# -
+  # id: 101
+  # title: "Rozpoczęcie konferencji"
+  # place: "Sala"
+  # service: true
+  # description: ""
+# -
+  # id: 102
+  # title: "Przerwa obiadowa"
+  # place: "Hall"
+  # service: true
+  # description: ""
+# -
+  # id: 103
+  # title: "Zakończenie konferencji"
+  # place: "Sala"
+  # service: true
+  # description: ""
+# -
+  # id: 104
+  # title: "Przerwa kawowa"
+  # place: "Hall"
+  # service: true
+  # description: ""
 
--
-  id: 001
-  title: "Thinking in Events"
-  description: >
-    <p>Modelowanie złożonych problemów jest skomplikowane i często prowadzi do równie skomplikowanego kodu. Kontrolery, repozytoria, usługi, warunki biznesowe, formularze, widoki - wymagania biznesowe klienta często infiltrują te warstwy, wszystko jest ze sobą połączone, a kod staje się trudny do czytania, zrozumienia i rozwoju. A gdy potrzeba rozszerzyć lub zmodyfikować logikę biznesową, i trzeba „przekopać” się przez dziesiątki (a czasami i setki) linii kontrolerów czy serwisów, próbując zrozumieć sens i rolę wszystkich obiektów lub zidentyfikować zakres zmian, może nadszedł czas na inne podejście… Podejście „Thinking in Events” oznacza, że można być w pełni skoncentrowanym na problemie domenowym i implementacji testowalnej logiki biznesowej. Wykorzystując zdarzenia domenowe jako źródło informacji, skomplikowane technicznie elementy jak bazy danych czy web-frameworki stają się jedynie szczegółami implementacyjnymi, od których nie zależy zbyt wiele.</p>
-    <p>Podczas prezentacji zapoznasz się więc z technikami odkrywania eventów domenowych i wykorzystania ich zarówno w implementacji jak i na poziomie biznesowym, do lepszego zrozumienia i usprawnienia procesów. Porozmawiamy więc o wykorzystaniu eventów do komunikacji wewnątrz systemu, konceptach event/command/query busów, stosowaniu Event Sourcing do przechowywania historii zmian, czy też rozdzielaniu zapis od odczytu z wykorzystaniem CQRS, aby zwiększyć wydajność, skalowalność i bezpieczeństwo całego systemu. Będąc jednocześnie skoncentrowanym na realnym problemie biznesowym, bez rozpraszania zbędnymi detalami kodu.</p>
-  subtype: presentation
-  speakers: [2]
+# -
+  # id: 001
+  # title: "Thinking in Events"
+  # description: >
+    # <p>Modelowanie złożonych problemów jest skomplikowane i często prowadzi do równie skomplikowanego kodu. Kontrolery, repozytoria, usługi, warunki biznesowe, formularze, widoki - wymagania biznesowe klienta często infiltrują te warstwy, wszystko jest ze sobą połączone, a kod staje się trudny do czytania, zrozumienia i rozwoju. A gdy potrzeba rozszerzyć lub zmodyfikować logikę biznesową, i trzeba „przekopać” się przez dziesiątki (a czasami i setki) linii kontrolerów czy serwisów, próbując zrozumieć sens i rolę wszystkich obiektów lub zidentyfikować zakres zmian, może nadszedł czas na inne podejście… Podejście „Thinking in Events” oznacza, że można być w pełni skoncentrowanym na problemie domenowym i implementacji testowalnej logiki biznesowej. Wykorzystując zdarzenia domenowe jako źródło informacji, skomplikowane technicznie elementy jak bazy danych czy web-frameworki stają się jedynie szczegółami implementacyjnymi, od których nie zależy zbyt wiele.</p>
+    # <p>Podczas prezentacji zapoznasz się więc z technikami odkrywania eventów domenowych i wykorzystania ich zarówno w implementacji jak i na poziomie biznesowym, do lepszego zrozumienia i usprawnienia procesów. Porozmawiamy więc o wykorzystaniu eventów do komunikacji wewnątrz systemu, konceptach event/command/query busów, stosowaniu Event Sourcing do przechowywania historii zmian, czy też rozdzielaniu zapis od odczytu z wykorzystaniem CQRS, aby zwiększyć wydajność, skalowalność i bezpieczeństwo całego systemu. Będąc jednocześnie skoncentrowanym na realnym problemie biznesowym, bez rozpraszania zbędnymi detalami kodu.</p>
+  # subtype: presentation
+  # speakers: [2]
 
--
-  id: 002
-  title: "Wszystkich nas czeka zagłada, czyli dlaczego to co robimy nie można nazwać programowaniem"
-  description: >
-    <p>Programista, to przecież brzmi tak dumnie.</p>
-    <p>Tyle lat ciężkiej pracy, studia, kursy. W końcu zaczęło się zwracać. Społeczeństwo nie ma pojęcia co robisz. Twoja mama i tato, tym bardziej.</p>
-    <p>Wiedzą tylko, że to coś wspólnego z internetem, komputerem i tym przedmiotem, którego wszyscy nienawidzą w rodzinie, matematyką.</p>
-    <p>Codziennie budzisz się z rano poczuciem wyższości nad mugolami, którzy nie ogarniają zawiłości OOP i FP.</p>
-    <p>Jak długo chcesz się okłamywać? W swojej pracy kleisz RESTy z resztek JSONów, które ktoś porozrzucał po biurze, w języku, którego nie rozumiesz, na platformie o której nie masz pojęcia i modlisz się, żeby naprawdę tam w środku nie biegały skrzaty przesuwające bit'y.</p>
-    <p> Wkurzyłem Cię? To dobrze.</p>
-    <p>Przyjdź i posłuchaj czym są "managed runtime", dlaczego większość języków kompilowanych jest do IR i wykonywanych przez maszyny wirtualne.</p>
-    <p>Na przykładzie EgoVM, opowiem o podstawach konstrukcji maszyn wirtualnych, o zarządzaniu pamięcią, systemach typów, static vs dynamic linking, single vs multiple dispatch. O tym wszystkich co napędza JVM, CLR, Beam czy V8.</p>
-    <p>Co napędza nasze systemy. Bez czego nie potrafilibyśmy dziś dostarczyć żadnego z naszych systemów czy też produktów.</p>
-    <p>Będzie dużo opowieści o decyzjach, które musieli podjąć twórcy maszyn wirtualnych i rozważań nad źródłem sukcesu tych platform.</p>
-    <p>Wszystko w zawiesistym sosie vanilla C.</p>
-  subtype: presentation
-  speakers: [1]
+# -
+  # id: 002
+  # title: "Wszystkich nas czeka zagłada, czyli dlaczego to co robimy nie można nazwać programowaniem"
+  # description: >
+    # <p>Programista, to przecież brzmi tak dumnie.</p>
+    # <p>Tyle lat ciężkiej pracy, studia, kursy. W końcu zaczęło się zwracać. Społeczeństwo nie ma pojęcia co robisz. Twoja mama i tato, tym bardziej.</p>
+    # <p>Wiedzą tylko, że to coś wspólnego z internetem, komputerem i tym przedmiotem, którego wszyscy nienawidzą w rodzinie, matematyką.</p>
+    # <p>Codziennie budzisz się z rano poczuciem wyższości nad mugolami, którzy nie ogarniają zawiłości OOP i FP.</p>
+    # <p>Jak długo chcesz się okłamywać? W swojej pracy kleisz RESTy z resztek JSONów, które ktoś porozrzucał po biurze, w języku, którego nie rozumiesz, na platformie o której nie masz pojęcia i modlisz się, żeby naprawdę tam w środku nie biegały skrzaty przesuwające bit'y.</p>
+    # <p> Wkurzyłem Cię? To dobrze.</p>
+    # <p>Przyjdź i posłuchaj czym są "managed runtime", dlaczego większość języków kompilowanych jest do IR i wykonywanych przez maszyny wirtualne.</p>
+    # <p>Na przykładzie EgoVM, opowiem o podstawach konstrukcji maszyn wirtualnych, o zarządzaniu pamięcią, systemach typów, static vs dynamic linking, single vs multiple dispatch. O tym wszystkich co napędza JVM, CLR, Beam czy V8.</p>
+    # <p>Co napędza nasze systemy. Bez czego nie potrafilibyśmy dziś dostarczyć żadnego z naszych systemów czy też produktów.</p>
+    # <p>Będzie dużo opowieści o decyzjach, które musieli podjąć twórcy maszyn wirtualnych i rozważań nad źródłem sukcesu tych platform.</p>
+    # <p>Wszystko w zawiesistym sosie vanilla C.</p>
+  # subtype: presentation
+  # speakers: [1]
 
--
-  id: 003
-  title: Szczęśliwy programista? Kluczowe wskazówki do udanej kariery w IT
-  description: >
-    <p>Szczęśliwy programista? Kluczowe wskazówki do udanej kariery w IT</p>
-    <p>Branża IT oferuje wielkie szanse rozwoju: zarówno zawodowego, jak i osobistego. Pracownicy z tych środowisk są często postrzegani jako szczęściarze. I... nie jest to perspektywa pozbawiona podstaw. Z reguły jest nam "dobrze".</p>
-    <p>Jednak z jakże upragnionym przez nas komfortem wiąże się niebezpieczeństwo: uzależnienie. Uzależnienie od wygody i beztroski. Wbrew pozorom nie trzeba jednak wiele, by w pełni cieszyć się wolnością, zachowując wszystkie benefity rzucone nam przez cywilizację.</p>
-    <p>Jak?</p>
-    <p>Na swojej kilkunastoletniej ścieżce popełniłem wiele błędów i wyciągnąłem nieco wniosków. Dostałem niejedną nauczkę, ale każde przykre doświadczenie okazywało się na dłuższą metę bezcenne. Po ponad dekadzie życia w pełni poświęconego programowaniu... uwolniłem się. Nadal czerpię korzyści z uprzywilejowanej pozycji, jaką daje  "części IT", ale jednocześnie rozwijam różne pasje i umiejętności. Programuję, jeśli chcę, a nie "bo muszę". Świadomie decyduję, czy to jest najlepsze wykorzystanie mojego czasu i potencjału w danym momencie.</p>
-    <p>Jak?</p>
-    <p>Kiedyś nie miałem takich możliwości ani nawet refleksji. Podczas tej prezentacji zaproszę Cię do chwili zastanowienia się nad prowadzeniem swojej własnej kariery w dżungli IT. Co możemy zrobić, by w pełni wykorzystać te wyjątkowe - a przecież przejściowe - możliwości?</p>
-    <p>I... JAK?</p>
-  subtype: presentation
-  speakers: [5]
--
-  id: 004
-  title: Jak minimalnym nakładem pracy podnieść bezpieczeństwo strony WWW?
-  description: >
-  subtype: presentation
-  speakers: [6]
--
-  id: 005
-  title: Chmura jest jak alkohol
-  description: >
-    <p>Chmura wydaje się naturalnym wyborem dla nowego projektu. Bądźmy szczerzy jedynym wyborem jak posłucha się programistów. Więc zebraliśmy zespół kilku naprawdę dobrych ludzi, posadziliśmy ich w jednym miejscu i się zaczęło. Najpierw fascynacja, lawina postów i szybkie PoC. Można by rzec cud, miód i orzeszki. Ale prawda jest taka, ze wiedzieliśmy niewiele. Właśnie stuknęło nam 12 miesięcy pracy z chmurą przy budowaniu jasno zdefiniowanego produktu. Dużo się nauczyliśmy i właśnie tą nauką chcielibyśmy się z Wami podzielić. Praktycznie i szczerze, trochę o tym co się udało, ale też sporo o tym co nie do końca. Bo to chyba nawet ważniejsze.</p>
-    <p>Buzz words (Docker, k8s, serverless, PaaS, DevOps, magic&tricks, Oh my God!, F…K) pojawiają się równie szybko co znikają. A my usiądziemy razem i opowiemy naszą historię dlaczego uważamy, że chmura jest jak alkohol. Spróbujemy sprecyzować kiedy jest to dobre piwo, kiedy tanie wino, a kiedy łącka śliwowica. Bo my w FinAi już każdy „alkohol” próbowaliśmy i wiemy co powoduje kaca.</p>
-  subtype: presentation
-  speakers: [7]
--
-  id: 006
-  title: Azure for less than one dollar a day
-  description: >
-    <p>We, developers and architects, talk about cloud PaaS and SaaS offerings mostly looking at features, millions of requests a second it can process and how much easier it would be if we just switched from X to Y. What we don’t talk about is how much would it cost. Is feature Y worth the additional cost? How to design a cloud system that will have an acceptable financial footprint for the project to take off?</p>
-    <p>This talk aim is to help developers look at designing a system in Azure from a financial point of view. We will see how to utilize multiple Azure services to lover the cost, make better-informed decisions and in the end, design a better less error-prone and more scalable application because:</p>
-    <p><em>Cloud is cheap when the design is good.</em></p>
-  subtype: presentation
-  speakers: [3]
--
-  id: 007
-  title: 20 miliardów wyzwań dziennie - prowadzenie zespołu IT z branży Adtech
-  description: >
-    <p>Chciałbym poruszyć temat wyzwań i doświadczeń uzyskanych podczas prowadzenia ~20 osobowego zespołu technicznego rozwijającego i utrzymującego dużą platformę do aukcji czasu rzeczywistego z branży Adtech.</p>
-    <p>Opowiem co było dla nas kluczowe, by tak relatywnie mały zespół był w stanie budować i skalować platformę składającą się z setek maszyn i zapewnić wysoką jakość dostarczanych rozwiązań.</p>
-    <p>Jak zapewnić właściwy balans pomiędzy implementacją nowych funkcjonalności, wprowadzaniem usprawnień technicznych i redukcją długu technicznego - osiągając to wszystko przy systemie pracującym 24/7 w blisko 10 centrach obliczeniowych.</p>
-    <p>Przedstawię jak podczas naszej pracy nauczyliśmy się właściwie komunikować z zespołami produktowymi i biznesowymi tak aby były w stanie zrozumieć problemy i ograniczenia działu technicznego.</p>
-    <p>Opowiem jakie mamy metody wyznaczania długofalowych priorytetów dla technicznego rozwoju platformy, tak by z wyprzedzeniem rozwiązywać mogące się pojawić problemy techniczne.</p>
-    <p>Podsumowując będzie to prezentacja o tym jak podczas trwania projektu przekonać wszystkich dookoła, że jakość ma znaczenie i warto w nią inwestować - coś niby oczywistego, ale jakże często trudnego do wdrożenia w naszej rzeczywistości projektów IT.</p>
-  subtype: presentation
-  speakers: [4]
--
-  id: 008
-  title: Droga przez front-end - dlaczego czasem warto zmienić technologię?
-  description: >
-    <p>Technologie front-endowe wydają się bez powodu co rusz zmieniać, czego mogliśmy doświadczyć szczególnie w ciągu ostatnich kilku lat. Czy jednak na pewno zmiana technologii nie ma sensu? Czy spośród nowości znajdzie się coś co mogłoby wygrać z doświadczeniem budowanym przez lata na sprawdzonych rozwiązaniach? Okazuje się, że… tak!</p>
-    <p>Podczas prelekcji przedstawimy naszą drogę przez front-end zaczynając od czystego MVC z jQuery, poprzez Knockout, Angular JS 1.x, na Angularze 5 i Reactcie kończąc. Przekażemy nasze doświadczenia, decyzje jakie podejmowaliśmy po drodze, wypracowane przez nas praktyki oraz porady dla firm, które dopiero planują migracje do nowych technologii. Podkreślimy również najważniejsze techniczne różnice między popularnymi frameworkami i jakie niosą ze sobą konsekwencje.</p>
-  subtype: presentation
-  speakers: [8]
--
-  id: 009
-  title: Lightning talks
-  description: >
-    <p>Już wkrótce</p>
-  subtype: presentation
-  speakers: []
+# -
+  # id: 003
+  # title: Szczęśliwy programista? Kluczowe wskazówki do udanej kariery w IT
+  # description: >
+    # <p>Szczęśliwy programista? Kluczowe wskazówki do udanej kariery w IT</p>
+    # <p>Branża IT oferuje wielkie szanse rozwoju: zarówno zawodowego, jak i osobistego. Pracownicy z tych środowisk są często postrzegani jako szczęściarze. I... nie jest to perspektywa pozbawiona podstaw. Z reguły jest nam "dobrze".</p>
+    # <p>Jednak z jakże upragnionym przez nas komfortem wiąże się niebezpieczeństwo: uzależnienie. Uzależnienie od wygody i beztroski. Wbrew pozorom nie trzeba jednak wiele, by w pełni cieszyć się wolnością, zachowując wszystkie benefity rzucone nam przez cywilizację.</p>
+    # <p>Jak?</p>
+    # <p>Na swojej kilkunastoletniej ścieżce popełniłem wiele błędów i wyciągnąłem nieco wniosków. Dostałem niejedną nauczkę, ale każde przykre doświadczenie okazywało się na dłuższą metę bezcenne. Po ponad dekadzie życia w pełni poświęconego programowaniu... uwolniłem się. Nadal czerpię korzyści z uprzywilejowanej pozycji, jaką daje  "części IT", ale jednocześnie rozwijam różne pasje i umiejętności. Programuję, jeśli chcę, a nie "bo muszę". Świadomie decyduję, czy to jest najlepsze wykorzystanie mojego czasu i potencjału w danym momencie.</p>
+    # <p>Jak?</p>
+    # <p>Kiedyś nie miałem takich możliwości ani nawet refleksji. Podczas tej prezentacji zaproszę Cię do chwili zastanowienia się nad prowadzeniem swojej własnej kariery w dżungli IT. Co możemy zrobić, by w pełni wykorzystać te wyjątkowe - a przecież przejściowe - możliwości?</p>
+    # <p>I... JAK?</p>
+  # subtype: presentation
+  # speakers: [5]
+# -
+  # id: 004
+  # title: Jak minimalnym nakładem pracy podnieść bezpieczeństwo strony WWW?
+  # description: >
+  # subtype: presentation
+  # speakers: [6]
+# -
+  # id: 005
+  # title: Chmura jest jak alkohol
+  # description: >
+    # <p>Chmura wydaje się naturalnym wyborem dla nowego projektu. Bądźmy szczerzy jedynym wyborem jak posłucha się programistów. Więc zebraliśmy zespół kilku naprawdę dobrych ludzi, posadziliśmy ich w jednym miejscu i się zaczęło. Najpierw fascynacja, lawina postów i szybkie PoC. Można by rzec cud, miód i orzeszki. Ale prawda jest taka, ze wiedzieliśmy niewiele. Właśnie stuknęło nam 12 miesięcy pracy z chmurą przy budowaniu jasno zdefiniowanego produktu. Dużo się nauczyliśmy i właśnie tą nauką chcielibyśmy się z Wami podzielić. Praktycznie i szczerze, trochę o tym co się udało, ale też sporo o tym co nie do końca. Bo to chyba nawet ważniejsze.</p>
+    # <p>Buzz words (Docker, k8s, serverless, PaaS, DevOps, magic&tricks, Oh my God!, F…K) pojawiają się równie szybko co znikają. A my usiądziemy razem i opowiemy naszą historię dlaczego uważamy, że chmura jest jak alkohol. Spróbujemy sprecyzować kiedy jest to dobre piwo, kiedy tanie wino, a kiedy łącka śliwowica. Bo my w FinAi już każdy „alkohol” próbowaliśmy i wiemy co powoduje kaca.</p>
+  # subtype: presentation
+  # speakers: [7]
+# -
+  # id: 006
+  # title: Azure for less than one dollar a day
+  # description: >
+    # <p>We, developers and architects, talk about cloud PaaS and SaaS offerings mostly looking at features, millions of requests a second it can process and how much easier it would be if we just switched from X to Y. What we don’t talk about is how much would it cost. Is feature Y worth the additional cost? How to design a cloud system that will have an acceptable financial footprint for the project to take off?</p>
+    # <p>This talk aim is to help developers look at designing a system in Azure from a financial point of view. We will see how to utilize multiple Azure services to lover the cost, make better-informed decisions and in the end, design a better less error-prone and more scalable application because:</p>
+    # <p><em>Cloud is cheap when the design is good.</em></p>
+  # subtype: presentation
+  # speakers: [3]
+# -
+  # id: 007
+  # title: 20 miliardów wyzwań dziennie - prowadzenie zespołu IT z branży Adtech
+  # description: >
+    # <p>Chciałbym poruszyć temat wyzwań i doświadczeń uzyskanych podczas prowadzenia ~20 osobowego zespołu technicznego rozwijającego i utrzymującego dużą platformę do aukcji czasu rzeczywistego z branży Adtech.</p>
+    # <p>Opowiem co było dla nas kluczowe, by tak relatywnie mały zespół był w stanie budować i skalować platformę składającą się z setek maszyn i zapewnić wysoką jakość dostarczanych rozwiązań.</p>
+    # <p>Jak zapewnić właściwy balans pomiędzy implementacją nowych funkcjonalności, wprowadzaniem usprawnień technicznych i redukcją długu technicznego - osiągając to wszystko przy systemie pracującym 24/7 w blisko 10 centrach obliczeniowych.</p>
+    # <p>Przedstawię jak podczas naszej pracy nauczyliśmy się właściwie komunikować z zespołami produktowymi i biznesowymi tak aby były w stanie zrozumieć problemy i ograniczenia działu technicznego.</p>
+    # <p>Opowiem jakie mamy metody wyznaczania długofalowych priorytetów dla technicznego rozwoju platformy, tak by z wyprzedzeniem rozwiązywać mogące się pojawić problemy techniczne.</p>
+    # <p>Podsumowując będzie to prezentacja o tym jak podczas trwania projektu przekonać wszystkich dookoła, że jakość ma znaczenie i warto w nią inwestować - coś niby oczywistego, ale jakże często trudnego do wdrożenia w naszej rzeczywistości projektów IT.</p>
+  # subtype: presentation
+  # speakers: [4]
+# -
+  # id: 008
+  # title: Droga przez front-end - dlaczego czasem warto zmienić technologię?
+  # description: >
+    # <p>Technologie front-endowe wydają się bez powodu co rusz zmieniać, czego mogliśmy doświadczyć szczególnie w ciągu ostatnich kilku lat. Czy jednak na pewno zmiana technologii nie ma sensu? Czy spośród nowości znajdzie się coś co mogłoby wygrać z doświadczeniem budowanym przez lata na sprawdzonych rozwiązaniach? Okazuje się, że… tak!</p>
+    # <p>Podczas prelekcji przedstawimy naszą drogę przez front-end zaczynając od czystego MVC z jQuery, poprzez Knockout, Angular JS 1.x, na Angularze 5 i Reactcie kończąc. Przekażemy nasze doświadczenia, decyzje jakie podejmowaliśmy po drodze, wypracowane przez nas praktyki oraz porady dla firm, które dopiero planują migracje do nowych technologii. Podkreślimy również najważniejsze techniczne różnice między popularnymi frameworkami i jakie niosą ze sobą konsekwencje.</p>
+  # subtype: presentation
+  # speakers: [8]
+# -
+  # id: 009
+  # title: Lightning talks
+  # description: >
+    # <p>Już wkrótce</p>
+  # subtype: presentation
+  # speakers: []

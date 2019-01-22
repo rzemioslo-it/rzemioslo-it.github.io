@@ -1,50 +1,50 @@
 -
   group: "Partnerzy złoci"
   elements:
-    - {name: "Fabrity", description: "Fabrity", link: "https://www.fabrity.pl/", imageUrl: "fabrity-v2.png", class: "special"}
-    - {name: "Mobica", description: "Mobica", link: "http://www.mobica.com", imageUrl: "mobica.png"}
-    - {name: "Ailleron", description: "Ailleron", link: "http://ailleron.com", imageUrl: "ailleron.png", class: "special"}
-    - {name: "Podkarpackie - przestrzeń otwarta", description: "Podkarpackie - przestrzeń otwarta", link: "http://www.podkarpackie.pl", imageUrl: "podkarpackie.png", class: "special"}
+    # - {name: "Fabrity", description: "Fabrity", link: "https://www.fabrity.pl/", imageUrl: "fabrity-v2.png", class: "special"}
+    # - {name: "Mobica", description: "Mobica", link: "http://www.mobica.com", imageUrl: "mobica.png"}
+    # - {name: "Ailleron", description: "Ailleron", link: "http://ailleron.com", imageUrl: "ailleron.png", class: "special"}
+    # - {name: "Podkarpackie - przestrzeń otwarta", description: "Podkarpackie - przestrzeń otwarta", link: "http://www.podkarpackie.pl", imageUrl: "podkarpackie.png", class: "special"}
 -
   group: "Partnerzy srebrni"
   elements:
-    - {name: "Appliscale", description: "APPLISCALE: Building things that scale", link: "https://appliscale.io/", imageUrl: "appliscale.jpg"}
+    # - {name: "Appliscale", description: "APPLISCALE: Building things that scale", link: "https://appliscale.io/", imageUrl: "appliscale.jpg"}
 -
   group: "Pozostali partnerzy"
   elements:
-    - {name: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", description: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", link: "http://aeropolis.com.pl/pl/", imageUrl: "aeropolis.png"}
-    - {name: "EventLista", description: "EventLista", link: "https://eventlista.pl/Witamy", imageUrl: "eventlista.png", style: "background-color: black"}
-    - {name: "RARR", description: "Rzeszowska Agencja Rozwoju Regionalnego", link: "http://www.rarr.rzeszow.pl/", imageUrl: "rarr.png"}
-    - {name: "SegFault", description: "SegFault - wszyscy jesteśmy architektami", link: "http://segfault.events", imageUrl: "segfault.jpg"}
-    - {name: "Greenfield", description: "Greenfield Conference", link: "http://conf.it", imageUrl: "greenfield.png"}
-    - {name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
-    - {name: "NoFluffJobs", description: "NoFluffJobs", link: "https://nofluffjobs.com", imageUrl: "nfj.png"}
-    - {name: "The Pragmatic Bookshelf", description: "Books, screencasts, forums, articles, and more, all aimed at helping software developers get better and have more fun.", link: "https://pragprog.com/", imageUrl: "pragmatic.png"}
-    - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png"}
-    - {name: "ChallangeRocket", description: "ChallangeRocket", link: "http://bit.ly/2Cm2fET", imageUrl: "challange_rocket.jpg"}
-    - {name: "Helion", description: "Helion", link: "http://helion.pl", imageUrl: "helion.png"}
-    - {name: "OzCode", description: "OzCode Magical Debugging", link: "https://oz-code.com/", imageUrl: "oz-code.png"}
-    - {name: "RARR - UM", description: "", link: "", imageUrl: "rarr-um.jpg", class: "special-3"}
+    # - {name: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", description: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", link: "http://aeropolis.com.pl/pl/", imageUrl: "aeropolis.png"}
+    # - {name: "EventLista", description: "EventLista", link: "https://eventlista.pl/Witamy", imageUrl: "eventlista.png", style: "background-color: black"}
+    # - {name: "RARR", description: "Rzeszowska Agencja Rozwoju Regionalnego", link: "http://www.rarr.rzeszow.pl/", imageUrl: "rarr.png"}
+    # - {name: "SegFault", description: "SegFault - wszyscy jesteśmy architektami", link: "http://segfault.events", imageUrl: "segfault.jpg"}
+    # - {name: "Greenfield", description: "Greenfield Conference", link: "http://conf.it", imageUrl: "greenfield.png"}
+    # - {name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
+    # - {name: "NoFluffJobs", description: "NoFluffJobs", link: "https://nofluffjobs.com", imageUrl: "nfj.png"}
+    # - {name: "The Pragmatic Bookshelf", description: "Books, screencasts, forums, articles, and more, all aimed at helping software developers get better and have more fun.", link: "https://pragprog.com/", imageUrl: "pragmatic.png"}
+    # - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png"}
+    # - {name: "ChallangeRocket", description: "ChallangeRocket", link: "http://bit.ly/2Cm2fET", imageUrl: "challange_rocket.jpg"}
+    # - {name: "Helion", description: "Helion", link: "http://helion.pl", imageUrl: "helion.png"}
+    # - {name: "OzCode", description: "OzCode Magical Debugging", link: "https://oz-code.com/", imageUrl: "oz-code.png"}
+    # - {name: "RARR - UM", description: "", link: "", imageUrl: "rarr-um.jpg", class: "special-3"}
 -
   group: "Partnerzy medialni"
   elements:
-    - {name: "Programista", description: "Programista", link: "http://programistamag.pl/", imageUrl: "programistamag.png"}
-    - {name: "dotNETomaniak", description: "dotNETomaniak", link: "http://dotnetomaniak.pl/", imageUrl: "dotnetomaniak.png"}
-    - {name: "ERP-view", description: "ERP-view system rozwiązań IT w biznesie", link: "http://www.erp-view.pl", imageUrl: "erp-view.png"}
-    - {name: "Magazyn IT", description: "Magazyn IT", link: "http://www.magazynit.pl", imageUrl: "magazynit.png"}
-    - {name: "ERP24.pl", description: "ERP - systemy ERP", link: "http://www.erp24.pl", imageUrl: "erp24pl.jpg"}
-    - {name: "Nowiny24", description: "Nowiny24", link: "http://www.nowiny24.pl", imageUrl: "nowiny24.png"}
-    - {name: "Nowiny", description: "Nowiny - gazeta codzienna", link: "http://www.nowiny24.pl", imageUrl: "nowiny.png"}
-    - {name: "Polskie Radio Rzeszów", description: "Polskie Radio Rzeszów", link: "https://www.radio.rzeszow.pl", imageUrl: "radio-rzeszow.png"}
-    - {name: "BrandsIT", description: "BrandsIT", link: "https://brandsit.pl", imageUrl: "brandsit.png"}
-    - {name: "Biznes i Styl", description: "Podkarpacki Portal Opinii", link: "http://www.biznesistyl.pl", imageUrl: "biznes_i_styl.png"}
-    - {name: "TVP3 Rzeszów", description: "TVP3 Rzeszów", link: "http://rzeszow.tvp.pl", imageUrl: "tvp3.jpg"}
+    # - {name: "Programista", description: "Programista", link: "http://programistamag.pl/", imageUrl: "programistamag.png"}
+    # - {name: "dotNETomaniak", description: "dotNETomaniak", link: "http://dotnetomaniak.pl/", imageUrl: "dotnetomaniak.png"}
+    # - {name: "ERP-view", description: "ERP-view system rozwiązań IT w biznesie", link: "http://www.erp-view.pl", imageUrl: "erp-view.png"}
+    # - {name: "Magazyn IT", description: "Magazyn IT", link: "http://www.magazynit.pl", imageUrl: "magazynit.png"}
+    # - {name: "ERP24.pl", description: "ERP - systemy ERP", link: "http://www.erp24.pl", imageUrl: "erp24pl.jpg"}
+    # - {name: "Nowiny24", description: "Nowiny24", link: "http://www.nowiny24.pl", imageUrl: "nowiny24.png"}
+    # - {name: "Nowiny", description: "Nowiny - gazeta codzienna", link: "http://www.nowiny24.pl", imageUrl: "nowiny.png"}
+    # - {name: "Polskie Radio Rzeszów", description: "Polskie Radio Rzeszów", link: "https://www.radio.rzeszow.pl", imageUrl: "radio-rzeszow.png"}
+    # - {name: "BrandsIT", description: "BrandsIT", link: "https://brandsit.pl", imageUrl: "brandsit.png"}
+    # - {name: "Biznes i Styl", description: "Podkarpacki Portal Opinii", link: "http://www.biznesistyl.pl", imageUrl: "biznes_i_styl.png"}
+    # - {name: "TVP3 Rzeszów", description: "TVP3 Rzeszów", link: "http://rzeszow.tvp.pl", imageUrl: "tvp3.jpg"}
 -
   group: "Patronat honorowy"
   elements:
-    - {name: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", description: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", link: "", imageUrl: "prezydent.png"}
-    - {name: "Marszałek Województwa Podkarpackiego", description: "Marszałek Województwa Podkarpackiego", link: "", imageUrl: "marszalek.png"}
-    - {name: "Urząd Miasta Rzeszowa", description: "Urząd Miasta Rzeszowa", link: "http://www.rzeszow.pl/", imageUrl: "rzeszow.jpg"}
+    # - {name: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", description: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", link: "", imageUrl: "prezydent.png"}
+    # - {name: "Marszałek Województwa Podkarpackiego", description: "Marszałek Województwa Podkarpackiego", link: "", imageUrl: "marszalek.png"}
+    # - {name: "Urząd Miasta Rzeszowa", description: "Urząd Miasta Rzeszowa", link: "http://www.rzeszow.pl/", imageUrl: "rzeszow.jpg"}
 
 # -
 #   group: "Partnerzy złoci"
