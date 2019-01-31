@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'blog.html', 'hac
 title: "RZEmiosło.IT | Konferencja programistyczna w Rzeszowie"
 email: "kontakt@rzemioslo.it"
 description: "Pierwsza konferencja programistyczna w Rzeszowie poświęcona tematyce Software Craftsmanship - dobrym praktykom i metodykom, nie związanymi ściśle z konkretnymi technologiami."
-baseurl: "/rzemioslo.it"
+baseurl: ""
 url: "http://rzemioslo.it"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-92615330-1"
