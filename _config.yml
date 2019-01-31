@@ -39,8 +39,8 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook-v3.png"
 
 # Navigation
 navigationLinks:
-- {permalink: "/schedule/", text: "Program"}
-- {permalink: "/speakers/", text: "Prelegenci"}
+#- {permalink: "/schedule/", text: "Program"}
+#- {permalink: "/speakers/", text: "Prelegenci"}
 - {permalink: "/team/", text: "Zespół"}
 #- {permalink: "/logistics/", text: "Logistyka"}
 - {link: "http://2018.rzemioslo.it", text: "2018"}
@@ -145,10 +145,10 @@ footerBlocks:
   links:
    - {link: "https://www.meetup.com/rg-dev/", text: "rg-dev"}
    - {link: "http://rrug.pl/", text: "rrug"}
- -
-  title: "Kontakt"
-  links:
-   - {link: "mailto:kontakt@rzemioslo.it", text: "kontakt@rzemioslo.it"}
+#-
+# title: "Kontakt"
+# links:
+#  - {link: "mailto:kontakt@rzemioslo.it", text: "kontakt@rzemioslo.it"}
  -
   title: "FAQ"
   links:
