@@ -53,7 +53,7 @@ bottomNavigationLinks:
 # - {link: "#tickets", text: "Kup bilet"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero-tmp.jpg"
 #heroButtons:
 # - {link: "", text: "Zostań prelegentem"}
 # - {permalink: "/#tickets", text: "Kup bilet"}
@@ -63,7 +63,7 @@ aboutTitle: "O konferencji"
 aboutText:
  - "RZEmiosło.IT to pierwsza konferencja programistyczna na Podkarpaciu poświęcona tematyce \"Software Craftsmanship\"."
  - "Nowe technologie pojawiają się i znikają. My wierzymy, że warto inwestować we własne programistyczne rzemiosło, w warsztat, który zawsze będzie aktualny, niezależnie od aktualnych trendów."
- - "Serdecznie zapraszamy!"
+ - "Serdecznie zapraszamy: Rzeszów. 25 maja 2019"
 #aboutBlock:
 # - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 # - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -130,7 +130,8 @@ lastEditionButtons:
 
 # Tickets Block
 ticketsTitle: "Bilety"
-ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawowe, lunch i afterparty. Nocleg nie jest wliczony w cenę biletu."
+# ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawowe, lunch i afterparty. Nocleg nie jest wliczony w cenę biletu."
+ticketsInfo: "Informację o sprzedaży biletów podamy na stronie i kanałach social media."
 
 # Footer
 socialLinks:
