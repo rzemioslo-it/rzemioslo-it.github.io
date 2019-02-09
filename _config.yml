@@ -122,12 +122,11 @@ partnersC4sponsorsButton: "Zostań sponsorem"
   # - {permalink: "/#tickets", text: "Kup bilet"}
 
 # Last edition Block
-lastEditionImage: "last-edition.jpg"
+lastEditionImage: "edition2018.jpg"
 lastEditionTitle: "Jak było w 2018 roku?"
 lastEditionButtons:
-  # - {link: "https://www.facebook.com/pg/rzemiosloit/photos/?tab=album&album_id=1783044338622013", text: "Relacja fotograficzna"}
-  # - {link: "https://www.youtube.com/watch?v=SUaSTnOcod0", text: "Relacja wideo"}
-  # - {link: "http://2017.rzemioslo.it/media", text: "Media o nas"}
+   - {link: "https://www.facebook.com/pg/rzemiosloit/photos/?tab=album&album_id=1925327751060337", text: "Relacja fotograficzna"}
+   - {link: "https://www.youtube.com/watch?v=Y3-QhMx5FFg", text: "Relacja wideo"}
 
 # Tickets Block
 ticketsTitle: "Bilety"
