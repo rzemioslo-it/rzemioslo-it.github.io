@@ -1,29 +1,62 @@
 -
   id: 1
-  name: "?"
-  surname: ""
+  name: "Szymon"
+  surname: "Kulec"
   title: ""
   bio: >
-  thumbnailurl: placeholder.png
+    Lider Warszawskiej Grupy .NET, architekt, technical leader, speaker, trener, software engineer. Microsoft MVP na rok 2017. Zainteresowany zarówno IT w skali makro (architektura), jak i mikro (performance i współczesny hardware). Miłośnik DDD i zorientowania na zdarzenia, a także dobrze wyseparowanych usług. Jego blog możecie znaleźć pod adresem <a href="https://blog.scooletz.com">https://blog.scooletz.com</a>.
+  thumbnailUrl: szymon-kulec.jpg
   rockstar: true
   social:
+    - {name: "facebook", link: "https://www.facebook.com/scooletz/"}
+    - {name: "twitter", link: "https://twitter.com/Scooletz/"}
+    - {name: "github", link: "https://github.com/Scooletz/"}
 -
   id: 2
-  name: "?"
-  surname: ""
+  name: "Robert"
+  surname: "Pankowecki"
   title: ""
   bio: >
   thumbnailurl: placeholder.png
-  rockstar: true
+  rockstar: false
   social:
 -
   id: 3
-  name: "?"
-  surname: ""
+  name: "Michał"
+  surname: "Młoźniak"
   title: ""
   bio: >
   thumbnailurl: placeholder.png
-  rockstar: true
+  rockstar: false
+  social:
+-
+  id: 4
+  name: "Łukasz"
+  surname: "Szydło"
+  title: ""
+  bio: >
+  thumbnailurl: placeholder.png
+  rockstar: false
+  social:
+
+-
+  id: 5
+  name: "Tomasz"
+  surname: "Nurkiewicz"
+  title: ""
+  bio: >
+  thumbnailurl: placeholder.png
+  rockstar: false
+  social:
+
+-
+  id: 6
+  name: "Szymon"
+  surname: "Pobiega"
+  title: ""
+  bio: >
+  thumbnailurl: placeholder.png
+  rockstar: false
   social:
 # -
   # id: 1
