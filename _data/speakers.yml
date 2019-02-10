@@ -17,27 +17,38 @@
   surname: "Pankowecki"
   title: ""
   bio: >
-  thumbnailurl: placeholder.png
+  thumbnailUrl: robert-pankowecki.jpg
   rockstar: false
   social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/robertpankowecki/"}
+    - {name: "twitter", link: "https://twitter.com/pankowecki"}
+    - {name: "github", link: "https://github.com/paneq"}
+    - {name: "facebook", link: "https://www.facebook.com/robert.pankowecki"}
 -
   id: 3
   name: "Michał"
   surname: "Młoźniak"
   title: ""
   bio: >
-  thumbnailurl: placeholder.png
+  thumbnailUrl: michal-mlozniak.jpg
   rockstar: false
   social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/michał-młoźniak-09254a67/"}
+    - {name: "twitter", link: "https://twitter.com/roninek"}
+    - {name: "github", link: "https://github.com/ronin"}
+    - {name: "facebook", link: "https://www.facebook.com/roninek"}
 -
   id: 4
   name: "Łukasz"
   surname: "Szydło"
   title: ""
   bio: >
-  thumbnailurl: placeholder.png
+  thumbnailUrl: lukasz-szydlo.jpg
   rockstar: false
   social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/łukasz-szydło-14754024/"}
+    - {name: "twitter", link: "https://twitter.com/lszydlo"}
+    - {name: "github", link: "https://github.com/lszydlo"}
 
 -
   id: 5
@@ -45,9 +56,13 @@
   surname: "Nurkiewicz"
   title: ""
   bio: >
-  thumbnailurl: placeholder.png
+  thumbnailUrl: tomasz-nurkiewicz.jpg
   rockstar: false
   social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tomasz-nurkiewicz-80513b92/"}
+    - {name: "twitter", link: "https://twitter.com/tnurkiewicz"}
+    - {name: "github", link: "https://github.com/nurkiewicz"}
+    - {name: "facebook", link: "https://pl.linkedin.com/in/tomasz-nurkiewicz-80513b92"}
 
 -
   id: 6
@@ -55,9 +70,13 @@
   surname: "Pobiega"
   title: ""
   bio: >
-  thumbnailurl: placeholder.png
-  rockstar: false
+  thumbnailUrl: szymon-pobiega.jpg
+  rockstar: true
   social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/szymonpobiega/"}
+    - {name: "twitter", link: "https://twitter.com/szymonpobiega"}
+    - {name: "github", link: "https://github.com/SzymonPobiega"}
+    - {name: "facebook", link: "https://www.facebook.com/szymon.pobiega"}
 # -
   # id: 1
   # name: "Jarosław"

@@ -40,7 +40,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook-v3.png"
 # Navigation
 navigationLinks:
 #- {permalink: "/schedule/", text: "Program"}
-#- {permalink: "/speakers/", text: "Prelegenci"}
+- {permalink: "/speakers/", text: "Prelegenci"}
 - {permalink: "/team/", text: "Zespół"}
 #- {permalink: "/logistics/", text: "Logistyka"}
 - {link: "http://2018.rzemioslo.it", text: "2018"}
