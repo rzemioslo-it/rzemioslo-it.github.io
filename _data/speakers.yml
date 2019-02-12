@@ -18,7 +18,7 @@
   title: ""
   bio: >
   thumbnailUrl: robert-pankowecki.jpg
-  rockstar: false
+  rockstar: true 
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/robertpankowecki/"}
     - {name: "twitter", link: "https://twitter.com/pankowecki"}
@@ -31,7 +31,7 @@
   title: ""
   bio: >
   thumbnailUrl: michal-mlozniak.jpg
-  rockstar: false
+  rockstar: true 
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/michał-młoźniak-09254a67/"}
     - {name: "twitter", link: "https://twitter.com/roninek"}
@@ -44,7 +44,7 @@
   title: ""
   bio: >
   thumbnailUrl: lukasz-szydlo.jpg
-  rockstar: false
+  rockstar: true 
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/łukasz-szydło-14754024/"}
     - {name: "twitter", link: "https://twitter.com/lszydlo"}
@@ -57,7 +57,7 @@
   title: ""
   bio: >
   thumbnailUrl: tomasz-nurkiewicz.jpg
-  rockstar: false
+  rockstar: true 
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/tomasz-nurkiewicz-80513b92/"}
     - {name: "twitter", link: "https://twitter.com/tnurkiewicz"}
