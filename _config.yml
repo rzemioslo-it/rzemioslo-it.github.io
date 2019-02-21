@@ -130,8 +130,8 @@ lastEditionButtons:
 
 # Tickets Block
 ticketsTitle: "Bilety"
-# ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawowe, lunch i afterparty. Nocleg nie jest wliczony w cenę biletu."
-ticketsInfo: "Informację o sprzedaży biletów podamy na stronie i kanałach social media."
+ticketsInfo: "Bilety umożliwiają wstęp na wszystkie prezentacje, przerwy kawowe, lunch i afterparty. Nocleg nie jest wliczony w cenę biletu."
+# ticketsInfo: "Informację o sprzedaży biletów podamy na stronie i kanałach social media."
 
 # Footer
 socialLinks:
