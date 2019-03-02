@@ -29,7 +29,7 @@
   name: "Michał"
   surname: "Młoźniak"
   title: ""
-  bio: >
+  bio: 'Programista/przedsiębiorca, zainteresowany wszystkimi aspektami wytwarzania oprogramowania: budowaniem i zarządzaniem zespołami, programowaniem, architekturą oraz rozwiązywaniem problemów. Współorganizator Warsaw Ruby User Group. Preferuje zgłębiać wiedzę o istniejących technologiach niż o co chwila pojawiających się językach programowania czy frameworkach. Kiedy nie programuje, możecie go znaleźć poszukującego ukrytych perełek na wyspie 本州.'
   thumbnailUrl: michal-mlozniak.jpg
   rockstar: true
   social:
