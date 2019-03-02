@@ -18,7 +18,7 @@
   title: ""
   bio: >
   thumbnailUrl: robert-pankowecki.jpg
-  rockstar: true 
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/robertpankowecki/"}
     - {name: "twitter", link: "https://twitter.com/pankowecki"}
@@ -31,7 +31,7 @@
   title: ""
   bio: >
   thumbnailUrl: michal-mlozniak.jpg
-  rockstar: true 
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/michał-młoźniak-09254a67/"}
     - {name: "twitter", link: "https://twitter.com/roninek"}
@@ -44,7 +44,7 @@
   title: ""
   bio: >
   thumbnailUrl: lukasz-szydlo.jpg
-  rockstar: true 
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/łukasz-szydło-14754024/"}
     - {name: "twitter", link: "https://twitter.com/lszydlo"}
@@ -57,7 +57,7 @@
   title: ""
   bio: >
   thumbnailUrl: tomasz-nurkiewicz.jpg
-  rockstar: true 
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/tomasz-nurkiewicz-80513b92/"}
     - {name: "twitter", link: "https://twitter.com/tnurkiewicz"}
@@ -77,6 +77,17 @@
     - {name: "twitter", link: "https://twitter.com/szymonpobiega"}
     - {name: "github", link: "https://github.com/SzymonPobiega"}
     - {name: "facebook", link: "https://www.facebook.com/szymon.pobiega"}
+
+-
+  id: 7
+  name: "Norbert"
+  surname: "Wójtowicz"
+  title: ""
+  bio: Norbert Wójtowicz is a recovering empty-stack developer, whose magic 8-ball predicts that Clojure and ClojureScript will be in your future toolbox. You can find his code and ramblings in various corners of the internet, under the felicitous handle @pithyless.
+  thumbnailUrl: norbert-wojtowicz.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/pithyless"}
 # -
   # id: 1
   # name: "Jarosław"
