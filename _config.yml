@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'blog.html', 'hac
 
 # Site Settings
 title: "RZEmiosło.IT | Konferencja programistyczna w Rzeszowie"
-email: "kontakt@rzemioslo.it"
+email: ""
 description: "Pierwsza konferencja programistyczna w Rzeszowie poświęcona tematyce Software Craftsmanship - dobrym praktykom i metodykom, nie związanymi ściśle z konkretnymi technologiami."
 baseurl: ""
 url: "http://rzemioslo.it"
@@ -64,6 +64,7 @@ aboutText:
  - "RZEmiosło.IT to pierwsza konferencja programistyczna na Podkarpaciu poświęcona tematyce \"Software Craftsmanship\"."
  - "Nowe technologie pojawiają się i znikają. My wierzymy, że warto inwestować we własne programistyczne rzemiosło, w warsztat, który zawsze będzie aktualny, niezależnie od aktualnych trendów."
  - "Serdecznie zapraszamy: Rzeszów. 25 maja 2019"
+ - "Zapewniamy świetne prelekcje techniczne, catering przez cały dzień i after party."
 #aboutBlock:
 # - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 # - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -85,30 +86,30 @@ twitterHashTag: "RZEmiosloIT"
 twitterFeed: ""
 
 # Location Block
-# locationBlockTitle: "Lokalizacja"
-# eventLocationName: "Podkarpacki Park Naukowo-Technologiczny AEROPOLIS"
-# eventLocationLink: "http://aeropolis.com.pl/pl/"
-# eventStreetAddress: "Jasionka 954"
-# eventAddressLocality: ""
-# eventAddressLocalityRegion: "Rzeszów"
-# eventPostalCode: "36-002"
-# eventAddressCountry: "Polska"
-# eventStartTime: "2018-05-26T09:00"
-# eventDoorTime: "08:00"
-# eventEndTime: "2018-05-26T18:00"
-# eventPlaceCoordinates: "50.1165296, 22.0175096"
-# mapCenterCoordinates: "50.082178, 22.003305"
-# mapMobileCenterCoordinates: "50.082178, 22.003305"
+locationBlockTitle: "Lokalizacja"
+eventLocationName: "Bristol Tradition&Luxury Hotel"
+eventLocationLink: "https://www.bristol-rzeszow.pl"
+eventStreetAddress: "ul. Kopernika 12"
+eventAddressLocality: "Rzeszów"
+eventAddressLocalityRegion: "Rzeszów"
+eventPostalCode: "35-002"
+eventAddressCountry: "Polska"
+eventStartTime: "2019-05-25T09:00"
+eventDoorTime: "08:00"
+eventEndTime: "2019-05-26T18:00"
+eventPlaceCoordinates: "50.0382509, 22.004591"
+mapCenterCoordinates: "50.0382509, 22.004591"
+mapMobileCenterCoordinates: "50.0382509, 22.004591"
 
 # Venue Block
-# venueBlockTitle: "Miejsce"
-# venueBigImage: "venue-0-v2.jpg"
-# venueSmallImage1: "venue-1-v2.jpg"
-# venueSmallImage2: "venue-2-v2.jpg"
-# venueSmallImage3: "venue-3-v2.jpg"
-# venueTitle: "Podkarpacki Park Naukowo-Technologiczny AEROPOLIS"
-# venueSubTitle: "Budynek IT"
-# venueFeatures: ["Nowa sala konferencyjna położona tuż przy lotnisku Jasionka"]
+venueBlockTitle: "Miejsce"
+venueBigImage: "bristol1.jpg"
+venueSmallImage1: "bristol-sala1.jpg"
+venueSmallImage2: "bristol2.jpg"
+venueSmallImage3: "bristol-sala2.jpg"
+venueTitle: "Bristol Tradition&Luxury Hotel"
+venueSubTitle: ""
+venueFeatures: ["Hotel w samym centrum Rzeszowa"]
 
 # Partners Block
 organizersTitle: "Organizatorzy"
