@@ -136,7 +136,6 @@ layout: compress
     <script type="text/javascript" src="//cdn.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
     <script type="text/javascript">
      $(window).load(function() {
-  /*     
   			var f = document.createElement('iframe');
        f.src = "https://rzemiosloIT.evenea.pl?out=1&source=event_iframe";
        f.width = '100%';
@@ -144,7 +143,9 @@ layout: compress
        f.scrolling = 'no';
        f.style = 'border: 0';
        $('#tickets-placeholder').append(f);
-     });*/
+     });
+       $('iframe').iFrameResize([{}])
+     });
     </script>
 
     {% include schema-event.html %}
