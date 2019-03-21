@@ -88,34 +88,34 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/pithyless"}
-# -
-  # id: 1
-  # name: "Jarosław"
-  # surname: "Pałka"
-  # title: ""
-  # bio: >
-    # Od ponad 20 lat w branży IT, jako administrator baz danych, programista,
-    # architekt, manager i „inżynier od spraw katastrof”. Brałem udział w małych,
-    # średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami
-    # „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze
-    # skutkiem. Co doprowadziło mnie do wniosku, że nie ważne co robisz tak długo,
-    # jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych
-    # narzędzi które wykonają pracę za ciebie. W międzyczasie dałem się porwać ideą
-    # TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak
-    # piękne w swej prostocie pomysły jak REST i NoSQL, by potem porzucić je by
-    # zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą
-    # „metafora” i odkryć, że rządzą nami te same prawa „natury”.
-    # Niepokorny wyznawca kościoła JVM, badacz bytecode'u i JIT oraz wszelkiej maści
-    # parserów, interpreterów i kompilatorów.
-    # Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat
-    # architektury na konferencjach w Polsce. W chwilach trener w <a href="http://symentis.pl">http://symentis.pl</a>
-    # i autor bloga na <a href="http://geekyprimitives.wordpress.com/">http://geekyprimitives.wordpress.com/</a> oraz samozwańczy dyktator
-    # w radach programowych konferencji JDD oraz 4Developers.
-  # thumbnailUrl: jp-new.jpg
-  # rockstar: true
-  # social:
-    # - {name: "twitter", link: "https://twitter.com/j_palka"}
-
+-
+  id: 8
+  name: "Jarosław"
+  surname: "Pałka"
+  title: ""
+  bio: >
+    Od ponad 20 lat w branży IT, jako administrator baz danych, programista,
+    architekt, manager i „inżynier od spraw katastrof”. Brałem udział w małych,
+    średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami
+    „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze
+    skutkiem. Co doprowadziło mnie do wniosku, że nie ważne co robisz tak długo,
+    jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych
+    narzędzi które wykonają pracę za ciebie. W międzyczasie dałem się porwać ideą
+    TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak
+    piękne w swej prostocie pomysły jak REST i NoSQL, by potem porzucić je by
+    zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą
+    „metafora” i odkryć, że rządzą nami te same prawa „natury”.
+    Niepokorny wyznawca kościoła JVM, badacz bytecode'u i JIT oraz wszelkiej maści
+    parserów, interpreterów i kompilatorów.
+    Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat
+    architektury na konferencjach w Polsce. W chwilach trener w <a href="http://symentis.pl">http://symentis.pl</a>
+    i autor bloga na <a href="http://geekyprimitives.wordpress.com/">http://geekyprimitives.wordpress.com/</a> oraz samozwańczy dyktator
+    w radach programowych konferencji JDD oraz 4Developers.
+  thumbnailUrl: jarek-palka.jpg
+  rockstar: true
+  social:
+  - {name: "twitter", link: "https://twitter.com/j_palka"}
+  
 # -
   # id: 2
   # name: "Mariusz"
