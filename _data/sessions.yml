@@ -82,6 +82,12 @@
   # service: true
   # description: ""
 -
+  id: 111
+  title: "Szczegóły wkrótce..."
+  place: ""
+  service: true
+  description: ""
+-
   id: 001
   title: "Architekt i jego skrzynka z narzędziami"
   description: >

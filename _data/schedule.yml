@@ -1,14 +1,25 @@
 -
-  date: "2019-05-25"
-  dateReadable: ""
+  date: "2019-05-24"
+  dateReadable: "24. maja (piątek) - Dzień Warsztatowy"
   tracks:
-    #- {title: "Sala 1", color: "#90be4e"}
-    #- {title: "Sala 2", color: "#03a9f4"}
+    - {title: "Sala 1", color: "#90be4e"}
+      #- {title: "Sala 2", color: "#03a9f4"}
   timeslots:
-       - {
-       	startTime: "08:00",
-       	sessionIds: [100]
-       }
+    - {
+       	startTime: "",
+       	sessionIds: [201]
+     }
+-
+  date: "2019-05-25"
+  dateReadable: "25. maja (sobota) - Dzień Konferencyjny"
+  tracks:
+    - {title: "Sala 1", color: "#90be4e"}
+      #- {title: "Sala 2", color: "#03a9f4"}
+  timeslots:
+    - {
+       	startTime: "",
+       	sessionIds: [111]
+     }
     #   - {
     #   	startTime: "09:00",
     #   	sessionIds: [101]
