@@ -1,3 +1,56 @@
+-
+  id: 201
+  title: "JVM: przez dziurkę od klucza"
+  place: ""
+  subtype: workshop
+  description: >
+    <p>JVM to złożona maszyna, która napędza nasze systemy. Codziennie w pocie czoła
+    przerzuca terabajty obiektów pomiędzy kolejnymi generacjami w GC, generuje
+    strumienie optymalnego kodu skompilowanego przez jeden z kompilatorów JIT,
+    w międzyczasie próbując dogadać się z systemem operacyjnym.
+    Jednak nie zawsze w naszej maszynowni wszystko przebiega zgodnie z planem.
+    Gdzie szukać informacji? Jak odczytywać i interpretować wartości metryk?
+    Kiedy winny jest JVM, nasza aplikacja, a w jakim przypadku system operacyjny?</p>
+
+    <h5>Za uchyloną kotarą</h5>
+
+    <p>Podczas tej sesji postaram się pokazać dostępne narzędzia,
+    magiczne przełączniki i dostępne rozwiązania potrzebne w pracy
+    każdego "kryminologa" JVM.
+    Sesja będzie przeznaczona dla osób, które zaczynają przygodę z optymalizacją JVM.
+    Porozmawiamy o zapisywaniu zdarzeń z JVM, narzędziach ukrytych w JDK,w tym także
+    Java Mission Control i Flight Recorder i zobaczymy jak Java płonie :).
+    Nie zapomnimy też o narzędziach dostępnych w systemie operacyjnym Linux.</p>
+
+    <h5>Przyłapani w akcie</h5>
+
+    <p>Uzbrojeni w narzędzia i wiedzę, podczas tej sesji spróbujemy przekuć teorię
+    w praktykę.
+    Na naszej drodze staną zasobożerne procesy, wściekle pożerające CPU, RAM
+    i IOOPS naszego systemu.
+    Spróbujemy je odnaleźć i, korzystając z narzędzi, zidentyfikować źródło problemu.
+    Na dostarczonych serwerach uruchomione będą procesy JVM, a my bez dostępu do kodu
+    źródłowego oddamy się zawiłościom inwestygacji i wkroczymy w świat
+    kryminalistyki JVM.</p>
+
+    <h5>Błogosławieni, którzy ujrzeli maszynę</h5>
+
+    <p>Ten rozdział poświęcimy JMH (Java Microbenchmark Harness), narzędziu które
+    pozowoli nam pisać testy wydajnościowe naszego kodu.
+    Poznamy API JMH, bogaty zestaw opcji oraz jak konstruować testy wydajnościowe
+    by nie ulec iluzji, iż wszystko działa poprawnie.
+    To wszystko na kilku przykładach, które między innymi porównają wydajność
+    struktur danych dostępnych w Java SDK.</p>
+
+    <h5>Epilog</h5>
+
+    <p>Zapraszam Was na podróż w głąb maszyny. Zabierzcie ze sobą terminal, Java 11,
+    ulubione IDE i dziecięcą ciekawość.
+    Warsztaty zakładają, że programujecie w Java na przyzwoitym poziomie,
+    a JVM jest Wam obcy, jednak macie w sobie głód zrozumienia,
+    jak to wszystko działa.</p>
+  speakers: [8]
+
 # -
   # id: 100
   # title: "Rejestracja uczestników"
@@ -28,6 +81,46 @@
   # place: "Hall"
   # service: true
   # description: ""
+-
+  id: 111
+  title: "Szczegóły wkrótce..."
+  place: ""
+  service: true
+  description: ""
+-
+  id: 001
+  title: "Architekt i jego skrzynka z narzędziami"
+  description: >
+    I przyszedł ten dzień w Twojej karierze. Tak długo na niego czekałeś.
+    Zostałeś architektem. I teraz im wszystkim pokażesz jak się robi architekturę,
+    głupcy.
+    Będzie seks, koks i Firefox.
+    Co prawda jeszcze nie masz pojęcia, że Twoje życie właśnie stało się żałosne,
+    smutne i cała dziecięca radość spłynęła w rynsztok pełen utraconych nadziei
+    i niespełnionych snów. Jeszcze nie wiesz, że architekt, to taki menedżer,
+    ale bez zespołu.Jako architekt, będziesz negocjował, bo nigdy nie ma czasu
+    na "architekcenie",będziesz edukował, bo nikt nie będzie rozumiał i będziesz
+    tłumaczyć biznesowi trzyliterowe skróty, bo im się nie chce wychylić
+    nosa ze swojej strefy komfortu.A wszystko to gołymi rękami.
+    Wszystko to dlatego, że architekci w naszej branży nie dorobili się
+    narzędzi do wykonywania swojej pracy. Ich praca została sprowadzona
+    do diagramów pełnych beczek, owali i strzałek i małych różowych karteczek,
+    pokrytych z jednej strony klejem.
+    Czy tak musi być? Czy architektura może mieć solidne podstawy naukowe i nie być
+    zbiorem błędnych założeń, miejskich legend, ciągle powtarzanych kłamstewek,
+    które stają się prawdą, podlanych wysokoprocentowym testosteronem?
+    Być może teorie systemów, złożoności, kolejek i obietnic mogą wnieść trochę
+    światła w ten architektoniczny labirynt w którym grasują krótkie terminy i
+    wyśrubowane wymagania, które nie mają przełożenia na rzeczywistość?
+    Pytanie tylko czy da się w te kilka kwadransów wytłumaczyć dynamikę systemów,
+    model M/D/1, rozkład Poisson, kaskadowe awarie czy też balansujące pętle?
+    I jak te wszystkie techniki uchroniłby mnie od awarii, głupich decyzji
+    i nieprzespanych nocy.
+        <p>Modelowanie złożonych problemów jest skomplikowane i często prowadzi do równie skomplikowanego kodu. Kontrolery, repozytoria, usługi, warunki biznesowe, formularze, widoki - wymagania biznesowe klienta często infiltrują te warstwy, wszystko jest ze sobą połączone, a kod staje się trudny do czytania, zrozumienia i rozwoju. A gdy potrzeba rozszerzyć lub zmodyfikować logikę biznesową, i trzeba „przekopać” się przez dziesiątki (a czasami i setki) linii kontrolerów czy serwisów, próbując zrozumieć sens i rolę wszystkich obiektów lub zidentyfikować zakres zmian, może nadszedł czas na inne podejście… Podejście „Thinking in Events” oznacza, że można być w pełni skoncentrowanym na problemie domenowym i implementacji testowalnej logiki biznesowej. Wykorzystując zdarzenia domenowe jako źródło informacji, skomplikowane technicznie elementy jak bazy danych czy web-frameworki stają się jedynie szczegółami implementacyjnymi, od których nie zależy zbyt wiele.</p>
+        <p>Podczas prezentacji zapoznasz się więc z technikami odkrywania eventów domenowych i wykorzystania ich zarówno w implementacji jak i na poziomie biznesowym, do lepszego zrozumienia i usprawnienia procesów. Porozmawiamy więc o wykorzystaniu eventów do komunikacji wewnątrz systemu, konceptach event/command/query busów, stosowaniu Event Sourcing do przechowywania historii zmian, czy też rozdzielaniu zapis od odczytu z wykorzystaniem CQRS, aby zwiększyć wydajność, skalowalność i bezpieczeństwo całego systemu. Będąc jednocześnie skoncentrowanym na realnym problemie biznesowym, bez rozpraszania zbędnymi detalami kodu.</p>
+  subtype: presentation
+  speakers: [8]
+
 
 # -
   # id: 001
@@ -120,3 +213,4 @@
     # <p>Już wkrótce</p>
   # subtype: presentation
   # speakers: []
+  #

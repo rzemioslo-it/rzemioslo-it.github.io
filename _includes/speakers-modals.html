@@ -17,6 +17,14 @@
 								{% for session_speaker in session.speakers %}
 									{% if session_speaker == speaker.id %}
 										<h4>{{ session.title }}</h4>
+										{% if session.subtype == "workshop" %}
+										<span class="theme-metadata"><span
+                                              class="caption"></span><strong>WARSZTAT</strong></span>
+										{% endif %}
+										{% if session.subtype == "presentation" %}
+										<span class="theme-metadata"><span
+                                              class="caption"></span><strong>PREZENTACJA</strong></span>
+										{% endif %}
 										{% if session.language != null %}
 										<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
 										{% endif %}
