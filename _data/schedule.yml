@@ -1,6 +1,6 @@
 -
   date: "2019-05-24"
-  dateReadable: "24. maja (piątek) - Dzień Warsztatowy"
+  dateReadable: "24. maja (piątek) - Warsztaty"
   tracks:
     - {title: "Sala 1", color: "#90be4e"}
       #- {title: "Sala 2", color: "#03a9f4"}
@@ -11,7 +11,7 @@
      }
 -
   date: "2019-05-25"
-  dateReadable: "25. maja (sobota) - Dzień Konferencyjny"
+  dateReadable: "25. maja (sobota) - Konferencja"
   tracks:
     - {title: "Sala 1", color: "#90be4e"}
       #- {title: "Sala 2", color: "#03a9f4"}
