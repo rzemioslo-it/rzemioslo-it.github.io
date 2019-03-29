@@ -115,107 +115,17 @@
   rockstar: true
   social:
   - {name: "twitter", link: "https://twitter.com/j_palka"}
-  
-# -
-  # id: 2
-  # name: "Mariusz"
-  # surname: "Gil"
-  # title: ""
-  # bio: >
-    # Software architect interesujący się złożonymi systemami o wysokiej wartości biznesowej,
-    # związany głównie z platformami webowymi. ex-CTO, konsultant, speaker i trener w Bottega IT Minds.
-    # Z branżą IT związany od ponad 16 lat. Entuzjasta rozwiązań big-data i machine-learning,
-    # a także osiąganych przy ich pomocy efektów. Po godzinach oddaje się swoim innym pasjom,
-    # fotografii i gitarze elektrycznej.
-  # thumbnailUrl: mg-v2.jpg
-  # rockstar: true
-  # social:
-    # - {name: "twitter", link: "https://twitter.com/mariuszgil"}
 
-# -
-  # id: 3
-  # name: "Szymon"
-  # surname: "Warda"
-  # title: ""
-  # bio: >
-    # With .NET from version 1.1 and with web development from the time when IE6 was the “better” browser.
-    # Working with machine learning, cloud, and big data by day. By night a developer of <a href="http://cookit.pl/">cookit.pl</a> -
-    # a pet project processing hundred of gigabytes of data with whatever suits the problem best
-    # (Graph databases/ML/C#/F#). Technology enthusiast, Neo4j ambassador, speaker,
-    # and a blogger at <a href="http://IndexOutOfRange.com/">IndexOutOfRange.com</a>
-  # thumbnailUrl: sw.jpg
-  # rockstar: true
-  # social:
-    # - {name: "twitter", link: "https://twitter.com/maklipsa"}
-    # - {name: "github", link: "https://github.com/maklipsa"}
-    # - {name: "linkedin", link: "https://linkedin.com/in/szymonwarda"}
-
-# -
-  # id: 4
-  # name: "Konrad"
-  # surname: "Kaplita"
-  # title: ""
-  # bio: >
-    # CTO w firmie <a href='https://appliscale.io/'>Appliscale</a>, programista języka Erlang oraz entuzjasta programowania funkcyjnego. Doświadczony konsultant IT z ponad 8 latami doświadczenia. Współpracował z klientami z branży InfoSec, Automotive, Wireless Networking oraz Adtech. Rozwijał i projektował rozproszone systemy wysokiej niezawodności. Obecnie mocno zaangażowany w problemy z dziedziny cloud computing, głównie na platformie Amazon AWS.
-  # thumbnailUrl: kk.jpg
-  # rockstar: true
-  # social:
-    # - {name: "twitter", link: "https://twitter.com/konradkaplita"}
-# -
-  # id: 5
-  # name: "Maciej"
-  # surname: "Aniserowicz"
-  # title: ""
-  # bio: >
-    # <p>Po pierwsze: programista-pasjonat. Człowiek od wszystkiego związanego z programowaniem. Autor książki <a href='https://zawodprogramista.pl/'>"Zawód: Programista"</a>.</p>
-    # <p>Po drugie: pragmatyczny trener z misją dostarczania wyjątkowych szkoleń, faktycznie zmieniających sposób pracy i myślenia.</p>
-    # <p>Po trzecie: żyje i oddycha polską społecznością programistyczną. Autor dev-bloga: <a href='http://devstyle.pl'>devstyle.pl</a> i <a href='https://www.youtube.com/playlist?list=PLN2dx2pIJO6PgjbbxEwrPO2eWyQe_3Iop'>VLOGa</a> na YouTube. Twórca podcasta programistycznego: <a href='devstyle.pl'>DevTalk</a>. Prelegent na największych polskich konferencjach oraz grupach pasjonackich w całym kraju. Współorganizator legendarnej konferencji Programistok. Organizator konkursu Daj Się Poznać. Jeden z ex-liderów Białostockiej Grupy .NET.</p>
-    # <p>Od 2008 posiadacz tytułu Microsoft MVP (Most Valuable Professional) w kategorii .NET.</p>
-    # <p>Od 2005 Microsoft Certified Professional.</p>
-    # <p>Prywatnie: mąż, tata. Dużo myśli, nieustannie poznając siebie. Słucha dobrej muzyki każdego rodzaju. Rozbił się na torze wyścigowym i znalazł w tym prawie same pozytywy.</p>
-  # thumbnailUrl: maciej-aniserowicz.jpeg
-  # rockstar: true
-  # social:
-    # - {name: "site", link: "https://devstyle.pl/"}
-    # - {name: "twitter", link: "https://twitter.com/maniserowicz"}
-    # - {name: "facebook", link: "https://www.facebook.com/devstylepl"}
-    # - {name: "youtube", link: "https://www.youtube.com/devstylepl"}
-    # - {name: "linkedin", link: "https://www.linkedin.com/in/maciejaniserowicz"}
-# -
-  # id: 6
-  # name: Jakub
-  # surname: Mrugalski
-  # title: ""
-  # bio: >
-    # Pasjonat bezpieczeństwa webowego. Programista, administrator serwerów linuksowych, youtuber, publicysta, a zawodowo specjalista od pentestów i szkoleniowiec w firmie <a href='http://niebezpiecznik.pl'>Niebezpiecznik.pl</a>.
-
-  # thumbnailUrl: jakub-mrugalski.jpg
-  # rockstar: true
-  # social:
-    # - {name: "twitter", link: "https://twitter.com/uwteam"}
-    # - {name: "site", link: "http://mrugalski.pl/"}
-
-# -
-  # id: 7
-  # name: Piotr
-  # surname: Stapp
-  # title: ""
-  # bio: >
-    # Programista, inżynier, rzemieślnik, projektant i rowerzysta. Korzysta z każdej technologii, która prowadzi do celu. Wierzy w ludzi, a nie w papiery. Jest wyznawcą DevOps i wszelkiej automatyzacji.<br />
-    # Jak przystało na człowieka inteligentnego, prowadzi bloga – o tyle wyjątkowego, że regularnie pojawiają się tam nowe teksty: <a href="http://stapp.space/">http://stapp.space/</a>.<br />
-    # Do niedawna Ekspert IT w mBanku. Obecnie współtworzy nowy fintech – FinAi, w którym pracuje nad zamianą rzeczy skomplikowanych na proste. A to czasem bywa trudne.
-  # thumbnailUrl: 'ps-new.jpg'
-  # rockstar: true
-  # social:
-    # - {name: "twitter", link: "https://twitter.com/ptrstpp950"}
-    # - {name: "github", link: "https://github.com/ptrstpp950"}
-# -
-  # id: 8
-  # name: Michał
-  # surname: Sondej
-  # title: ""
-  # bio: >
-    # Pasjonat szeroko pojętego programowania w każdej technologii. Niegdyś przewodniczący Rzeszowskiej Grupy .NET, dziś jako certyfikowany Microsoftowiec i starszy programista w Fabrity tworzy rozwiązania webowe dla biznesu. Prywatnie również no-life :)
-  # thumbnailUrl: 'michal-sondej.jpeg'
-  # rockstar: true
-  # social:
+-
+  id: 9
+  name: Michał
+  surname: Borkowski
+  title: ""
+  bio: Michał jest programistą Java w PGS Software. Kiedy nie programuje, lubi dzielić się wiedzą z praktykantami i studentami.
+    W wolnym czasie lubi eksperymentować z rozpraszaniem aplikacji i robić proste rzeczy od podstaw - wynajdować koło na nowo.
+    Zwykle używa narzędzia odpowiedniego do zadania ale jego ulubione środowisko programistyczne to vim + tmux + czarno-biała konsola.
+    Słynie z tego że dzieli się swoją skromną wiedzą z innymi w formie anegdotek, czy tego chcą czy nie.
+  thumbnailUrl: michal-borkowski.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/wielkiborsuk"}
