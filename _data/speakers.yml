@@ -129,3 +129,18 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/wielkiborsuk"}
+
+-
+  id: 10
+  name: "Piotr"
+  surname: "Stapp"
+  title: ""
+  bio: >
+    Programista, inżynier, rzemieślnik, projektant i rowerzysta. Korzysta z każdej technologii, która prowadzi do celu. Wierzy w ludzi, a nie w papiery. Jest wyznawcą DevOps i wszelkiej automatyzacji.<br />
+    Jak przystało na człowieka inteligentnego, prowadzi bloga – o tyle wyjątkowego, że regularnie pojawiają się tam nowe teksty: <a href="http://stapp.space/">http://stapp.space/</a>.<br />
+    Do niedawna Ekspert IT w mBanku. Obecnie współtworzy nowy fintech – FinAi, w którym pracuje nad zamianą rzeczy skomplikowanych na proste. A to czasem bywa trudne.
+  thumbnailUrl: piotr-stapp.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ptrstpp950"}
+    - {name: "github", link: "https://github.com/ptrstpp950"}
