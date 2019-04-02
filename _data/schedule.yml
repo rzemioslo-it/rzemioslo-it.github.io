@@ -3,11 +3,12 @@
   dateReadable: "24. maja (piątek) - Warsztaty"
   tracks:
     - {title: "Sala 1", color: "#90be4e"}
-      #- {title: "Sala 2", color: "#03a9f4"}
+    - {title: "Sala 2", color: "#03a9f4"}
+    - {title: "Sala 3", color: "#e91e63"}
   timeslots:
     - {
        	startTime: "",
-       	sessionIds: [201]
+       	sessionIds: [201,202,203]
      }
 -
   date: "2019-05-25"
