@@ -82,26 +82,12 @@
     <li>Testowanie widoków i procesów</li>
     </ol>
     </li>
-    <li>Przechowywanie danych
-    <ol>
-    <li>EventStore – zdarzeniowa baza danych</li>
-    <li>Marten – PostgreSQL</li>
-    <li>StreamStone – Azure Table Storage</li>
-    </ol>
-    </li>
     <li>Struktura zdarzeń
     <ol>
     <li>Schemat i jego brak</li>
     <li>Serializacja</li>
     <li>Wersjonowanie</li>
     <li>Metadane</li>
-    </ol>
-    </li>
-    <li>Aplikacje i usługi
-    <ol>
-    <li>Web API i REST</li>
-    <li>HATEOAS i hypermedia</li>
-    <li>Integracje</li>
     </ol>
     </li>
     <li>Scenariusze zaawansowane
