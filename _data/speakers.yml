@@ -144,3 +144,22 @@
   social:
     - {name: "twitter", link: "https://twitter.com/ptrstpp950"}
     - {name: "github", link: "https://github.com/ptrstpp950"}
+
+-
+  id: 11
+  name: "Dorota"
+  surname: "Owczarek"
+  title: ""
+  bio: >
+    <p>Specjalistka UX i Frontend z rozległą wiedzą informatyczną i wielką pasją do projektowania graficznego. Zajmuje się badaniami i projektowaniem UX oraz rozwojem i realizacją złożonych produktów IT.</p>
+
+    <p>Freelancing dał jej możliwość bycia częścią ekscytujących i ambitnych przedsięwzięć. Dla Doroty, projektowanie interfejsów użytkownika łączy się przede wszystkim z przejrzystym i użytecznym designem. Nieustannie poszukuje sposobów na ulepszenie lub uproszczenie interfejsów aplikacji, starając się wspierać użytkowników końcowych, stawiając ich potrzeby i wymagania na pierwszym miejscu.</p>
+  thumbnailUrl: dorota-owczarek.jpg
+
+-
+  id: 12
+  name: "Prelegent"
+  surname: "Fabrity"
+  title: ""
+  bio: >
+  thumbnailUrl: placeholder.png
