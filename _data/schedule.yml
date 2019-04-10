@@ -2,9 +2,9 @@
   date: "2019-05-24"
   dateReadable: "24. maja (piątek) - Warsztaty"
   tracks:
-    - {title: "Sala 1", color: "#90be4e"}
-    - {title: "Sala 2", color: "#03a9f4"}
-    - {title: "Sala 3", color: "#e91e63"}
+    - {title: "Sala 1", color: "90be4e"}
+    - {title: "Sala 2", color: "03a9f4"}
+    - {title: "Sala 3", color: "e91e63"}
   timeslots:
     - {
        	startTime: "",
@@ -14,62 +14,63 @@
   date: "2019-05-25"
   dateReadable: "25. maja (sobota) - Konferencja"
   tracks:
-    - {title: "Sala 1", color: "#90be4e"}
-      #- {title: "Sala 2", color: "#03a9f4"}
+    - {title: "Sala 1", color: "90be4e"}
+    - {title: "Sala 2", color: "03a9f4"}
+    - {title: "Sala 3", color: "e91e63"}
   timeslots:
     - {
-       	startTime: "",
-       	sessionIds: [111]
-     }
-    #   - {
-    #   	startTime: "09:00",
-    #   	sessionIds: [101]
-    #   }
-    #   - {
-    #       startTime: "09:10",
-    #       sessionIds: [003]
-    #   }
-    #   - {
-    #   	startTime: "10:10",
-    #       sessionIds: [104]
-    #   }
-    #   - {
-    #   	startTime: "10:30",
-    #       sessionIds: [001]
-    #   }
-    #   - {
-    #   	startTime: "11:30",
-    #       sessionIds: [104]
-    #   }
-    #   - {
-    #   	startTime: "11:50",
-    #       sessionIds: [002,005]
-    #   }
-    #   - {
-    #   	startTime: "12:50",
-    #       sessionIds: [102]
-    #   }
-    #   - {
-    #   	startTime: "13:50",
-    #       sessionIds: [008, 009]
-    #   }
-    #   - {
-    #   	startTime: "14:50",
-    #       sessionIds: [104]
-    #   }
-    #   - {
-    #   	startTime: "15:10",
-    #       sessionIds: [007, 006]
-    #   }
-    #   - {
-    #   	startTime: "16:10",
-    #       sessionIds: [104]
-    #   }
-    #   - {
-    #   	startTime: "16:30",
-    #       sessionIds: [004]
-    #   }
-    #   - {
-    #   	startTime: "17:30",
-    #       sessionIds: [103]
-    #   }
+        startTime: "08:00",
+        sessionIds: [100]
+    }
+    - {
+        startTime: "09:00",
+        sessionIds: [101]
+    }
+    - {
+        startTime: "09:10",
+        sessionIds: [001]
+    }
+    - {
+        startTime: "10:10",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "10:30",
+        sessionIds: [003,004,009]
+    }
+    - {
+        startTime: "11:30",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "11:50",
+        sessionIds: [006,010,008]
+    }
+    - {
+        startTime: "12:50",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "13:50",
+        sessionIds: [002,011,012]
+    }
+    - {
+        startTime: "14:50",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "15:10",
+        sessionIds: [007]
+    }
+    - {
+        startTime: "16:10",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "16:30",
+        sessionIds: [005]
+    }
+    - {
+        startTime: "17:30",
+        sessionIds: [103]
+    }
