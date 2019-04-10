@@ -43,6 +43,9 @@
   surname: "Szydło"
   title: ""
   bio: >
+    <p>Programista/Architekt/Konsultant, fan “Software Craftsmanship” i zwinnego podejścia do wytwarzania oprogramowania.</p>
+    <p>Lubi proste rozwiązania skomplikowanych problemów. Na codzień zajmuje się tematami z zakresu architektury aplikacji biznesowych, Domain-Driven Design, Continuous Delivery, technologii Java oraz testowania automatycznego. Prywatnie mąż, ojciec szóstki dzieci.</p>
+    <p>Społecznie moderator w <a href="http://akademiafamilijna.pl/">akademiafamilijna.pl</a>.</p>
   thumbnailUrl: lukasz-szydlo.jpg
   rockstar: true
   social:
@@ -163,3 +166,14 @@
   title: ""
   bio: >
   thumbnailUrl: placeholder.png
+
+-
+  id: 13
+  name: "Jakub"
+  surname: "Pilimon"
+  title: "Architekt / Trener"
+  bio: >
+    <p>Principal Technologist w Pivotalu i trener w Bottega IT Minds. Entuzjasta Domain-Driven Design, fanatyk testów jednostkowych oraz ewolucyjnej architektury.</p>
+    <p>Zwolennik Event Stormingu.</p>
+    <p>Po pracy: kitesurfing oraz motocykle.</p>
+  thumbnailUrl: jakub-pilimon.jpg
