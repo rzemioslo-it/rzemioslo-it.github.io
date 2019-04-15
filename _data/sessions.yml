@@ -296,9 +296,9 @@
   speakers: [7]
 -
   id: 009
-  title: Szczegóły już wkrótce...
+  title: Shell, tmux, vim - krótka historia o ostrzeniu piły
   description: >
-    Szczegóły już wkrótce...
+    Świat idzie do przodu, nowe technologie wymagają nowych narzędzi. Bez wsparcia IDE trudno stworzyć coś więcej niż HelloWorld, albo index.html - a czy warto próbować? Skoro mamy do dyspozycji te nowoczesne narzędzia, to dlaczego mielibyśmy ich nie używać? Porozmawiajmy o kilku ważnych korzyściach które wynikają z "powracania do korzeni", "ostrzenia piły" i #nopowertools. W tle przewinie się konsola, tmux, vim i śladowe ilości indoktrynacji.
   subtype: presentation
   speakers: [9]
 -
