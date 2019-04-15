@@ -1,6 +1,11 @@
 -
+  group: "Partner diamentowy "
+  elements:
+    - {name: "Fabrity", description: "Fabrity", link: "https://www.fabrity.pl/", imageUrl: "fabrity-v2.png", class: "special"}
+-
   group: "Partnerzy złoci"
   elements:
+    - {name: "Nexocode", description: "Nexocode", link: "https://www.nexocode.com/", imageUrl: "nexocode.png", class: "special"}
     # - {name: "Fabrity", description: "Fabrity", link: "https://www.fabrity.pl/", imageUrl: "fabrity-v2.png", class: "special"}
     # - {name: "Mobica", description: "Mobica", link: "http://www.mobica.com", imageUrl: "mobica.png"}
     # - {name: "Ailleron", description: "Ailleron", link: "http://ailleron.com", imageUrl: "ailleron.png", class: "special"}
@@ -17,12 +22,13 @@
     # - {name: "RARR", description: "Rzeszowska Agencja Rozwoju Regionalnego", link: "http://www.rarr.rzeszow.pl/", imageUrl: "rarr.png"}
     # - {name: "SegFault", description: "SegFault - wszyscy jesteśmy architektami", link: "http://segfault.events", imageUrl: "segfault.jpg"}
     # - {name: "Greenfield", description: "Greenfield Conference", link: "http://conf.it", imageUrl: "greenfield.png"}
-    # - {name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
+    - {name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
     # - {name: "NoFluffJobs", description: "NoFluffJobs", link: "https://nofluffjobs.com", imageUrl: "nfj.png"}
     # - {name: "The Pragmatic Bookshelf", description: "Books, screencasts, forums, articles, and more, all aimed at helping software developers get better and have more fun.", link: "https://pragprog.com/", imageUrl: "pragmatic.png"}
     # - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png"}
     # - {name: "ChallangeRocket", description: "ChallangeRocket", link: "http://bit.ly/2Cm2fET", imageUrl: "challange_rocket.jpg"}
-    # - {name: "Helion", description: "Helion", link: "http://helion.pl", imageUrl: "helion.png"}
+    - {name: "Helion", description: "Helion", link: "http://helion.pl", imageUrl: "helion.png"}
+    - {name: "IT PWN", description: "IT PWN", link: "https://it.pwn.pl/", imageUrl: "it-pwn.png"}
     # - {name: "OzCode", description: "OzCode Magical Debugging", link: "https://oz-code.com/", imageUrl: "oz-code.png"}
     # - {name: "RARR - UM", description: "", link: "", imageUrl: "rarr-um.jpg", class: "special-3"}
 -
