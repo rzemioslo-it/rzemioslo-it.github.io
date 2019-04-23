@@ -1,5 +1,5 @@
 -
-  group: "Partner diamentowy "
+  group: "Główny Partner Konferencji"
   elements:
     - {name: "Fabrity", description: "Fabrity", link: "https://www.fabrity.pl/", imageUrl: "fabrity-v2.png", class: "special"}
 -
@@ -13,7 +13,7 @@
 -
   group: "Partnerzy srebrni"
   elements:
-    # - {name: "Appliscale", description: "APPLISCALE: Building things that scale", link: "https://appliscale.io/", imageUrl: "appliscale.jpg"}
+    - {name: "Appliscale", description: "APPLISCALE: Building things that scale", link: "https://appliscale.io/", imageUrl: "appliscale.jpg"}
 -
   group: "Pozostali partnerzy"
   elements:
