@@ -108,7 +108,7 @@
   place: ""
   subtype: workshop
   description: >
-    <p>Podczas warsztatu poznasz kompleksowy i bezpieczny sposób refaktoryzacji kodu legacy  do nowego modelu opartego o building blocki z Domain-Driven Design . Poznaj tajniki sztuki refaktoryzacji. Pokonaj Big Ball of Mud!</p> 
+    <p>Podczas warsztatu poznasz kompleksowy i bezpieczny sposób refaktoryzacji kodu legacy  do nowego modelu opartego o building blocki z Domain-Driven Design . Poznaj tajniki sztuki refaktoryzacji. Pokonaj Big Ball of Mud!</p>
     <p>W trakcie zajęć będziemy wspólnie krok po kroku refaktoryzować typowy odziedziczony projekt. Pokażemy techniki, które stosujemy na co dzień w naszej pracy, aby kod naszych klientów przypominał ten, który widzimy często na konferencjach.</p>
     <p>Podczas warsztatu dowiesz się:
     <ul>
@@ -175,6 +175,12 @@
     </li>
     </p>
   speakers: [4,13]
+-
+  id: 301
+  title: "Spotkanie RG-Dev"
+  place: "TBA"
+  service: true
+  description: "Rozgrzewkowe spotkanie grupy RG-Dev. W planie dwie prezentacje. Wstęp wolny."
 
 -
   id: 100
@@ -206,6 +212,13 @@
   place: "Hall"
   service: true
   description: ""
+-
+  id: 105
+  title: "After Party"
+  place: "Stary Browar Rzeszowski"
+  service: true
+  description: <a href='http://www.browar-rzeszow.pl/'>Stary Browar Rzeszowski</a>, Rynek, tuż obok Bristolu.
+
 -
   id: 001
   title: "Architekt i jego skrzynka z narzędziami"
@@ -319,7 +332,7 @@
 
 -
   id: 011
-  title: Więcej szczegółów wkrótce... 
+  title: Więcej szczegółów wkrótce...
   description: >
     Więcej szczegółów wkrótce...
   subtype: presentation

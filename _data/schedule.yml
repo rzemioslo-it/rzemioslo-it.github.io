@@ -7,8 +7,12 @@
     - {title: "Sala 3", color: "e91e63"}
   timeslots:
     - {
-       	startTime: "",
-       	sessionIds: [201,202,203]
+        startTime: "",
+        sessionIds: [201,202,203]
+     }
+    - {
+        startTime: "18:30",
+        sessionIds: [301]
      }
 -
   date: "2019-05-25"
@@ -73,4 +77,8 @@
     - {
         startTime: "17:30",
         sessionIds: [103]
+    }
+    - {
+        startTime: "20:00",
+        sessionIds: [105]
     }
