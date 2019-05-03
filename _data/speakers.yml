@@ -166,14 +166,3 @@
   title: ""
   bio: >
   thumbnailUrl: placeholder.png
-
--
-  id: 13
-  name: "Jakub"
-  surname: "Pilimon"
-  title: "Architekt / Trener"
-  bio: >
-    <p>Principal Technologist w Pivotalu i trener w Bottega IT Minds. Entuzjasta Domain-Driven Design, fanatyk testów jednostkowych oraz ewolucyjnej architektury.</p>
-    <p>Zwolennik Event Stormingu.</p>
-    <p>Po pracy: kitesurfing oraz motocykle.</p>
-  thumbnailUrl: jakub-pilimon.jpg

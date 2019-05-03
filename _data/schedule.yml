@@ -4,7 +4,6 @@
   tracks:
     - {title: "Sala 1", color: "90be4e"}
     - {title: "Sala 2", color: "03a9f4"}
-    - {title: "Sala 3", color: "e91e63"}
   timeslots:
     - {
         startTime: "",
