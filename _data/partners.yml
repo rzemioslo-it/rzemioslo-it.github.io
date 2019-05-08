@@ -31,9 +31,9 @@
     - {name: "IT PWN", description: "IT PWN", link: "https://it.pwn.pl/", imageUrl: "it-pwn.png"}
     # - {name: "OzCode", description: "OzCode Magical Debugging", link: "https://oz-code.com/", imageUrl: "oz-code.png"}
     # - {name: "RARR - UM", description: "", link: "", imageUrl: "rarr-um.jpg", class: "special-3"}
--
-  group: "Partnerzy medialni"
-  elements:
+    #-
+    #  group: "Partnerzy medialni"
+    #  elements:
     # - {name: "Programista", description: "Programista", link: "http://programistamag.pl/", imageUrl: "programistamag.png"}
     # - {name: "dotNETomaniak", description: "dotNETomaniak", link: "http://dotnetomaniak.pl/", imageUrl: "dotnetomaniak.png"}
     # - {name: "ERP-view", description: "ERP-view system rozwiązań IT w biznesie", link: "http://www.erp-view.pl", imageUrl: "erp-view.png"}
@@ -48,8 +48,8 @@
 -
   group: "Patronat honorowy"
   elements:
-    # - {name: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", description: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", link: "", imageUrl: "prezydent.png"}
-    # - {name: "Marszałek Województwa Podkarpackiego", description: "Marszałek Województwa Podkarpackiego", link: "", imageUrl: "marszalek.png"}
+    - {name: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", description: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", link: "", imageUrl: "prezydent.png"}
+    - {name: "Marszałek Województwa Podkarpackiego", description: "Marszałek Województwa Podkarpackiego", link: "", imageUrl: "marszalek.png"}
     # - {name: "Urząd Miasta Rzeszowa", description: "Urząd Miasta Rzeszowa", link: "http://www.rzeszow.pl/", imageUrl: "rzeszow.jpg"}
 
 # -
@@ -72,14 +72,20 @@
 #     - {name: "Joga śmiechu", description: "Joga śmiechu", link: "https://www.facebook.com/jogasmiechurzeszow/", imageUrl: "joga-smiechu.jpg"}
 #     - {name: "Vega zdrowie", description: "Vega zdrowie", link: "https://www.facebook.com/VegaZdrowie/", imageUrl: "vega-zdrowie.jpg"}
 #     - {name: "The Pragmatic Bookshelf", description: "Books, screencasts, forums, articles, and more, all aimed at helping software developers get better and have more fun.", link: "https://pragprog.com/", imageUrl: "pragmatic.png"}
-# -
-#   group: "Partnerzy medialni"
-#   elements:
+-
+   group: "Partnerzy medialni"
+   elements:
 #     - {name: "dotNetConfPl", description: "dotNetConfPl", link: "http://dotnetconf.pl/", imageUrl: "dotnetconfpl.png"}
 #     - {name: "imprezy.rzeszow.pl", description: "imprezy.rzeszow.pl", link: "http://www.imprezy.rzeszow.pl/", imageUrl: "imprezy-rzeszow.gif"}
 #     - {name: "Intro Media", description: "Intro Media", link: "http://www.intro.media/", imageUrl: "intro-media.png"}
 #     - {name: "Magazyn Programista", description: "Magazyn programistów i liderów zespołów IT", link: "https://programistamag.pl/", imageUrl: "programista.jpg"}
 #     - {name: "Młodzi Rzeszów", description: "Młodzi Rzeszów", link: "http://mlodzi.rzeszow.pl/", imageUrl: "mlodzi-rzeszow.png"}
 #     - {name: "PJUG", description: "Polish Java User Group", link: "https://www.java.pl/", imageUrl: "pjug.jpg"}
-#     - {name: "Radio Via", description: "Radio Via", link: "http://www.radiovia.com.pl/", imageUrl: "radio-via.png"}
+     - {name: "Radio Via", description: "Radio Via", link: "http://www.radiovia.com.pl/", imageUrl: "radio-via.png"}
 #     - {name: "Resinet.pl", description: "Resinet.pl - Rzeszowski portal informacyjny", link: "http://www.resinet.pl/", imageUrl: "resinet.png"}
+     - {name: "TVP 3 Rzeszów", description: "TVP 3 Rzeszów", link: "https://rzeszow.tvp.pl/", imageUrl: "tvp3.jpg"}
+     - {name: "Mój Rzeszów", description: "Portal miejski", link: "http://mojrzeszow.pl/", imageUrl: "rzeszow-portal-miejski.png"}
+     - {name: "Nowiny24", description: "Nowiny24", link: "https://nowiny24.pl", imageUrl: "nowiny24.jpg"}
+     - {name: "Gospodarka Podkarpacka", description: "Gospodarka Podkarpacka", link: "http://www.gospodarkapodkarpacka.pl/", imageUrl: "gospodarka-podkarpacka.png"}
+     - {name: "FXMAG", description: "Nowiny24", link: "https://www.fxmag.pl/", imageUrl: "fxmag.png"}
+     - {name: "MrDev", description: "Blog programisty", link: "https://mrdev.pl/", imageUrl: "mr-dev.png"}
