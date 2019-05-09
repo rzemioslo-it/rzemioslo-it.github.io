@@ -26,7 +26,8 @@
     - {name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
     - {name: "RZEQA", description: "RZEQA", link: "http://rzeqa.pl/", imageUrl: "rzeqa.jpg"}
     # - {name: "NoFluffJobs", description: "NoFluffJobs", link: "https://nofluffjobs.com", imageUrl: "nfj.png"}
-    - {name: "The Pragmatic Bookshelf", description: "Books, screencasts, forums, articles, and more, all aimed at helping software developers get better and have more fun.", link: "https://pragprog.com/", imageUrl: "pragmatic.png"}
+    - {name: "The Pragmatic Bookshelf", description: "The Pragmatic Bookshelf: Books, screencasts, forums, articles, and more, all aimed at helping software developers get better and have more fun.", link: "https://pragprog.com/", imageUrl: "pragmatic.png"}
+    - {name: "O'Reilly Media", description: "O'Reilly Media: Technology and business training.", link: "https://www.oreilly.com/", imageUrl: "oreilly.jpg"}
     # - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png"}
     # - {name: "ChallangeRocket", description: "ChallangeRocket", link: "http://bit.ly/2Cm2fET", imageUrl: "challange_rocket.jpg"}
     - {name: "Helion", description: "Helion", link: "http://helion.pl", imageUrl: "helion.png"}
