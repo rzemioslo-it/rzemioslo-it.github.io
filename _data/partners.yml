@@ -14,7 +14,7 @@
   group: "Partnerzy srebrni"
   elements:
     - {name: "Appliscale", description: "APPLISCALE: Building things that scale", link: "https://appliscale.io/", imageUrl: "appliscale.jpg"}
-    - {name: "PGS Software S.A.", description: "PGS Software S.A.", link: "https://pgs-soft.com/", imageUrl: "pgs-soft.jpg"}
+    - {name: "PGS Software S.A.", description: "PGS Software S.A.", link: "https://pgs-soft.com/", imageUrl: "pgs-soft.png"}
 -
   group: "Pozostali partnerzy"
   elements:
