@@ -48,6 +48,7 @@
     - {name: "TVP 3 Rzeszów", description: "TVP 3 Rzeszów", link: "https://rzeszow.tvp.pl/", imageUrl: "tvp3.jpg"}
     - {name: "Mój Rzeszów", description: "Portal miejski", link: "http://mojrzeszow.pl/", imageUrl: "rzeszow-portal-miejski.png"}
     - {name: "Nowiny24", description: "Nowiny24", link: "https://nowiny24.pl", imageUrl: "nowiny24.jpg"}
+    - {name: "Gazeta codzienna Nowiny", description: "Nowiny", link: "https://nowiny24.pl", imageUrl: "gazeta-nowiny.png"}
     - {name: "Gospodarka Podkarpacka", description: "Gospodarka Podkarpacka", link: "http://www.gospodarkapodkarpacka.pl/", imageUrl: "gospodarka-podkarpacka.png"}
     - {name: "FXMAG", description: "FXMAG", link: "https://www.fxmag.pl/", imageUrl: "fxmag.png"}
     - {name: "MrDev", description: "Blog programisty", link: "https://mrdev.pl/", imageUrl: "mr-dev.png"}
