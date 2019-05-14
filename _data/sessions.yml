@@ -259,9 +259,12 @@
 
 -
   id: 011
-  title: Więcej szczegółów wkrótce...
+  title: Web a11y, czyli programowanie z empatią
   description: >
-    Więcej szczegółów wkrótce...
+    <p>Temat dostępności (a11y) zyskał ostatnio rozgłos wśród społeczności developerów i nie jest trudno zrozumieć, dlaczego... Według Światowej Organizacji Zdrowia na świecie żyje ponad miliard osób z niepełnosprawnościami. Te statystyki pozwalają nam zdać sobie sprawę, że przez nieumiejętne tworzenie aplikacji możemy nieumyślnie wykluczać gro osób blokując im dostęp do tworzonego przez nas oprogramowania. Chcemy jednak tworzyć produkty, które są naprawdę dla każdego - niezależnie od sposobu interakcji.</p>
+    <p>W tej prezentacji przejdziemy przez praktyczne przykłady pozwalające zadbać o dostępność aplikacji internetowych.</p>
+
+    <p>Dowiemy się jak dbać o poprawne działanie strony z czytnikami ekranu i innymi urządzeniami wejściowymi; do czego służą znaczniki ARIA i jak je wykorzystywać przy tworzeniu customowych komponentów. Przyjrzymy się stylom, które pomogą użytkownikom niedowidzącym łatwo i niezawodnie nawigować po stronach. Na koniec podpowiem co zrobić, aby wszystkie te zasady sprawnie zaimplementować w swojej codziennej pracy.</p>
   subtype: presentation
   speakers: [11]
 -
