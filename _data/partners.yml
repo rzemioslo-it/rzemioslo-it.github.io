@@ -16,42 +16,44 @@
     - {name: "Appliscale", description: "APPLISCALE: Building things that scale", link: "https://appliscale.io/", imageUrl: "appliscale.png", class: "special"}
     - {name: "PGS Software S.A.", description: "PGS Software S.A.", link: "https://www.pgs-soft.com/", imageUrl: "pgs-soft.png", class: "special-2"}
 -
-  group: "Pozostali partnerzy"
+  group: "Partnerzy specjalni"
   elements:
-    # - {name: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", description: "Podkarpacki Park Naukowo-Technologiczny Aeropolis", link: "http://aeropolis.com.pl/pl/", imageUrl: "aeropolis.png"}
-    # - {name: "EventLista", description: "EventLista", link: "https://eventlista.pl/Witamy", imageUrl: "eventlista.png", style: "background-color: black"}
-    # - {name: "RARR", description: "Rzeszowska Agencja Rozwoju Regionalnego", link: "http://www.rarr.rzeszow.pl/", imageUrl: "rarr.png"}
-    # - {name: "SegFault", description: "SegFault - wszyscy jesteśmy architektami", link: "http://segfault.events", imageUrl: "segfault.jpg"}
-    # - {name: "Greenfield", description: "Greenfield Conference", link: "http://conf.it", imageUrl: "greenfield.png"}
+    - {name: "Urząd Miasta Rzeszowa", description: "Urząd Miasta Rzeszowa", link: "http://www.rzeszow.pl/", imageUrl: "rzeszow.jpg"}
+    - {name: "Podkarpackie - przestrzeń otwarta", description: "Podkarpackie - przestrzeń otwarta", link: "http://www.podkarpackie.pl", imageUrl: "podkarpackie.png", class: "special"}
+    - {name: "PCI", description: "Podkarpackie Centrum Innowacji", link: "http://www.pcinn.org/", imageUrl: "pci.png", class: "special"}
+    - {name: "RARR - UM", description: "", link: "", imageUrl: "rarr-um.jpg", class: "special-3"}
+-
+  group: "Partnerzy społecznościowi"
+  elements:
     - {name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
     - {name: "RZEQA", description: "RZEQA", link: "http://rzeqa.pl/", imageUrl: "rzeqa.jpg"}
-    # - {name: "NoFluffJobs", description: "NoFluffJobs", link: "https://nofluffjobs.com", imageUrl: "nfj.png"}
+    - {name: "MrDev", description: "Blog programisty", link: "https://mrdev.pl/", imageUrl: "mr-dev.png"}
+-
+  group: "Pozostali partnerzy"
+  elements:
     - {name: "The Pragmatic Bookshelf", description: "The Pragmatic Bookshelf: Books, screencasts, forums, articles, and more, all aimed at helping software developers get better and have more fun.", link: "https://pragprog.com/", imageUrl: "pragmatic.png"}
     - {name: "O'Reilly Media", description: "O'Reilly Media: Technology and business training.", link: "https://www.oreilly.com/", imageUrl: "oreilly.jpg"}
-    # - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png"}
-    # - {name: "ChallangeRocket", description: "ChallangeRocket", link: "http://bit.ly/2Cm2fET", imageUrl: "challange_rocket.jpg"}
+    - {name: "ChallengeRocket", description: "ChallengeRocket", link: "http://bit.ly/2Cm2fET", imageUrl: "challenge-rocket.jpg"}
     - {name: "Helion", description: "Helion", link: "http://helion.pl", imageUrl: "helion.png"}
     - {name: "IT PWN", description: "IT PWN", link: "https://it.pwn.pl/", imageUrl: "it-pwn.png"}
-    # - {name: "OzCode", description: "OzCode Magical Debugging", link: "https://oz-code.com/", imageUrl: "oz-code.png"}
-    # - {name: "RARR - UM", description: "", link: "", imageUrl: "rarr-um.jpg", class: "special-3"}
 
 -
   group: "Patronat honorowy"
   elements:
     - {name: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", description: "Prezydent Miasta Rzeszowa Tadeusz Ferenc", link: "", imageUrl: "prezydent.png"}
     - {name: "Marszałek Województwa Podkarpackiego", description: "Marszałek Województwa Podkarpackiego", link: "", imageUrl: "marszalek.png"}
-    # - {name: "Urząd Miasta Rzeszowa", description: "Urząd Miasta Rzeszowa", link: "http://www.rzeszow.pl/", imageUrl: "rzeszow.jpg"}
+    - {name: "Polska Agencja Kosmiczna", description: "Polska Agencja Kosmiczna", link: "", imageUrl: "pak.png"}
 -
   group: "Partnerzy medialni"
   elements:
     - {name: "Radio Via", description: "Radio Via", link: "http://www.radiovia.com.pl/", imageUrl: "radio-via.png"}
+    - {name: "Radio Centrum", description: "Radio Centrum", link: "http://radiocentrum.pl/", imageUrl: "radio-centrum.jpg"}
     - {name: "TVP 3 Rzeszów", description: "TVP 3 Rzeszów", link: "https://rzeszow.tvp.pl/", imageUrl: "tvp3.jpg"}
     - {name: "Mój Rzeszów", description: "Portal miejski", link: "http://mojrzeszow.pl/", imageUrl: "rzeszow-portal-miejski.png"}
     - {name: "Nowiny24", description: "Nowiny24", link: "https://nowiny24.pl", imageUrl: "nowiny24.jpg"}
     - {name: "Gazeta codzienna Nowiny", description: "Nowiny", link: "https://nowiny24.pl", imageUrl: "gazeta-nowiny.png"}
     - {name: "Gospodarka Podkarpacka", description: "Gospodarka Podkarpacka", link: "http://www.gospodarkapodkarpacka.pl/", imageUrl: "gospodarka-podkarpacka.png"}
     - {name: "FXMAG", description: "FXMAG", link: "https://www.fxmag.pl/", imageUrl: "fxmag.png"}
-    - {name: "MrDev", description: "Blog programisty", link: "https://mrdev.pl/", imageUrl: "mr-dev.png"}
     - {name: "Gazeta Bieszczadzka", description: "Gazeta bieszczadzka", link: "http://www.bieszczadzka24.pl", imageUrl: "gazeta_bieszczadzka.png"}
     - {name: "W Męskim Kręgu", description: "W Męskim Kręgu", link: "http://www.wmeskimkregu.pl", imageUrl: "wmk.png"}
     - {name: "Resinet.pl", description: "Resinet.pl - Rzeszowski portal informacyjny", link: "http://www.resinet.pl/", imageUrl: "resinet.png"}
