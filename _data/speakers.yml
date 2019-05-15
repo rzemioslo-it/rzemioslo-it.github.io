@@ -161,8 +161,9 @@
 
 -
   id: 12
-  name: "Prelegent"
-  surname: "Fabrity"
+  name: "Jakub"
+  surname: "Hossa"
   title: ""
   bio: >
-  thumbnailUrl: placeholder.png
+   <p>Jakub jest programistą .NET z rodziny fullstack’owatych, egzorcystą SharePoint i liderem rzeszowskiego zespołu developerów w FABRITY. Od czasów studenckich stara się rozwijać środowisko IT w stolicy Podkarpacia, najpierw jako lider Rzeszowskiej Grupy .NET, teraz w szeregach grupy rg-dev. Jego głównym obszarem zainteresowań są algorytmy genetyczne i zagadnienia związane z budowaniem i prowadzeniem zespołów.</p>
+  thumbnailUrl: jakub-hossa.jpg
