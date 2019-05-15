@@ -63,7 +63,7 @@
     }
     - {
         startTime: "15:10",
-        sessionIds: [007]
+        sessionIds: [007,013,404]
     }
     - {
         startTime: "16:10",

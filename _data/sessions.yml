@@ -229,9 +229,9 @@
   speakers: [6]
 -
   id: 008
-  title: Szczegóły już wkrótce...
+  title: Spice up your life with EQL
   description: >
-    Szczegóły już wkrótce...
+    EQL is a query language to make hierarchical selections of information from graphs. It's GraphQL's cooler brother and will help you solve problems you don't even realize you have. With your business domain modeled in graphs and your frontends built on rendering trees, EQL is the magic glue that connects the two. Warning: talk may include alien parens, healthy-dose of non-conformism, and may induce listener to functional programming.
   subtype: presentation
   speakers: [7]
 -
@@ -274,3 +274,10 @@
     <p>W karierze programisty prędzej czy później pojawia się moment, kiedy może wstąpić na wyboistą ścieżkę prowadzenia zespołu. Najczęściej jednak z różnych powodów zaczyna być tylko przełożonym, a nie liderem. W prezentacji odpowiem na pytanie skąd się biorą liderzy ze wskazaniem mechanizmów biologicznych, które wpływają na to jak jesteśmy postrzegani w grupie. Wskażę też drogę, jaką powinni obierać liderzy, aby ich współpracownicy, z którymi mają na co dzień do czynienia, czuli się dobrze w swojej organizacji.</p>
   subtype: presentation
   speakers: [12]
+-
+  id: 013
+  title: Startupy - Lightning talks 
+  description: >
+    Sesja złożona z krótkich występów (Lightning talks) podkarpackich startupów. Krótkie, inspirujące, zaskakujące.
+  subtype: presentation
+  speakers: []
