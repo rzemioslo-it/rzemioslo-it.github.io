@@ -28,6 +28,7 @@
     - {name: "RJUG", description: "Rzeszów Java User Group", link: "https://www.meetup.com/Rzeszow-Java-User-Group/", imageUrl: "rjug.png"}
     - {name: "RZEQA", description: "RZEQA", link: "http://rzeqa.pl/", imageUrl: "rzeqa.jpg"}
     - {name: "MrDev", description: "Blog programisty", link: "https://mrdev.pl/", imageUrl: "mr-dev.png"}
+    - {name: "REST Fest", description: "REST Fest", link: "https://2019.restfest.org/eu/", imageUrl: "rest-fest.png"}
 -
   group: "Pozostali partnerzy"
   elements:
