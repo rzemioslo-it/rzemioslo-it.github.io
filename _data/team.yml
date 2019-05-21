@@ -73,7 +73,7 @@
   name: "Michał"
   surname: "Ręczkowicz"
   title: "PrimeBit Studio"
-  thumbnailUrl: team-mre.jpg
+  thumbnailUrl: team-mre.png
   team: true
   ribbon:
     - {abbr: "PrimeBit Studio", title: "PrimeBit Studio"}
