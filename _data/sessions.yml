@@ -199,11 +199,12 @@
   speakers: [3]
 -
   id: 005
-  title: How does architect know?
+  title: "Panel dyskusyjny: Kto to jest senior developer?"
   description: >
-    I have an observation, that a lot of programmers do not have good opinion about their architects. On the other hand, most projects end up being legacy, so maybe there is something to it. Maybe we don’t need architects at all, just self organized teams? Or maybe the idea of an architect is actually a good one, but we just need better ones. Architects that make decisions not only on educated guesses, intuitions and hype, but also have structured design process, that is understandable to all team members and other stakeholders. On this presentation I will show you how this process can look like, so you can be one of those good architects.
+    Podczas tego panelu dyskusyjnego zaproszone osoby będą starały się odpowiedzieć kim tak naprawdę jest senior developer.
+    Moderator dyskusji: Maciej Rząsa
   subtype: presentation
-  speakers: [4]
+  speakers: []
 -
   id: 006
   title: Charbusters - 10 mitów o Unicode

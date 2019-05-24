@@ -37,21 +37,21 @@
     - {name: "twitter", link: "https://twitter.com/roninek"}
     - {name: "github", link: "https://github.com/ronin"}
     - {name: "facebook", link: "https://www.facebook.com/roninek"}
--
-  id: 4
-  name: "Łukasz"
-  surname: "Szydło"
-  title: ""
-  bio: >
-    <p>Programista/Architekt/Konsultant, fan “Software Craftsmanship” i zwinnego podejścia do wytwarzania oprogramowania.</p>
-    <p>Lubi proste rozwiązania skomplikowanych problemów. Na codzień zajmuje się tematami z zakresu architektury aplikacji biznesowych, Domain-Driven Design, Continuous Delivery, technologii Java oraz testowania automatycznego. Prywatnie mąż, ojciec szóstki dzieci.</p>
-    <p>Społecznie moderator w <a href="http://akademiafamilijna.pl/">akademiafamilijna.pl</a>.</p>
-  thumbnailUrl: lukasz-szydlo.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/łukasz-szydło-14754024/"}
-    - {name: "twitter", link: "https://twitter.com/lszydlo"}
-    - {name: "github", link: "https://github.com/lszydlo"}
+# -
+#   id: 4
+#   name: "Łukasz"
+#   surname: "Szydło"
+#   title: ""
+#   bio: >
+#     <p>Programista/Architekt/Konsultant, fan “Software Craftsmanship” i zwinnego podejścia do wytwarzania oprogramowania.</p>
+#     <p>Lubi proste rozwiązania skomplikowanych problemów. Na codzień zajmuje się tematami z zakresu architektury aplikacji biznesowych, Domain-Driven Design, Continuous Delivery, technologii Java oraz testowania automatycznego. Prywatnie mąż, ojciec szóstki dzieci.</p>
+#     <p>Społecznie moderator w <a href="http://akademiafamilijna.pl/">akademiafamilijna.pl</a>.</p>
+#   thumbnailUrl: lukasz-szydlo.jpg
+#   rockstar: true
+#   social:
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/łukasz-szydło-14754024/"}
+#     - {name: "twitter", link: "https://twitter.com/lszydlo"}
+#     - {name: "github", link: "https://github.com/lszydlo"}
 
 -
   id: 5

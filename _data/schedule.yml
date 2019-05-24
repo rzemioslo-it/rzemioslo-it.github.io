@@ -31,7 +31,7 @@
     }
     - {
         startTime: "09:10",
-        sessionIds: [001]
+        sessionIds: [007]
     }
     - {
         startTime: "10:10",
@@ -63,7 +63,7 @@
     }
     - {
         startTime: "15:10",
-        sessionIds: [007,013,404]
+        sessionIds: [001,013,404]
     }
     - {
         startTime: "16:10",
