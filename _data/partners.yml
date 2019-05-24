@@ -56,3 +56,4 @@
     - {name: "Magazyn LBQ", description: "Magazyn LBQ", link: "http://magazynlbq.pl", imageUrl: "magazyn-ludzi.jpg"}
     - {name: "Imperium Kobiet", description: "IKMAG", link: "https://www.ikmag.pl", imageUrl: "imperium-kobiet.jpg"}
     - {name: "ChallengeRocket", description: "ChallengeRocket", link: "http://bit.ly/2Yrzv9i", imageUrl: "challenge-rocket.jpg"}
+    - {name: "Przemyśl 24", description: "Przemyśl 24", link: "https://www.przemysl24.pl/", imageUrl: "przemysl24.png"}
